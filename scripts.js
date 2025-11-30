@@ -1,9 +1,9 @@
 $(document).ready(function () {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    const name = "VINCENT HUANG";
-    const student = "CS @ CORNELL";
+    const name = "JASON LI";
+    const student = "Software Engineering @ DREXEL";
     const music = "MUSIC LOVER";
-    const badminton = "BADMINTON PLAYER";
+    const badminton = "MUSIC LISTENER :)";
 
     let mouseOver = 0;
 
