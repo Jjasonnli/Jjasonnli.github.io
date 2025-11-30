@@ -3,7 +3,7 @@ $(document).ready(function () {
     const name = "JASON LI";
     const student = "Software Engineering @ DREXEL";
     const music = "MUSIC LOVER";
-    const badminton = "MUSIC LISTENER :)";
+    const car = "CAR ENTHUSIAST";
 
     let mouseOver = 0;
 
@@ -127,17 +127,17 @@ $(document).ready(function () {
                             clearInterval(interval);
                 
                             interval = setInterval(() => {
-                                event.target.innerText = badminton.split("")
+                                event.target.innerText = car.split("")
                                     .map((letter, index) => {
                                         if (index < iteration) {
-                                            return badminton.split("")[index];
+                                            return car.split("")[index];
                                         }
                 
                                         return letters[Math.floor(Math.random() * 26)];
                                     })
                                     .join("");
                 
-                                if (iteration >= badminton.split("").length) {
+                                if (iteration >= car.split("").length) {
                                     clearInterval(interval);
                                 }
                                 iteration += 1 / 2;
@@ -222,17 +222,17 @@ $(document).ready(function () {
             clearInterval(interval);
 
             interval = setInterval(() => {
-                event.target.innerText = badminton.split("")
+                event.target.innerText = car.split("")
                     .map((letter, index) => {
                         if (index < iteration) {
-                            return badminton.split("")[index];
+                            return car.split("")[index];
                         }
 
                         return letters[Math.floor(Math.random() * 26)];
                     })
                     .join("");
 
-                if (iteration >= badminton.split("").length) {
+                if (iteration >= car.split("").length) {
                     clearInterval(interval);
                     mouseOver++;
                 }
@@ -328,17 +328,17 @@ $(document).ready(function () {
                             clearInterval(interval);
                 
                             interval = setInterval(() => {
-                                event.target.innerText = badminton.split("")
+                                event.target.innerText = car.split("")
                                     .map((letter, index) => {
                                         if (index < iteration) {
-                                            return badminton.split("")[index];
+                                            return car.split("")[index];
                                         }
                 
                                         return letters[Math.floor(Math.random() * 26)];
                                     })
                                     .join("");
                 
-                                if (iteration >= badminton.split("").length) {
+                                if (iteration >= car.split("").length) {
                                     clearInterval(interval);
                                 }
                                 iteration += 1 / 2;
@@ -423,17 +423,17 @@ $(document).ready(function () {
             clearInterval(interval);
 
             interval = setInterval(() => {
-                event.target.innerText = badminton.split("")
+                event.target.innerText = car.split("")
                     .map((letter, index) => {
                         if (index < iteration) {
-                            return badminton.split("")[index];
+                            return car.split("")[index];
                         }
 
                         return letters[Math.floor(Math.random() * 26)];
                     })
                     .join("");
 
-                if (iteration >= badminton.split("").length) {
+                if (iteration >= car.split("").length) {
                     clearInterval(interval);
                     mouseOver++;
                 }
