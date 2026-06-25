@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jason Nutrition Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Nutrition tracker</p>
+        <h1>Calorie and Macro Dashboard</h1>
+      </div>
+      <div class="source-controls">
+        <label class="file-control">
+          <span>Load updated markdown</span>
+          <input id="markdown-file" type="file" accept=".md,.txt,text/markdown,text/plain" />
+        </label>
+        <button id="reset-data" type="button">Reload markdown</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-grid" aria-label="Nutrition summary">
+        <article class="metric">
+          <span>Logged days</span>
+          <strong id="logged-days">0</strong>
+          <small id="date-range">No entries</small>
+        </article>
+        <article class="metric">
+          <span>Average calories</span>
+          <strong id="avg-calories">0</strong>
+          <small id="calorie-target">Target: 0</small>
+        </article>
+        <article class="metric">
+          <span>Average protein</span>
+          <strong id="avg-protein">0g</strong>
+          <small id="protein-target">Target: 0g</small>
+        </article>
+        <article class="metric">
+          <span>Latest weight</span>
+          <strong id="latest-weight">-</strong>
+          <small id="latest-weight-date">No weigh-in</small>
+        </article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel trend-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Daily trend</p>
+              <h2>Calories by date</h2>
+            </div>
+            <div class="legend">
+              <span><i class="calories-key"></i>Calories</span>
+            </div>
+          </div>
+          <div id="trend-chart" class="trend-chart" aria-label="Daily calorie line chart"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Average split</p>
+              <h2>Macros</h2>
+            </div>
+          </div>
+          <div class="macro-bars">
+            <div class="macro-row">
+              <span>Protein</span>
+              <div class="bar-track"><div id="protein-bar" class="bar protein"></div></div>
+              <strong id="protein-share">0%</strong>
+            </div>
+            <div class="macro-row">
+              <span>Carbs</span>
+              <div class="bar-track"><div id="carbs-bar" class="bar carbs"></div></div>
+              <strong id="carbs-share">0%</strong>
+            </div>
+            <div class="macro-row">
+              <span>Fat</span>
+              <div class="bar-track"><div id="fat-bar" class="bar fat"></div></div>
+              <strong id="fat-share">0%</strong>
+            </div>
+          </div>
+          <dl class="insights">
+            <div>
+              <dt>Highest protein day</dt>
+              <dd id="highest-protein">-</dd>
+            </div>
+            <div>
+              <dt>Highest calorie day</dt>
+              <dd id="highest-calorie">-</dd>
+            </div>
+            <div>
+              <dt>Days under calorie target</dt>
+              <dd id="under-target">-</dd>
+            </div>
+          </dl>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading table-heading">
+          <div>
+            <p class="eyebrow">Food log</p>
+            <h2>Entries</h2>
+          </div>
+          <select id="date-filter" aria-label="Filter by date"></select>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Food</th>
+                <th>Amount</th>
+                <th>Basis</th>
+                <th>Calories</th>
+                <th>Protein</th>
+                <th>Carbs</th>
+                <th>Fat</th>
+              </tr>
+            </thead>
+            <tbody id="food-table"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="dashboard.js"></script>
+  </body>
+</html>
