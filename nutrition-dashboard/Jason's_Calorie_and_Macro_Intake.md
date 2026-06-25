@@ -24,6 +24,7 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-20 | 162.6 lb |
 | 2026-06-21 | 165 lb |
 | 2026-06-23 | 166 lb |
+| 2026-06-25 | 164.6 lb |
 
 ## Daily Log
 
