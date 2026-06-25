@@ -104,3 +104,13 @@ Use this file to track daily food intake, calories, and macros.
 | Beef soup with mushrooms and dried mussels | 150g | Prepared | 60 | 6.0 | 4.0 | 2.0 | Rough estimate for broth plus mushrooms and dried mussels |
 
 **Daily Total:** 1816 calories, 182.4g protein, 156.8g carbs, 47.8g fat
+
+### 2026-06-25
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sticky rice | 360g | Cooked | 350 | 7.3 | 76.0 | 0.7 | Estimated from standard cooked glutinous rice nutrition |
+| Chicken breast | 499g | Boiled/cooked | 823 | 154.7 | 0.0 | 18.0 | Estimated as cooked skinless chicken breast |
+| Broccoli | 185g | Boiled | 65 | 4.4 | 13.3 | 0.7 | Estimated from standard boiled broccoli nutrition |
+
+**Daily Total:** 1238 calories, 166.4g protein, 89.3g carbs, 19.4g fat
