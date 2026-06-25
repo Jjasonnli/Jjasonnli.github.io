@@ -50,13 +50,31 @@
           <div class="panel-heading">
             <div>
               <p class="eyebrow">Daily trend</p>
-              <h2>Calories by date</h2>
+              <h2 id="trend-title-text">Calories by date</h2>
             </div>
-            <div class="legend">
-              <span><i class="calories-key"></i>Calories</span>
+            <div class="trend-controls">
+              <div class="chart-controls" aria-label="Trend metric">
+                <button class="metric-toggle active" type="button" data-trend-metric="calories">Calories</button>
+                <button class="metric-toggle" type="button" data-trend-metric="protein">Protein</button>
+              </div>
+              <div class="chart-controls" aria-label="Trend date range">
+                <button class="range-toggle active" type="button" data-trend-range="7">Last 7 days</button>
+                <button class="range-toggle" type="button" data-trend-range="month">Last month</button>
+                <button class="range-toggle" type="button" data-trend-range="custom">Select range</button>
+              </div>
+              <div id="custom-range" class="custom-range" hidden>
+                <label>
+                  <span>Start</span>
+                  <input id="trend-start-date" type="date" />
+                </label>
+                <label>
+                  <span>End</span>
+                  <input id="trend-end-date" type="date" />
+                </label>
+              </div>
             </div>
           </div>
-          <div id="trend-chart" class="trend-chart" aria-label="Daily calorie line chart"></div>
+          <div id="trend-chart" class="trend-chart" aria-label="Daily nutrition line chart"></div>
         </article>
 
         <article class="panel">

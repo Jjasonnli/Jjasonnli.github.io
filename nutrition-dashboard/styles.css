@@ -164,24 +164,21 @@ td {
   margin-bottom: 18px;
 }
 
-.legend {
+.trend-controls {
   display: flex;
-  gap: 14px;
-  color: var(--muted);
-  font-size: 0.9rem;
-  white-space: nowrap;
+  align-items: end;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
-.legend i {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  margin-right: 6px;
-  border-radius: 999px;
-}
-
-.calories-key {
-  background: var(--red);
+.chart-controls {
+  display: flex;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  background: #f3ecdf;
+  gap: 3px;
 }
 
 .trend-chart {
@@ -207,18 +204,78 @@ td {
   stroke-width: 1.5;
 }
 
-.calorie-line {
+.trend-line {
   fill: none;
-  stroke: var(--red);
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 3;
 }
 
-.calorie-dot {
-  fill: var(--panel);
+.trend-line.calories,
+.trend-dot.calories {
   stroke: var(--red);
+}
+
+.trend-line.protein,
+.trend-dot.protein {
+  stroke: var(--green);
+}
+
+.trend-dot {
+  fill: var(--panel);
   stroke-width: 3;
+}
+
+.metric-toggle {
+  min-height: 32px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+}
+
+.range-toggle {
+  min-height: 32px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+}
+
+.metric-toggle.active,
+.range-toggle.active {
+  background: var(--panel);
+  color: var(--ink);
+  box-shadow: 0 1px 4px rgba(44, 38, 26, 0.12);
+}
+
+.custom-range {
+  display: flex;
+  gap: 8px;
+  align-items: end;
+}
+
+.custom-range[hidden] {
+  display: none;
+}
+
+.custom-range label {
+  display: grid;
+  gap: 4px;
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.custom-range input {
+  min-height: 38px;
+  width: 140px;
+  padding: 0 8px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--panel);
+  color: var(--ink);
 }
 
 .axis-label,
@@ -339,6 +396,12 @@ td:nth-child(8) {
   white-space: nowrap;
 }
 
+.daily-total-row td {
+  border-top: 2px solid var(--ink);
+  color: var(--ink);
+  font-weight: 800;
+}
+
 @media (max-width: 860px) {
   .topbar {
     align-items: start;
@@ -350,12 +413,24 @@ td:nth-child(8) {
     grid-template-columns: 1fr;
   }
 
-  .trend-chart {
-    grid-template-columns: repeat(var(--days), minmax(48px, 1fr));
+  .panel-heading {
+    flex-wrap: wrap;
   }
 
-  .legend {
-    flex-direction: column;
-    gap: 4px;
+  .chart-controls {
+    width: 100%;
+  }
+
+  .trend-controls,
+  .custom-range {
+    width: 100%;
+  }
+
+  .custom-range label {
+    flex: 1;
+  }
+
+  .custom-range input {
+    width: 100%;
   }
 }

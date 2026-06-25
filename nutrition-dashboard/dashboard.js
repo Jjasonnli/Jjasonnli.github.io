@@ -1,6 +1,26 @@
 const TRACKER_FILE = "Jason's_Calorie_and_Macro_Intake.md";
+const trendMetrics = {
+  calories: {
+    label: "Calories",
+    heading: "Calories by date",
+    unit: "calories",
+    tickSize: 300,
+    valueKey: "calories",
+    valueDigits: 0,
+  },
+  protein: {
+    label: "Protein",
+    heading: "Protein by date",
+    unit: "grams",
+    tickSize: 25,
+    valueKey: "protein",
+    valueDigits: 1,
+  },
+};
 
 let currentData = null;
+let activeTrendMetric = "calories";
+let activeTrendRange = "7";
 
 const formatNumber = (value, digits = 0) =>
   Number(value).toLocaleString(undefined, {
@@ -124,7 +144,6 @@ function average(items, key) {
 
 function renderDashboard(data) {
   const { days, weights, targets } = data;
-  const allFoods = days.flatMap((day) => day.foods);
   const avgCalories = average(days, "calories");
   const avgProtein = average(days, "protein");
   const avgCarbs = average(days, "carbs");
@@ -142,40 +161,113 @@ function renderDashboard(data) {
   document.getElementById("latest-weight").textContent = latestWeight?.weight || "-";
   document.getElementById("latest-weight-date").textContent = latestWeight ? latestWeight.date : "No weigh-in";
 
-  renderTrend(days, targets);
+  updateRangeInputs(days);
+  renderTrend(days, activeTrendMetric);
   renderMacros(avgProtein, avgCarbs, avgFat);
   renderInsights(days, targets);
   renderDateFilter(days);
-  renderFoodTable(allFoods);
+  renderFoodTable(days);
 }
 
-function renderTrend(days) {
+function toDate(dateString) {
+  const [year, month, day] = dateString.split("-").map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function toDateString(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function offsetDays(date, days) {
+  const next = new Date(date);
+  next.setDate(next.getDate() + days);
+  return next;
+}
+
+function getFilteredTrendDays(days) {
+  if (!days.length) return [];
+
+  const sortedDays = [...days].sort((a, b) => a.date.localeCompare(b.date));
+  const latestDate = toDate(sortedDays.at(-1).date);
+  let startDate = null;
+  let endDate = latestDate;
+
+  if (activeTrendRange === "7") {
+    startDate = offsetDays(latestDate, -6);
+  } else if (activeTrendRange === "month") {
+    startDate = offsetDays(latestDate, -29);
+  } else {
+    const startInput = document.getElementById("trend-start-date").value;
+    const endInput = document.getElementById("trend-end-date").value;
+    startDate = startInput ? toDate(startInput) : toDate(sortedDays[0].date);
+    endDate = endInput ? toDate(endInput) : latestDate;
+  }
+
+  if (startDate > endDate) {
+    [startDate, endDate] = [endDate, startDate];
+  }
+
+  return sortedDays.filter((day) => {
+    const date = toDate(day.date);
+    return date >= startDate && date <= endDate;
+  });
+}
+
+function updateRangeInputs(days) {
+  const startInput = document.getElementById("trend-start-date");
+  const endInput = document.getElementById("trend-end-date");
+  if (!days.length) return;
+
+  const sortedDays = [...days].sort((a, b) => a.date.localeCompare(b.date));
+  startInput.min = sortedDays[0].date;
+  startInput.max = sortedDays.at(-1).date;
+  endInput.min = sortedDays[0].date;
+  endInput.max = sortedDays.at(-1).date;
+
+  if (!startInput.value || startInput.value < startInput.min || startInput.value > startInput.max) {
+    startInput.value = sortedDays[0].date;
+  }
+
+  if (!endInput.value || endInput.value < endInput.min || endInput.value > endInput.max) {
+    endInput.value = sortedDays.at(-1).date;
+  }
+}
+
+function renderTrend(days, metricName = "calories") {
   const chart = document.getElementById("trend-chart");
-  if (!days.length) {
-    chart.innerHTML = '<p class="empty-chart">No daily calorie data yet.</p>';
+  const metric = trendMetrics[metricName] || trendMetrics.calories;
+  const trendDays = getFilteredTrendDays(days);
+  document.getElementById("trend-title-text").textContent = metric.heading;
+
+  if (!trendDays.length) {
+    chart.innerHTML = `<p class="empty-chart">No daily ${metric.label.toLowerCase()} data in this range.</p>`;
     return;
   }
 
-  const width = Math.max(720, days.length * 96);
+  const width = Math.max(720, trendDays.length * 96);
   const height = 360;
   const padding = { top: 22, right: 28, bottom: 52, left: 62 };
   const plotWidth = width - padding.left - padding.right;
   const plotHeight = height - padding.top - padding.bottom;
-  const maxCalories = Math.max(...days.map((day) => day.totals.calories));
-  const yMax = Math.max(300, Math.ceil(maxCalories / 300) * 300);
-  const xStep = days.length > 1 ? plotWidth / (days.length - 1) : 0;
-  const yTicks = Array.from({ length: yMax / 300 + 1 }, (_, index) => index * 300);
-  const points = days.map((day, index) => {
-    const x = padding.left + (days.length > 1 ? index * xStep : plotWidth / 2);
-    const y = padding.top + plotHeight - (day.totals.calories / yMax) * plotHeight;
-    return { ...day, x, y };
+  const maxValue = Math.max(...trendDays.map((day) => day.totals[metric.valueKey]));
+  const yMax = Math.max(metric.tickSize, Math.ceil(maxValue / metric.tickSize) * metric.tickSize);
+  const xStep = trendDays.length > 1 ? plotWidth / (trendDays.length - 1) : 0;
+  const yTicks = Array.from({ length: yMax / metric.tickSize + 1 }, (_, index) => index * metric.tickSize);
+  const points = trendDays.map((day, index) => {
+    const value = day.totals[metric.valueKey];
+    const x = padding.left + (trendDays.length > 1 ? index * xStep : plotWidth / 2);
+    const y = padding.top + plotHeight - (value / yMax) * plotHeight;
+    return { ...day, value, x, y };
   });
   const pointString = points.map((point) => `${point.x},${point.y}`).join(" ");
 
   chart.innerHTML = `
     <svg class="line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="trend-title trend-desc">
-      <title id="trend-title">Daily calorie trend</title>
-      <desc id="trend-desc">Line chart showing calories by date with 300-calorie y-axis increments.</desc>
+      <title id="trend-title">Daily ${metric.label.toLowerCase()} trend</title>
+      <desc id="trend-desc">Line chart showing ${metric.label.toLowerCase()} by date with ${metric.tickSize}-${metric.unit} y-axis increments.</desc>
       ${yTicks
         .map((tick) => {
           const y = padding.top + plotHeight - (tick / yMax) * plotHeight;
@@ -187,13 +279,13 @@ function renderTrend(days) {
         .join("")}
       <line class="axis-line" x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${height - padding.bottom}"></line>
       <line class="axis-line" x1="${padding.left}" y1="${height - padding.bottom}" x2="${width - padding.right}" y2="${height - padding.bottom}"></line>
-      <polyline class="calorie-line" points="${pointString}"></polyline>
+      <polyline class="trend-line ${metricName}" points="${pointString}"></polyline>
       ${points
         .map(
           (point) => `
             <g>
-              <circle class="calorie-dot" cx="${point.x}" cy="${point.y}" r="5"></circle>
-              <text class="point-value" x="${point.x}" y="${point.y - 12}">${formatNumber(point.totals.calories)}</text>
+              <circle class="trend-dot ${metricName}" cx="${point.x}" cy="${point.y}" r="5"></circle>
+              <text class="point-value" x="${point.x}" y="${point.y - 12}">${formatNumber(point.value, metric.valueDigits)}</text>
               <text class="axis-label x-label" x="${point.x}" y="${height - 20}">${point.date.slice(5)}</text>
             </g>
           `
@@ -234,7 +326,7 @@ function renderInsights(days, targets) {
 
 function renderDateFilter(days) {
   const filter = document.getElementById("date-filter");
-  const previous = filter.value || "all";
+  const previous = filter.value;
   filter.innerHTML = '<option value="all">All dates</option>';
 
   for (const day of days) {
@@ -244,14 +336,16 @@ function renderDateFilter(days) {
     filter.appendChild(option);
   }
 
-  filter.value = [...filter.options].some((option) => option.value === previous) ? previous : "all";
+  const hasPrevious = [...filter.options].some((option) => option.value === previous);
+  filter.value = hasPrevious ? previous : days.at(-1)?.date || "all";
 }
 
-function renderFoodTable(foods) {
+function renderFoodTable(days) {
   const filterValue = document.getElementById("date-filter").value;
-  const rows = filterValue === "all" ? foods : foods.filter((food) => food.date === filterValue);
+  const selectedDay = days.find((day) => day.date === filterValue);
+  const rows = filterValue === "all" ? days.flatMap((day) => day.foods) : selectedDay?.foods || [];
   const table = document.getElementById("food-table");
-  table.innerHTML = rows
+  const foodRows = rows
     .map(
       (food) => `
         <tr>
@@ -267,6 +361,21 @@ function renderFoodTable(foods) {
       `
     )
     .join("");
+  const totalRow =
+    filterValue !== "all" && selectedDay
+      ? `
+        <tr class="daily-total-row">
+          <td>${escapeHtml(selectedDay.date)}</td>
+          <td colspan="3">Daily total</td>
+          <td>${formatNumber(selectedDay.totals.calories)}</td>
+          <td>${formatNumber(selectedDay.totals.protein, 1)}g</td>
+          <td>${formatNumber(selectedDay.totals.carbs, 1)}g</td>
+          <td>${formatNumber(selectedDay.totals.fat, 1)}g</td>
+        </tr>
+      `
+      : "";
+
+  table.innerHTML = foodRows + totalRow;
 }
 
 function renderLoadError(error) {
@@ -293,10 +402,51 @@ async function loadAndRenderTracker() {
 
 document.getElementById("date-filter").addEventListener("change", () => {
   if (!currentData) return;
-  renderFoodTable(currentData.days.flatMap((day) => day.foods));
+  renderFoodTable(currentData.days);
 });
 
 document.getElementById("reset-data").addEventListener("click", loadAndRenderTracker);
+
+document.querySelectorAll("[data-trend-metric]").forEach((button) => {
+  button.addEventListener("click", () => {
+    activeTrendMetric = button.dataset.trendMetric;
+    document.querySelectorAll("[data-trend-metric]").forEach((item) => {
+      item.classList.toggle("active", item === button);
+    });
+
+    if (currentData) {
+      renderTrend(currentData.days, activeTrendMetric);
+    }
+  });
+});
+
+document.querySelectorAll("[data-trend-range]").forEach((button) => {
+  button.addEventListener("click", () => {
+    activeTrendRange = button.dataset.trendRange;
+    document.getElementById("custom-range").hidden = activeTrendRange !== "custom";
+    document.querySelectorAll("[data-trend-range]").forEach((item) => {
+      item.classList.toggle("active", item === button);
+    });
+
+    if (currentData) {
+      renderTrend(currentData.days, activeTrendMetric);
+    }
+  });
+});
+
+document.querySelectorAll("#trend-start-date, #trend-end-date").forEach((input) => {
+  input.addEventListener("change", () => {
+    activeTrendRange = "custom";
+    document.getElementById("custom-range").hidden = false;
+    document.querySelectorAll("[data-trend-range]").forEach((item) => {
+      item.classList.toggle("active", item.dataset.trendRange === "custom");
+    });
+
+    if (currentData) {
+      renderTrend(currentData.days, activeTrendMetric);
+    }
+  });
+});
 
 document.getElementById("markdown-file").addEventListener("change", async (event) => {
   const [file] = event.target.files;
