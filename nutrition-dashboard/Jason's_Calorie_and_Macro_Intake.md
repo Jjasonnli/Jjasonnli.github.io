@@ -118,3 +118,11 @@ Use this file to track daily food intake, calories, and macros.
 | Bean paste with jalapenos | Some, estimated 2 tbsp | Prepared | 60 | 3.0 | 7.0 | 2.0 | Rough estimate for a small serving of bean paste with jalapenos |
 
 **Daily Total:** 1993 calories, 245.4g protein, 141.3g carbs, 45.7g fat
+
+### 2026-06-26
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chinese siu mai dumplings | 840g, about 30 pieces | Prepared | 1740 | 105.0 | 84.0 | 114.0 | Based on Jason-provided label: 174 calories, 10.5g protein, 8.4g carbs, 11.4g fat per 84g serving; 840g equals 10 servings |
+
+**Daily Total:** 1740 calories, 105.0g protein, 84.0g carbs, 114.0g fat
