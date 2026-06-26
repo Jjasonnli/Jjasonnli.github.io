@@ -112,5 +112,9 @@ Use this file to track daily food intake, calories, and macros.
 | Sticky rice | 360g | Cooked | 350 | 7.3 | 76.0 | 0.7 | Estimated from standard cooked glutinous rice nutrition |
 | Chicken breast | 499g | Boiled/cooked | 823 | 154.7 | 0.0 | 18.0 | Estimated as cooked skinless chicken breast |
 | Broccoli | 185g | Boiled | 65 | 4.4 | 13.3 | 0.7 | Estimated from standard boiled broccoli nutrition |
+| Panda Express Grilled Teriyaki Chicken | 2 servings | Prepared | 550 | 66.0 | 28.0 | 20.0 | Official Panda Express nutrition: 2 x grilled teriyaki chicken entree servings |
+| Panda Express Super Greens | 1 side | Prepared | 130 | 9.0 | 14.0 | 4.0 | Official Panda Express nutrition for one Super Greens side |
+| Kimchi | 50g | Prepared | 15 | 1.0 | 3.0 | 0.3 | Estimated from standard kimchi nutrition |
+| Bean paste with jalapenos | Some, estimated 2 tbsp | Prepared | 60 | 3.0 | 7.0 | 2.0 | Rough estimate for a small serving of bean paste with jalapenos |
 
-**Daily Total:** 1238 calories, 166.4g protein, 89.3g carbs, 19.4g fat
+**Daily Total:** 1993 calories, 245.4g protein, 141.3g carbs, 45.7g fat
