@@ -16,6 +16,15 @@ const trendMetrics = {
     valueKey: "protein",
     valueDigits: 1,
   },
+  weight: {
+    label: "Weight",
+    heading: "Weight by date",
+    unit: "pounds",
+    tickSize: 1,
+    valueKey: "weight",
+    valueDigits: 1,
+    startAtZero: false,
+  },
 };
 
 let currentData = null;
@@ -161,8 +170,7 @@ function renderDashboard(data) {
   document.getElementById("latest-weight").textContent = latestWeight?.weight || "-";
   document.getElementById("latest-weight-date").textContent = latestWeight ? latestWeight.date : "No weigh-in";
 
-  updateRangeInputs(days);
-  renderTrend(days, activeTrendMetric);
+  renderActiveTrend(data);
   renderMacros(avgProtein, avgCarbs, avgFat);
   renderInsights(days, targets);
   renderDateFilter(days);
@@ -187,24 +195,41 @@ function offsetDays(date, days) {
   return next;
 }
 
+function getTrendEntries(data, metricName) {
+  if (metricName === "weight") {
+    return data.weights
+      .map((entry) => ({
+        date: entry.date,
+        totals: { weight: toNumber(entry.weight) },
+      }))
+      .filter((entry) => entry.totals.weight > 0);
+  }
+
+  return data.days;
+}
+
+function renderActiveTrend(data) {
+  const entries = getTrendEntries(data, activeTrendMetric);
+  updateRangeInputs(entries);
+  renderTrend(entries, activeTrendMetric);
+}
+
 function getFilteredTrendDays(days) {
   if (!days.length) return [];
-
   const sortedDays = [...days].sort((a, b) => a.date.localeCompare(b.date));
-  const latestDate = toDate(sortedDays.at(-1).date);
-  let startDate = null;
-  let endDate = latestDate;
 
   if (activeTrendRange === "7") {
-    startDate = offsetDays(latestDate, -6);
-  } else if (activeTrendRange === "month") {
-    startDate = offsetDays(latestDate, -29);
-  } else {
-    const startInput = document.getElementById("trend-start-date").value;
-    const endInput = document.getElementById("trend-end-date").value;
-    startDate = startInput ? toDate(startInput) : toDate(sortedDays[0].date);
-    endDate = endInput ? toDate(endInput) : latestDate;
+    return sortedDays.slice(-7);
   }
+
+  if (activeTrendRange === "month") {
+    return sortedDays.slice(-30);
+  }
+
+  const startInput = document.getElementById("trend-start-date").value;
+  const endInput = document.getElementById("trend-end-date").value;
+  let startDate = startInput ? toDate(startInput) : toDate(sortedDays[0].date);
+  let endDate = endInput ? toDate(endInput) : toDate(sortedDays.at(-1).date);
 
   if (startDate > endDate) {
     [startDate, endDate] = [endDate, startDate];
@@ -247,22 +272,34 @@ function renderTrend(days, metricName = "calories") {
     return;
   }
 
-  const width = Math.max(720, trendDays.length * 96);
+  const width = activeTrendRange === "month" ? 720 : Math.max(720, trendDays.length * 96);
   const height = 360;
   const padding = { top: 22, right: 28, bottom: 52, left: 62 };
   const plotWidth = width - padding.left - padding.right;
   const plotHeight = height - padding.top - padding.bottom;
+  const minValue = Math.min(...trendDays.map((day) => day.totals[metric.valueKey]));
   const maxValue = Math.max(...trendDays.map((day) => day.totals[metric.valueKey]));
-  const yMax = Math.max(metric.tickSize, Math.ceil(maxValue / metric.tickSize) * metric.tickSize);
+  const yMin = metric.startAtZero === false
+    ? Math.floor((minValue - metric.tickSize) / metric.tickSize) * metric.tickSize
+    : 0;
+  const yMax = Math.max(
+    yMin + metric.tickSize,
+    Math.ceil((maxValue + (metric.startAtZero === false ? metric.tickSize : 0)) / metric.tickSize) * metric.tickSize
+  );
   const xStep = trendDays.length > 1 ? plotWidth / (trendDays.length - 1) : 0;
-  const yTicks = Array.from({ length: yMax / metric.tickSize + 1 }, (_, index) => index * metric.tickSize);
+  const yTicks = Array.from(
+    { length: Math.round((yMax - yMin) / metric.tickSize) + 1 },
+    (_, index) => yMin + index * metric.tickSize
+  );
   const points = trendDays.map((day, index) => {
     const value = day.totals[metric.valueKey];
     const x = padding.left + (trendDays.length > 1 ? index * xStep : plotWidth / 2);
-    const y = padding.top + plotHeight - (value / yMax) * plotHeight;
+    const y = padding.top + plotHeight - ((value - yMin) / (yMax - yMin)) * plotHeight;
     return { ...day, value, x, y };
   });
   const pointString = points.map((point) => `${point.x},${point.y}`).join(" ");
+  const xLabelInterval = Math.max(1, Math.ceil(points.length / 8));
+  const showPointValues = activeTrendRange !== "month" || points.length <= 10;
 
   chart.innerHTML = `
     <svg class="line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="trend-title trend-desc">
@@ -270,7 +307,7 @@ function renderTrend(days, metricName = "calories") {
       <desc id="trend-desc">Line chart showing ${metric.label.toLowerCase()} by date with ${metric.tickSize}-${metric.unit} y-axis increments.</desc>
       ${yTicks
         .map((tick) => {
-          const y = padding.top + plotHeight - (tick / yMax) * plotHeight;
+          const y = padding.top + plotHeight - ((tick - yMin) / (yMax - yMin)) * plotHeight;
           return `
             <line class="gridline" x1="${padding.left}" y1="${y}" x2="${width - padding.right}" y2="${y}"></line>
             <text class="axis-label y-label" x="${padding.left - 12}" y="${y + 4}">${formatNumber(tick)}</text>
@@ -282,11 +319,12 @@ function renderTrend(days, metricName = "calories") {
       <polyline class="trend-line ${metricName}" points="${pointString}"></polyline>
       ${points
         .map(
-          (point) => `
+          (point, index) => `
             <g>
+              <title>${point.date}: ${formatNumber(point.value, metric.valueDigits)} ${metric.unit}</title>
               <circle class="trend-dot ${metricName}" cx="${point.x}" cy="${point.y}" r="5"></circle>
-              <text class="point-value" x="${point.x}" y="${point.y - 12}">${formatNumber(point.value, metric.valueDigits)}</text>
-              <text class="axis-label x-label" x="${point.x}" y="${height - 20}">${point.date.slice(5)}</text>
+              ${showPointValues ? `<text class="point-value" x="${point.x}" y="${point.y - 12}">${formatNumber(point.value, metric.valueDigits)}</text>` : ""}
+              ${index % xLabelInterval === 0 || index === points.length - 1 ? `<text class="axis-label x-label" x="${point.x}" y="${height - 20}">${point.date.slice(5)}</text>` : ""}
             </g>
           `
         )
@@ -302,11 +340,36 @@ function renderMacros(protein, carbs, fat) {
     carbs: caloriesFromMacros ? (carbs * 4) / caloriesFromMacros : 0,
     fat: caloriesFromMacros ? (fat * 9) / caloriesFromMacros : 0,
   };
+  const percentages = Object.fromEntries(
+    Object.entries(shares).map(([macro, share]) => [macro, Math.round(share * 100)])
+  );
+  const proteinEnd = shares.protein * 100;
+  const carbsEnd = proteinEnd + shares.carbs * 100;
+  const pie = document.getElementById("macro-pie");
 
+  pie.style.background = caloriesFromMacros
+    ? `conic-gradient(var(--green) 0 ${proteinEnd}%, var(--blue) ${proteinEnd}% ${carbsEnd}%, var(--gold) ${carbsEnd}% 100%)`
+    : "#ebe5d9";
+  pie.setAttribute(
+    "aria-label",
+    caloriesFromMacros
+      ? `Average macro split: ${percentages.protein}% protein, ${percentages.carbs}% carbs, ${percentages.fat}% fat`
+      : "No macro data"
+  );
+
+  let sliceStart = 0;
   for (const macro of Object.keys(shares)) {
-    const percent = Math.round(shares[macro] * 100);
-    document.getElementById(`${macro}-bar`).style.width = `${percent}%`;
-    document.getElementById(`${macro}-share`).textContent = `${percent}%`;
+    const label = document.getElementById(`${macro}-pie-label`);
+    const sliceMidpoint = sliceStart + shares[macro] / 2;
+    const angle = sliceMidpoint * Math.PI * 2 - Math.PI / 2;
+    label.style.left = `${50 + Math.cos(angle) * 31}%`;
+    label.style.top = `${50 + Math.sin(angle) * 31}%`;
+    label.hidden = shares[macro] === 0;
+    sliceStart += shares[macro];
+  }
+
+  for (const macro of Object.keys(percentages)) {
+    document.getElementById(`${macro}-share`).textContent = `${percentages[macro]}%`;
   }
 }
 
@@ -415,7 +478,7 @@ document.querySelectorAll("[data-trend-metric]").forEach((button) => {
     });
 
     if (currentData) {
-      renderTrend(currentData.days, activeTrendMetric);
+      renderActiveTrend(currentData);
     }
   });
 });
@@ -429,7 +492,7 @@ document.querySelectorAll("[data-trend-range]").forEach((button) => {
     });
 
     if (currentData) {
-      renderTrend(currentData.days, activeTrendMetric);
+      renderActiveTrend(currentData);
     }
   });
 });
@@ -443,7 +506,7 @@ document.querySelectorAll("#trend-start-date, #trend-end-date").forEach((input) 
     });
 
     if (currentData) {
-      renderTrend(currentData.days, activeTrendMetric);
+      renderActiveTrend(currentData);
     }
   });
 });

@@ -4,13 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Jason Nutrition Dashboard</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=20260627-macro-pie-labels" />
   </head>
   <body>
     <header class="topbar">
       <div>
         <p class="eyebrow">Nutrition tracker</p>
-        <h1>Calorie and Macro Dashboard</h1>
+        <h1>Nutrition Dashboard</h1>
       </div>
       <div class="source-controls">
         <label class="file-control">
@@ -56,6 +56,7 @@
               <div class="chart-controls" aria-label="Trend metric">
                 <button class="metric-toggle active" type="button" data-trend-metric="calories">Calories</button>
                 <button class="metric-toggle" type="button" data-trend-metric="protein">Protein</button>
+                <button class="metric-toggle" type="button" data-trend-metric="weight">Weight</button>
               </div>
               <div class="chart-controls" aria-label="Trend date range">
                 <button class="range-toggle active" type="button" data-trend-range="7">Last 7 days</button>
@@ -84,21 +85,28 @@
               <h2>Macros</h2>
             </div>
           </div>
-          <div class="macro-bars">
-            <div class="macro-row">
-              <span>Protein</span>
-              <div class="bar-track"><div id="protein-bar" class="bar protein"></div></div>
-              <strong id="protein-share">0%</strong>
+          <div class="macro-pie-layout">
+            <div id="macro-pie" class="macro-pie" role="img" aria-label="No macro data">
+              <span id="protein-pie-label" class="macro-slice-label protein">Protein</span>
+              <span id="carbs-pie-label" class="macro-slice-label carbs">Carbs</span>
+              <span id="fat-pie-label" class="macro-slice-label fat">Fat</span>
             </div>
-            <div class="macro-row">
-              <span>Carbs</span>
-              <div class="bar-track"><div id="carbs-bar" class="bar carbs"></div></div>
-              <strong id="carbs-share">0%</strong>
-            </div>
-            <div class="macro-row">
-              <span>Fat</span>
-              <div class="bar-track"><div id="fat-bar" class="bar fat"></div></div>
-              <strong id="fat-share">0%</strong>
+            <div class="macro-legend" aria-label="Average macro percentages">
+              <div class="macro-legend-row">
+                <span class="macro-swatch protein" aria-hidden="true"></span>
+                <span>Protein</span>
+                <strong id="protein-share">0%</strong>
+              </div>
+              <div class="macro-legend-row">
+                <span class="macro-swatch carbs" aria-hidden="true"></span>
+                <span>Carbs</span>
+                <strong id="carbs-share">0%</strong>
+              </div>
+              <div class="macro-legend-row">
+                <span class="macro-swatch fat" aria-hidden="true"></span>
+                <span>Fat</span>
+                <strong id="fat-share">0%</strong>
+              </div>
             </div>
           </div>
           <dl class="insights">
@@ -146,6 +154,6 @@
       </section>
     </main>
 
-    <script src="dashboard.js"></script>
+    <script src="dashboard.js?v=20260627-macro-pie-labels"></script>
   </body>
 </html>

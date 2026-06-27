@@ -1,0 +1,190 @@
+%-------------------------
+% Resume in Latex
+% Author : Jason Li
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Jason Li} \\ \vspace{1pt}
+    \small U.S. Citizen $|$ (267) 616-2315 $|$ 
+    \href{mailto:jl4539@drexel.edu}{\underline{jl4539@drexel.edu}} $|$ 
+    \href{https://linkedin.com/in/jjasonnli/}{\underline{linkedin.com/in/jjasonnli/}} $|$ 
+    \href{https://github.com/Jjasonnli}{\underline{github.com/Jjasonnli}} $|$ 
+    \href{https://jjasonnli.github.io/}{\underline{jjasonnli.github.io/}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Drexel University}{Philadelphia, PA}
+      {Bachelor of Science in Software Engineering (GPA: 3.15)}{Anticipated Graduation: June 2027}
+      \resumeItemListStart
+        \resumeItem{Member, Society of Asian Scientists and Engineers, Fall 2022 - Present}
+        \resumeItem{Relevant Coursework: Software Specification and Design 1-2, Discrete Mathematics, Database Management Systems, Data Structures and Algorithms, Systems and Software Architecture}
+      \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+    \textbf{Languages}{: Java, Python, C, JavaScript, HTML/CSS, Bash, SQL, LaTeX} \\
+    \textbf{Skills}{: PySpark, AWS Glue, Informatica, Boomi, AWS, Microsoft Office} \\
+    \textbf{Developer Tools}{: Cursor, Linux, Git, GitHub, Vim, IntelliJ, SQL Developer}
+  }}
+\end{itemize}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+      \resumeSubheading
+      {\textbf{National Board of Medical Examiners}}{March 2025 - Present}
+      {Data Engineer}{Philadelphia, PA}
+      \resumeItemListStart
+        \resumeItem{Engineered AWS Lambda functions and Glue ETL jobs to transform and load Salesforce and SurveyMonkey data into Amazon S3 for downstream analytics and reporting workflows}
+        \resumeItem{Developed Python automation scripts to support decommissioning of 3,000+ legacy MicroStrategy reports, reducing manual effort and accelerating migration efforts}
+        \resumeItem{Utilized GitHub for CDK development and deployment workflows, leveraging CI/CD pipelines to maintain quality control and ensure reliable code integration}
+        \resumeItem{Optimized Glue jobs and Lambda functions to improve runtime efficiency, reduce operational costs, and enhance pipeline performance}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%----------- PROJECT EXPERIENCE-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {\textbf{Game Desktop Application} $|$ \emph{Python}}{January 2023 - July 2023}
+      {Software Developer}{Philadelphia, PA}
+      \resumeItemListStart
+        \resumeItem{Collaborated with a team of three developers to design and deploy multiple games within a custom application framework, applying Agile principles to guide development and iterative improvements}
+        \resumeItem{Led Scrum adoption by overseeing team progress, running daily stand-ups, managing bi-weekly sprints, and facilitating retrospectives to improve delivery efficiency}
+        \resumeItem{Optimized GitLab version control workflows, enhancing team collaboration and ensuring code quality through structured reviews}
+      \resumeItemListEnd
+    \resumeSubheading
+      {\textbf{Bank Management Simulator} $|$ \emph{Java}}{September 2023 - December 2023}
+      {Software Developer}{Philadelphia, PA}
+      \resumeItemListStart
+        \resumeItem{Built a Bank Management System with Test-Driven Development (TDD) to ensure a robust and reliable codebase}
+        \resumeItem{Implemented CI/CD pipelines and mutation testing in GitLab, reducing code mutations by 90\% and improving deployment quality}
+        \resumeItem{Designed database schema and system architecture to support secure, scalable banking operations}
+    \resumeItemListEnd
+    \resumeSubheading
+    {\textbf
+      {Personal Portfolio Website} $|$ \emph{HTML/CSS, Javascript}}{September 2023 - Present}
+      {Web Developer}{Philadelphia, PA}
+      \resumeItemListStart
+        \resumeItem{Built a personal portfolio website with HTML, CSS, and JavaScript to showcase projects and skills}
+        \resumeItem{Utilized GitHub Pages to host and maintain the site for seamless deployment and version control}
+        \resumeItem{Implemented interactive UI components and responsive design to enhance visual appeal and user experience}
+      \resumeItemListEnd
+      \resumeSubheading
+      {\textbf{SQL NBA Players Database} $|$ \emph{SQL}}{January 2024 - June 2024}
+      {Data Analyst}{Philadelphia, PA}
+      \resumeItemListStart
+        \resumeItem{Designed and implemented a comprehensive SQL database leveraging advanced optimization techniques for data management and analysis}
+        \resumeItem{Built detailed physical and logical data models to ensure efficient data flow, integrity, and scalability}
+        \resumeItem{Applied advanced analytics and data-gathering methods to deliver actionable insights for decision-making and strategic planning}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\end{document}
+

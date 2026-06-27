@@ -25,6 +25,7 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-21 | 165 lb |
 | 2026-06-23 | 166 lb |
 | 2026-06-25 | 164.6 lb |
+| 2026-06-27 | 165.6 lb |
 
 ## Daily Log
 
@@ -124,5 +125,9 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Chinese siu mai dumplings | 840g, about 30 pieces | Prepared | 1740 | 105.0 | 84.0 | 114.0 | Based on Jason-provided label: 174 calories, 10.5g protein, 8.4g carbs, 11.4g fat per 84g serving; 840g equals 10 servings |
+| Pineapple | 350g | Raw | 175 | 1.9 | 45.9 | 0.4 | Estimated from standard raw pineapple nutrition |
+| Cherries | 100g | Raw | 63 | 1.1 | 16.0 | 0.2 | Estimated from standard raw sweet cherry nutrition |
+| Pork bone soup | 2 cups | Prepared | 160 | 12.0 | 4.0 | 10.0 | Estimated as broth-based pork bone soup; recipe and meat content may vary |
+| Cucumber kimchi | About 1/2 cup (75g) | Prepared | 30 | 1.0 | 6.0 | 0.5 | Portion estimated from "some" cucumber kimchi; recipe may vary |
 
-**Daily Total:** 1740 calories, 105.0g protein, 84.0g carbs, 114.0g fat
+**Daily Total:** 2168 calories, 121.0g protein, 155.9g carbs, 125.1g fat
