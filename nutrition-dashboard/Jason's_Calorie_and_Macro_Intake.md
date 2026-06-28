@@ -25,7 +25,7 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-21 | 165 lb |
 | 2026-06-23 | 166 lb |
 | 2026-06-25 | 164.6 lb |
-| 2026-06-27 | 165.6 lb |
+| 2026-06-27 | 162.4 lb |
 
 ## Daily Log
 
@@ -131,3 +131,16 @@ Use this file to track daily food intake, calories, and macros.
 | Cucumber kimchi | About 1/2 cup (75g) | Prepared | 30 | 1.0 | 6.0 | 0.5 | Portion estimated from "some" cucumber kimchi; recipe may vary |
 
 **Daily Total:** 2168 calories, 121.0g protein, 155.9g carbs, 125.1g fat
+
+### 2026-06-27
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Pork from around the spine, about 88% lean | 585g | Cooked | 1346 | 158.0 | 0.0 | 79.0 | Estimated at about 230 calories, 27g protein, and 13.5g fat per 100g cooked based on Jason's leanness estimate |
+| Bananas | 2 bananas, estimated 349g with peel and stems; about 223g edible | Raw | 199 | 2.5 | 51.0 | 0.7 | Revised from 3 to 2 bananas; weights estimated as two-thirds of the original total, with edible weight at 64% of peel-on weight |
+| Pork rib meat | 300g | Cooked | 870 | 78.0 | 0.0 | 60.0 | Estimated as cooked pork rib meat at about 290 calories per 100g; fat content varies by cut and trimming |
+| Potato | 30g | Cooked | 26 | 0.6 | 6.0 | 0.0 | Estimated from standard cooked potato nutrition |
+| Broccoli salad with mayo | 100g | Prepared | 110 | 2.4 | 6.8 | 8.4 | Estimated consistently with the previously logged broccoli salad with mayo |
+| Kimchi | About 75g | Prepared | 23 | 1.5 | 4.5 | 0.5 | Portion estimated from "some"; macros estimated from standard kimchi nutrition |
+
+**Daily Total:** 2574 calories, 243.0g protein, 68.3g carbs, 148.6g fat
