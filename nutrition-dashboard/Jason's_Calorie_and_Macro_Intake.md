@@ -144,3 +144,12 @@ Use this file to track daily food intake, calories, and macros.
 | Kimchi | About 75g | Prepared | 23 | 1.5 | 4.5 | 0.5 | Portion estimated from "some"; macros estimated from standard kimchi nutrition |
 
 **Daily Total:** 2574 calories, 243.0g protein, 68.3g carbs, 148.6g fat
+
+### 2026-06-28
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving; 340g equals 2 servings |
+| Banana | 236g | Raw, edible portion without peel | 210 | 2.6 | 53.9 | 0.8 | Estimated from standard raw banana nutrition; weight excludes peel |
+
+**Daily Total:** 410 calories, 38.6g protein, 65.9g carbs, 0.8g fat
