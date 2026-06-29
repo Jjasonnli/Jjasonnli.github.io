@@ -151,5 +151,11 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Member's Mark plain nonfat Greek yogurt | 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving; 340g equals 2 servings |
 | Banana | 236g | Raw, edible portion without peel | 210 | 2.6 | 53.9 | 0.8 | Estimated from standard raw banana nutrition; weight excludes peel |
+| Chocolate rice cake | 1 cake | Prepared | 60 | 1.0 | 12.0 | 1.0 | Estimated from a standard chocolate-flavored rice cake; brand not specified |
+| Beef noodle soup base with beef | 1 bowl, excluding separately listed wontons and roasted meats | Prepared | 500 | 25.0 | 65.0 | 15.0 | Rough estimate for noodles, broth, and beef; bowl size and noodle quantity not specified |
+| Shrimp wontons | 4 wontons | Prepared | 200 | 12.0 | 24.0 | 6.0 | Calories estimated by Jason; macros estimated |
+| Roasted pork belly | About 120g | Cooked | 620 | 11.0 | 0.0 | 64.0 | Estimated from roasted pork belly nutrition; fat content varies |
+| Roasted duck | About 120g | Cooked | 405 | 23.0 | 0.0 | 34.0 | Estimated as roasted duck with skin |
+| Stir-fried rice noodles with beef | About 200g total | Prepared | 400 | 14.0 | 50.0 | 15.0 | Rough estimate; oil, beef, and noodle proportions were not specified |
 
-**Daily Total:** 410 calories, 38.6g protein, 65.9g carbs, 0.8g fat
+**Daily Total:** 2595 calories, 124.6g protein, 216.9g carbs, 135.8g fat
