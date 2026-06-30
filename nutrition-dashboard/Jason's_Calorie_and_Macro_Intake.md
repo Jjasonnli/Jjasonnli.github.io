@@ -176,3 +176,14 @@ Use this file to track daily food intake, calories, and macros.
 | Roasted duck breast | A few pieces | Cooked | 260 | 22.0 | 0.0 | 19.0 | Estimated allocation within Jason's stated 2,300-calorie dinner total |
 
 **Daily Total:** 2623 calories, 247.6g protein, 163.4g carbs, 109.4g fat
+
+### 2026-06-30
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 345g | Prepared | 203 | 36.5 | 12.2 | 0.0 | Scaled from label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Pineapple bun | 55g | Prepared | 183 | 3.7 | 31.2 | 5.5 | Estimated consistently with the pineapple bun logged on 2026-06-29 |
+| Pineapple bun | 190g | Prepared | 633 | 12.7 | 107.7 | 19.0 | Additional portion; estimated consistently with the pineapple bun logged on 2026-06-29 |
+| CHIPS AHOY! Original chocolate chip cookie | 1 cookie | Prepared | 53 | 0.3 | 7.3 | 2.7 | Scaled from the product serving of 3 cookies: 160 calories, 1g protein, 22g carbs, and 8g fat |
+
+**Daily Total:** 1072 calories, 53.2g protein, 158.4g carbs, 27.2g fat
