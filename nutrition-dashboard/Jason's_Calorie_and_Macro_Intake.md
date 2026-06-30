@@ -159,3 +159,20 @@ Use this file to track daily food intake, calories, and macros.
 | Stir-fried rice noodles with beef | About 200g total | Prepared | 400 | 14.0 | 50.0 | 15.0 | Rough estimate; oil, beef, and noodle proportions were not specified |
 
 **Daily Total:** 2595 calories, 124.6g protein, 216.9g carbs, 135.8g fat
+
+### 2026-06-29
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Pineapple bun | About 1/5 of a 150g bun, estimated 30g | Prepared | 100 | 2.0 | 17.0 | 3.0 | Portion calculated from Jason's estimate; nutrition estimated from a typical pineapple bun |
+| Banana | 1 medium banana | Raw | 105 | 1.3 | 27.0 | 0.4 | Size not specified; estimated as one medium banana |
+| Chinese siu mai dumpling | 1 piece, estimated 28g | Prepared | 58 | 3.5 | 2.8 | 3.8 | Scaled from Jason's prior label-based siu mai nutrition |
+| Potato chips | 5 chips | Prepared | 50 | 0.7 | 5.0 | 3.3 | Estimated from standard potato chip nutrition |
+| Sugar-free Jolly Rancher | 1 candy | Prepared | 10 | 0.0 | 3.0 | 0.0 | Estimated from standard sugar-free hard-candy nutrition; carbs may include sugar alcohols |
+| Steamed fish | Large portion; exact amount not specified | Cooked | 700 | 140.0 | 0.0 | 15.0 | Estimated allocation within Jason's stated 2,300-calorie dinner total |
+| Fried fish | Amount not specified | Cooked/fried | 600 | 45.0 | 20.0 | 38.0 | Estimated allocation within Jason's stated 2,300-calorie dinner total |
+| White rice | About 300g | Cooked | 390 | 8.1 | 84.6 | 0.9 | Estimated from standard cooked white rice nutrition |
+| Pork bone soup with pork | Some soup and pork; exact amount not specified | Prepared | 350 | 25.0 | 4.0 | 26.0 | Estimated allocation within Jason's stated 2,300-calorie dinner total |
+| Roasted duck breast | A few pieces | Cooked | 260 | 22.0 | 0.0 | 19.0 | Estimated allocation within Jason's stated 2,300-calorie dinner total |
+
+**Daily Total:** 2623 calories, 247.6g protein, 163.4g carbs, 109.4g fat
