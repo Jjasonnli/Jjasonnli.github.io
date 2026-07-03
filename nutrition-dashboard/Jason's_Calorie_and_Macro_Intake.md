@@ -226,3 +226,15 @@ Use this file to track daily food intake, calories, and macros.
 | Xi mi lu soup (西米露) | 780g total | Prepared | 900 | 4.5 | 189.0 | 13.5 | Total weight and calories corrected by Jason; macros remain a rough estimate |
 
 **Daily Total:** 1946 calories, 149.4g protein, 252.5g carbs, 29.0g fat
+
+### 2026-07-03
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| StarKist light tuna | 4 packets | Prepared | 280 | 64.0 | 0.0 | 2.0 | Calories provided by Jason at 70 per packet; macros estimated as 16g protein and 0.5g fat per packet |
+| White rice | 350g | Cooked | 455 | 9.5 | 98.7 | 1.1 | Estimated from standard cooked white rice nutrition |
+| Chocolate rice cakes | 3 cakes | Prepared | 180 | 3.0 | 36.0 | 3.0 | Estimated consistently with prior chocolate rice cake entries |
+| Mayo, hot chili oil, and other miscellaneous condiments | 100 calories worth | Prepared | 100 | 0.4 | 0.4 | 11.0 | Calories provided by Jason; macros estimated from mayo and oil |
+| Green beans and peanut soup | Unspecified serving | Prepared | 350 | 12.0 | 35.0 | 18.0 | Estimated at midpoint of Jason’s 300–400 calorie range; macros estimated from typical ingredients |
+
+**Daily Total:** 1365 calories, 88.9g protein, 170.1g carbs, 35.1g fat
