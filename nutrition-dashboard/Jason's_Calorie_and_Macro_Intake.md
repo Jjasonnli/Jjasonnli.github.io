@@ -26,6 +26,8 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-23 | 166 lb |
 | 2026-06-25 | 164.6 lb |
 | 2026-06-27 | 162.4 lb |
+| 2026-06-30 | 162.6 lb |
+| 2026-07-01 | 162 lb |
 
 ## Daily Log
 
@@ -184,6 +186,43 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark plain nonfat Greek yogurt | 345g | Prepared | 203 | 36.5 | 12.2 | 0.0 | Scaled from label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
 | Pineapple bun | 55g | Prepared | 183 | 3.7 | 31.2 | 5.5 | Estimated consistently with the pineapple bun logged on 2026-06-29 |
 | Pineapple bun | 190g | Prepared | 633 | 12.7 | 107.7 | 19.0 | Additional portion; estimated consistently with the pineapple bun logged on 2026-06-29 |
-| CHIPS AHOY! Original chocolate chip cookie | 1 cookie | Prepared | 53 | 0.3 | 7.3 | 2.7 | Scaled from the product serving of 3 cookies: 160 calories, 1g protein, 22g carbs, and 8g fat |
+| CHIPS AHOY! Original chocolate chip cookies | 2 cookies | Prepared | 106 | 0.6 | 14.6 | 5.4 | Scaled from the product serving of 3 cookies: 160 calories, 1g protein, 22g carbs, and 8g fat |
+| Chicken breast | 465g | Raw | 558 | 104.6 | 0.0 | 12.1 | Estimated from standard raw boneless, skinless chicken breast nutrition |
+| Seasoning | 40 calories worth | Prepared | 40 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Pork bone soup | About 1.5 cups | Prepared | 120 | 9.0 | 3.0 | 7.5 | Estimated consistently with the pork bone soup logged on 2026-06-26 |
+| Carrots | 100g | Cooked | 35 | 0.8 | 8.2 | 0.2 | Estimated from standard cooked carrot nutrition |
+| Potatoes | 200g | Cooked | 174 | 3.8 | 40.2 | 0.2 | Estimated from standard cooked potato nutrition |
+| Pork | 100g | Cooked | 242 | 27.3 | 0.0 | 14.0 | Estimated as generic cooked pork with moderate fat; cut not specified |
 
-**Daily Total:** 1072 calories, 53.2g protein, 158.4g carbs, 27.2g fat
+**Daily Total:** 2294 calories, 199.0g protein, 217.1g carbs, 63.9g fat
+
+
+### 2026-07-01
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Peach | 200g | Raw | 78 | 1.8 | 19.0 | 0.6 | Estimated from standard raw peach nutrition |
+| Member's Mark plain nonfat Greek yogurt | 465g | Prepared | 274 | 49.2 | 16.4 | 0.0 | Scaled from label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Chocolate rice cakes | 4 cakes | Prepared | 240 | 4.0 | 48.0 | 4.0 | Estimated consistently with the chocolate rice cake logged on 2026-06-28 |
+| Chocolate rice cake | 1 cake | Prepared | 60 | 1.0 | 12.0 | 1.0 | Estimated consistently with the chocolate rice cake logged on 2026-06-28 |
+| Chicken breast | 440g | Raw | 528 | 99.0 | 0.0 | 11.4 | Estimated for raw, skinless chicken breast |
+| Mayo and hot oil seasoning | Small amount | Prepared | 50 | 0.2 | 0.2 | 5.5 | Calories provided by Jason; macros estimated |
+| White rice | 250g | Cooked | 325 | 6.8 | 70.5 | 0.8 | Estimated from standard cooked white rice nutrition |
+| Pork bone broth with carrots and potatoes | 2 cups broth + 100g vegetables | Prepared | 145 | 15.2 | 14.0 | 2.0 | Estimated; broth concentration and vegetable mix may vary |
+
+**Daily Total:** 1700 calories, 177.2g protein, 180.1g carbs, 25.3g fat
+
+### 2026-07-02
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving; 340g equals 2 servings |
+| Vanilla protein powder | 1 scoop (37g) | Prepared | 140 | 30.0 | 4.0 | 0.5 | Calories and protein provided by Jason; carbs and fat estimated from remaining calories |
+| Frozen blueberries | About 45g | Frozen | 26 | 0.3 | 6.5 | 0.1 | Midpoint of Jason's estimated 40-50g portion; nutrition estimated from standard unsweetened blueberries |
+| Chicken breast | 333g | Raw | 400 | 74.9 | 0.0 | 8.6 | Logged in advance; estimated for raw, skinless chicken breast |
+| Seasoning | 50 calories worth | Prepared | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Chocolate rice cakes | 3 cakes | Prepared | 180 | 3.0 | 36.0 | 3.0 | Estimated consistently with the chocolate rice cake logged on 2026-06-28 |
+| Miscellaneous chips | 50 calories worth | Prepared | 50 | 0.7 | 5.0 | 3.3 | Calories provided by Jason; macros estimated from standard potato chips |
+| Xi mi lu soup (西米露) | 780g total | Prepared | 900 | 4.5 | 189.0 | 13.5 | Total weight and calories corrected by Jason; macros remain a rough estimate |
+
+**Daily Total:** 1946 calories, 149.4g protein, 252.5g carbs, 29.0g fat
