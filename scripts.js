@@ -1,19 +1,23 @@
 $(document).ready(function () {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    const name = "JASON LI";
-    const student = "Software Engineering @ DREXEL";
-    const music = "MUSIC LOVER";
-    const car = "CAR ENTHUSIAST";
+    const nameOptions = [
+        { text: "JASON LI", step: 1 / 3 },
+        { text: "Software Engineering @ DREXEL", step: 1 / 2 },
+        { text: "MUSIC LOVER", step: 1 / 3 },
+        { text: "CAR ENTHUSIAST", step: 1 / 2 }
+    ];
+
+    const englishName = document.getElementById("english-name");
+    const idleWarning = document.getElementById("idle-warning");
+    const chineseName = document.getElementById("chinese-name");
+    const navbar = document.getElementById("navbar");
+    const cover = document.getElementById("cover");
+    const navbarHeight = navbar.offsetHeight;
 
     let mouseOver = 0;
-
     let interval = null;
-
     let firstTime = true;
-
-    let navbarHeight = document.getElementById("navbar").offsetHeight;
-
-    let startTime = Date.now();
+    const startTime = Date.now();
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
@@ -23,422 +27,92 @@ $(document).ready(function () {
         });
     }, { threshold: 0.4 });
 
-    const hiddenElements = document.querySelectorAll(".hidden");
-    hiddenElements.forEach((el) => observer.observe(el)); 
+    document.querySelectorAll(".hidden").forEach((element) => observer.observe(element));
 
-    idleInterval = setInterval(function() {
-        let elapsedTime = Date.now() - startTime;
-
-        if (elapsedTime >= 3000) {
+    const idleInterval = setInterval(() => {
+        if (Date.now() - startTime >= 3000) {
             clearInterval(idleInterval);
-            let idleWarningHeight = document.getElementById("idle-warning").offsetHeight;
             if (mouseOver === 0) {
-                document.getElementById("idle-warning").style.bottom = "-" + idleWarningHeight + "px";
-                document.getElementById("idle-warning").style.opacity = "0.5";
-                document.getElementById("idle-warning").style.transition = "opacity 1s";
+                idleWarning.style.bottom = `-${idleWarning.offsetHeight}px`;
+                idleWarning.style.opacity = "0.5";
+                idleWarning.style.transition = "opacity 1s";
             }
         }
     }, 1000);
 
-    document.getElementById("english-name").onmouseover = event => { // I think I used some redundant code which I will fix in the future :^)
-        if (mouseOver % 4 === 0) {
-            let iteration = 0;
+    function scrambleText(target, text, step, onComplete) {
+        let iteration = 0;
 
-            clearInterval(interval);
+        clearInterval(interval);
+        interval = setInterval(() => {
+            target.innerText = [...text]
+                .map((letter, index) => index < iteration
+                    ? letter
+                    : letters[Math.floor(Math.random() * letters.length)])
+                .join("");
 
-            interval = setInterval(() => {
-                event.target.innerText = name.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return name.split("")[index];
-                        }
+            if (iteration >= text.length) {
+                clearInterval(interval);
+                onComplete?.();
+            }
+            iteration += step;
+        }, 50);
+    }
 
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
+    function revealPage() {
+        idleWarning.style.opacity = "0.0";
+        idleWarning.style.transition = "opacity 0.7s";
+        chineseName.style.opacity = "0.35";
+        chineseName.style.transition = "opacity 3s";
+        navbar.style.opacity = "1.0";
+        navbar.style.transition = "opacity 2s";
+        navbar.style.animationName = "slideUp";
+        navbar.style.animationDuration = "1s";
 
-                if (iteration >= name.split("").length) {
-                    clearInterval(interval);
-                    document.getElementById("idle-warning").style.opacity = "0.0";
-                    document.getElementById("idle-warning").style.transition = "opacity 0.7s";
-                    document.getElementById("chinese-name").style.opacity = "0.35";
-                    document.getElementById("chinese-name").style.transition = "opacity 3s";
-                    document.getElementById("navbar").style.opacity = "1.0";
-                    document.getElementById("navbar").style.transition = "opacity 2s";
-                    document.getElementById("navbar").style.animationName = "slideUp";
-                    document.getElementById("navbar").style.animationDuration = "1s";
-                    document.getElementById("skills-main").style.display = "block";
-                    document.getElementById("projects-main").style.display = "block";
-                    document.getElementById("about-main").style.display = "block";
-                    document.getElementById("separator-one").style.display = "block";
-                    document.getElementById("separator-two").style.display = "block";
-                    document.querySelector("footer").style.display = "block";
-                    mouseOver++;
-                    if (firstTime) {
-                        document.getElementById("cover").style.display = "block";
-                        document.getElementById("cover").style.top = navbarHeight + "px";
-                        setTimeout(() => {
-                            let iteration = 0;
+        ["skills-main", "projects-main", "about-main", "separator-one", "separator-two"]
+            .forEach((id) => {
+                document.getElementById(id).style.display = "block";
+            });
+        document.querySelector("footer").style.display = "block";
+    }
 
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = student.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return student.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= student.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 2;
-                            }, 50);
-                        }, 2500);
-                        setTimeout(() => {
-                            let iteration = 0;
+    function runIntroSequence() {
+        cover.style.display = "block";
+        cover.style.top = `${navbarHeight}px`;
 
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = music.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return music.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= music.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 3;
-                            }, 50);
-                        }, 5000);
-                        setTimeout(() => {
-                            let iteration = 0;
+        nameOptions.slice(1).forEach((option, index) => {
+            setTimeout(() => {
+                scrambleText(englishName, option.text, option.step);
+            }, (index + 1) * 2500);
+        });
 
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = car.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return car.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= car.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 2;
-                            }, 50);
-                        }, 7500);
-                        setTimeout(() => {
-                            let iteration = 0;
-                            
-                            clearInterval(interval);
+        setTimeout(() => {
+            scrambleText(englishName, nameOptions[0].text, nameOptions[0].step);
+        }, 10000);
+        setTimeout(() => {
+            cover.style.display = "none";
+        }, 12500);
+    }
 
-                            interval = setInterval(() => {
-                                event.target.innerText = name.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return name.split("")[index];
-                                        }
+    function handleNameInteraction(event) {
+        const optionIndex = mouseOver % nameOptions.length;
+        const option = nameOptions[optionIndex];
 
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                                if (iteration >= name.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 3;
-                            }, 50);
-                        }, 10000);
-                        setTimeout(() => {
-                            document.getElementById("cover").style.display = "none";
-                        }, 12500);
-                        firstTime = false;
-                    }
+        scrambleText(event.target, option.text, option.step, () => {
+            if (optionIndex === 0) {
+                revealPage();
+                mouseOver++;
+
+                if (firstTime) {
+                    runIntroSequence();
+                    firstTime = false;
                 }
-                iteration += 1 / 3;
-            }, 50);
-        } else if (mouseOver % 4 === 1) {
-            let iteration = 0;
+            } else {
+                mouseOver++;
+            }
+        });
+    }
 
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = student.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return student.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= student.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 2;
-            }, 50);
-        } else if (mouseOver % 4 === 2) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = music.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return music.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= music.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 3;
-            }, 50);
-        } else if (mouseOver % 4 === 3) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = car.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return car.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= car.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 2;
-            }, 50);
-        }
-    };
-
-    document.getElementById("english-name").onclick = event => {
-        if (mouseOver % 4 === 0) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = name.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return name.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= name.split("").length) {
-                    clearInterval(interval);
-                    document.getElementById("idle-warning").style.opacity = "0.0";
-                    document.getElementById("idle-warning").style.transition = "opacity 0.7s";
-                    document.getElementById("chinese-name").style.opacity = "0.35";
-                    document.getElementById("chinese-name").style.transition = "opacity 3s";
-                    document.getElementById("navbar").style.opacity = "1.0";
-                    document.getElementById("navbar").style.transition = "opacity 2s";
-                    document.getElementById("navbar").style.animationName = "slideUp";
-                    document.getElementById("navbar").style.animationDuration = "1s";
-                    document.getElementById("skills-main").style.display = "block";
-                    document.getElementById("projects-main").style.display = "block";
-                    document.getElementById("about-main").style.display = "block";
-                    document.getElementById("separator-one").style.display = "block";
-                    document.getElementById("separator-two").style.display = "block";
-                    document.querySelector("footer").style.display = "block";
-                    mouseOver++;
-                    if (firstTime) {
-                        document.getElementById("cover").style.display = "block";
-                        document.getElementById("cover").style.top = navbarHeight + "px";
-                        setTimeout(() => {
-                            let iteration = 0;
-
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = student.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return student.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= student.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 2;
-                            }, 50);
-                        }, 2500);
-                        setTimeout(() => {
-                            let iteration = 0;
-
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = music.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return music.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= music.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 3;
-                            }, 50);
-                        }, 5000);
-                        setTimeout(() => {
-                            let iteration = 0;
-
-                            clearInterval(interval);
-                
-                            interval = setInterval(() => {
-                                event.target.innerText = car.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return car.split("")[index];
-                                        }
-                
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                
-                                if (iteration >= car.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 2;
-                            }, 50);
-                        }, 7500);
-                        setTimeout(() => {
-                            let iteration = 0;
-                            
-                            clearInterval(interval);
-
-                            interval = setInterval(() => {
-                                event.target.innerText = name.split("")
-                                    .map((letter, index) => {
-                                        if (index < iteration) {
-                                            return name.split("")[index];
-                                        }
-
-                                        return letters[Math.floor(Math.random() * 26)];
-                                    })
-                                    .join("");
-                                if (iteration >= name.split("").length) {
-                                    clearInterval(interval);
-                                }
-                                iteration += 1 / 3;
-                            }, 50);
-                        }, 10000);
-                        setTimeout(() => {
-                            document.getElementById("cover").style.display = "none";
-                        }, 12500);
-                        firstTime = false;
-                    }
-                }
-                iteration += 1 / 3;
-            }, 50);
-        } else if (mouseOver % 4 === 1) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = student.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return student.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= student.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 2;
-            }, 50);
-        } else if (mouseOver % 4 === 2) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = music.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return music.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= music.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 3;
-            }, 50);
-        } else if (mouseOver % 4 === 3) {
-            let iteration = 0;
-
-            clearInterval(interval);
-
-            interval = setInterval(() => {
-                event.target.innerText = car.split("")
-                    .map((letter, index) => {
-                        if (index < iteration) {
-                            return car.split("")[index];
-                        }
-
-                        return letters[Math.floor(Math.random() * 26)];
-                    })
-                    .join("");
-
-                if (iteration >= car.split("").length) {
-                    clearInterval(interval);
-                    mouseOver++;
-                }
-                iteration += 1 / 2;
-            }, 50);
-        }
-    };
+    englishName.onmouseover = handleNameInteraction;
+    englishName.onclick = handleNameInteraction;
 });
