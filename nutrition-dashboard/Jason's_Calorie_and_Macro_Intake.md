@@ -28,6 +28,7 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-27 | 162.4 lb |
 | 2026-06-30 | 162.6 lb |
 | 2026-07-01 | 162 lb |
+| 2026-07-06 | 161.2 lb |
 
 ## Daily Log
 
@@ -236,5 +237,66 @@ Use this file to track daily food intake, calories, and macros.
 | Chocolate rice cakes | 3 cakes | Prepared | 180 | 3.0 | 36.0 | 3.0 | Estimated consistently with prior chocolate rice cake entries |
 | Mayo, hot chili oil, and other miscellaneous condiments | 100 calories worth | Prepared | 100 | 0.4 | 0.4 | 11.0 | Calories provided by Jason; macros estimated from mayo and oil |
 | Green beans and peanut soup | Unspecified serving | Prepared | 350 | 12.0 | 35.0 | 18.0 | Estimated at midpoint of Jason’s 300–400 calorie range; macros estimated from typical ingredients |
+| Chicken breast | 330g | Raw | 396 | 74.3 | 0.0 | 8.6 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Tomato | 30g | Raw | 5 | 0.3 | 1.2 | 0.1 | Estimated from standard raw tomato nutrition |
+| Yogurt and hot oil, miscellaneous | 30 calories worth | Prepared | 30 | 1.0 | 1.0 | 2.0 | Calories provided by Jason; macros estimated from yogurt and hot oil |
+| Peach | 230g | Raw | 90 | 2.1 | 21.9 | 0.7 | Estimated from standard fresh peach nutrition |
 
-**Daily Total:** 1365 calories, 88.9g protein, 170.1g carbs, 35.1g fat
+**Daily Total:** 1886 calories, 166.6g protein, 194.2g carbs, 46.5g fat
+
+### 2026-07-04
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Xi mi lu / taro sago dessert soup (西米露) | 675g | Prepared | 576 | 7.9 | 97.3 | 19.9 | Estimated from The Woks of Life recipe nutrition of 290 calories, 4g protein, 49g carbs, and 10g fat per approximately 340g serving; actual density varies with evaporation and added water |
+| Chocolate rice cakes | 2 cakes | Prepared | 120 | 2.0 | 24.0 | 2.0 | Estimated consistently with prior chocolate rice cake entries |
+| Dark chicken meat cooked in stew | Roughly 1 lb (454g) | Cooked | 949 | 118.0 | 0.0 | 49.5 | Revised to cooked dark chicken meat; skin content, stew ingredients, and retained sauce may change the estimate |
+| Potatoes | 150g | Cooked in stew | 131 | 2.9 | 30.2 | 0.2 | Estimated from standard cooked potato nutrition |
+| White rice | 250g | Cooked | 325 | 6.8 | 70.5 | 0.8 | Estimated from standard cooked white rice nutrition |
+| Kimchi | About 75g | Prepared | 23 | 1.5 | 4.5 | 0.5 | Portion estimated from "some"; macros estimated from standard kimchi nutrition |
+| Broccoli salad with mayo | About 100g | Prepared | 110 | 2.4 | 6.8 | 8.4 | Portion estimated from "some" and nutrition estimated consistently with prior broccoli salad entry |
+| Peach | Roughly 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Estimated from standard raw peach nutrition |
+
+**Daily Total:** 2332 calories, 143.8g protein, 257.2g carbs, 81.9g fat
+
+### 2026-07-05
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Peanut and green pea soup | Unspecified serving | Prepared | 500 | 17.0 | 50.0 | 26.0 | Calories provided by Jason; macros estimated from typical peanut and green pea soup ingredients |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Estimated from standard raw peach nutrition |
+| Beef noodle soup | 1 bowl | Prepared | 650 | 35.0 | 70.0 | 25.0 | Bowl size and recipe not specified; estimated for a restaurant-style beef noodle soup |
+| Mango Mango Layered Mango Snowcloud | 1/3 serving | Prepared | 300 | 4.0 | 50.0 | 10.0 | Portion provided by Jason; calories and macros estimated because exact serving nutrition was not provided |
+| Saliva chicken (口水鸡), likely chicken thighs | 180g | Prepared | 480 | 40.0 | 5.0 | 33.0 | Weight provided by Jason; estimated for cooked chicken thighs with chili-oil sauce |
+| Miscellaneous calories | 130 calories worth | Not specified | 130 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 2158 calories, 98.3g protein, 198.9g carbs, 94.6g fat
+
+### 2026-07-06
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 430g | Raw | 516 | 96.8 | 0.0 | 11.1 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Seasoning | 25 calories worth | Prepared | 25 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Estimated from standard raw peach nutrition |
+| Vietnamese coconut jelly (Thạch Rau Câu Dừa) | 133g | Prepared | 138 | 0.7 | 21.9 | 6.0 | Scaled from the midpoint of Jason provided range per 100g; recipe and sugar content may vary |
+| Beef short rib, visible fat trimmed | 350g | Cooked | 735 | 101.5 | 0.0 | 35.0 | Weight provided cooked; estimated as trimmed short rib with some intramuscular fat remaining |
+| Fatty fish | 250g | Cooked | 515 | 55.0 | 0.0 | 31.0 | Weight provided cooked; estimated using salmon-like fatty fish nutrition |
+| Lean pork | 300g | Cooked | 600 | 87.0 | 0.0 | 24.0 | Weight provided cooked; estimated from generic cooked lean pork |
+
+**Daily Total:** 2627 calories, 343.3g protein, 45.8g carbs, 107.7g fat
+
+### 2026-07-07
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 700g | Raw | 602 | 11.2 | 140.7 | 0.4 | Weight provided raw; estimated from standard raw sweet potato nutrition |
+| StarKist light tuna | 4 packets | Prepared | 280 | 64.0 | 0.0 | 2.0 | Calories provided by Jason at 70 per packet; macros estimated consistently with prior entry |
+| Miscellaneous calories | 125 calories worth | Not specified | 125 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Member’s Mark strawberry ultra-filtered milk protein shake | 1 bottle (11.5 fl oz) | Prepared | 150 | 30.0 | 3.0 | 2.5 | Nutrition based on the Member’s Mark strawberry product listing and label data |
+| Chicken breast | 433g | Raw | 520 | 97.4 | 0.0 | 11.3 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Miscellaneous calories | 25 calories worth | Not specified | 25 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Egg | 1 large egg | Prepared | 72 | 6.3 | 0.4 | 4.8 | Estimated from standard nutrition for one large egg |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Estimated from standard raw peach nutrition |
+
+**Daily Total:** 1872 calories, 211.2g protein, 168.0g carbs, 21.6g fat
