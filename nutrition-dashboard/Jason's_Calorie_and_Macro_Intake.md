@@ -300,3 +300,20 @@ Use this file to track daily food intake, calories, and macros.
 | Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Estimated from standard raw peach nutrition |
 
 **Daily Total:** 1872 calories, 211.2g protein, 168.0g carbs, 21.6g fat
+
+### 2026-07-08
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 400g | Raw | 344 | 6.4 | 80.4 | 0.2 | Weight provided raw; estimated from standard raw sweet potato nutrition |
+| StarKist light tuna packets | 2 packets, about 70g each | Prepared | 140 | 32.0 | 0.0 | 1.0 | Estimated consistently with prior entries at 70 calories, 16g protein, and 0.5g fat per packet |
+| StarKist Chunk Light Tuna in Water | 1 can, 113g drained | Prepared | 90 | 20.0 | 0.0 | 0.5 | Official StarKist nutrition for one 113g drained can; assumed standard Chunk Light Tuna in Water |
+| Hard-boiled eggs | 2 large eggs | Cooked | 144 | 12.6 | 0.8 | 9.6 | Estimated from standard nutrition for two large hard-boiled eggs |
+| Miscellaneous calories | 30 calories worth | Not specified | 30 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Chips Ahoy cookies | 2 cookies | Prepared | 106 | 0.6 | 14.6 | 5.4 | Estimated from a standard Chips Ahoy Original serving, divided per cookie |
+| Pork bone soup | 2 cups | Prepared | 160 | 10.0 | 4.0 | 10.0 | Assumed “a couple cups” means 2 cups; estimated broth/soup macros |
+| Miscellaneous vegetables | 200 calories worth | Prepared | 200 | 8.0 | 40.0 | 2.0 | Calories provided by Jason; macros estimated for mixed vegetables |
+| Cooked pork | 250g | Cooked | 605 | 68.3 | 0.0 | 34.8 | Estimated from average cooked pork nutrition |
+| White rice | 100g | Cooked | 130 | 2.7 | 28.2 | 0.3 | Assumed cooked white rice |
+
+**Daily Total:** 1949 calories, 160.6g protein, 168.0g carbs, 63.8g fat
