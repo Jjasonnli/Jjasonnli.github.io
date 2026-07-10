@@ -317,3 +317,24 @@ Use this file to track daily food intake, calories, and macros.
 | White rice | 100g | Cooked | 130 | 2.7 | 28.2 | 0.3 | Assumed cooked white rice |
 
 **Daily Total:** 1949 calories, 160.6g protein, 168.0g carbs, 63.8g fat
+
+
+### 2026-07-09
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 770g | Raw | 662 | 12.3 | 154.8 | 0.4 | Weight provided raw; estimated from standard raw sweet potato nutrition |
+| Chicken breast | 400g | Raw | 480 | 90.0 | 0.0 | 10.4 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Silken tofu | 400g | Prepared | 300 | 20.0 | 6.0 | 12.0 | Calories provided by Jason; macros estimated from standard silken tofu nutrition |
+| Stir-fried lean pork with onions and bell peppers | 300g pork plus about 100g onions and bell peppers | Prepared | 715 | 88.0 | 9.0 | 33.0 | Pork assumed cooked, no skin, relatively lean; includes a modest stir-fry oil allowance and about 100g mixed onions and bell peppers |
+
+**Daily Total:** 2257 calories, 210.3g protein, 169.8g carbs, 55.8g fat
+
+### 2026-07-10
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Krusteaz Gluten Free Double Chocolate Brownies mixed with Diet Coke | 2/8 package | Prepared | 550 | 5.0 | 115.0 | 7.5 | Calories provided by Jason; macros scaled from dry mix label for 5 servings, Diet Coke assumed zero-calorie |
+
+**Daily Total:** 550 calories, 5.0g protein, 115.0g carbs, 7.5g fat
