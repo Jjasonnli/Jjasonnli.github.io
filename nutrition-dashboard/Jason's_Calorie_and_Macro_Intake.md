@@ -29,6 +29,8 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-06-30 | 162.6 lb |
 | 2026-07-01 | 162 lb |
 | 2026-07-06 | 161.2 lb |
+| 2026-07-10 | 158.8 lb |
+| 2026-07-11 | 161 lb |
 
 ## Daily Log
 
@@ -336,5 +338,35 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Krusteaz Gluten Free Double Chocolate Brownies mixed with Diet Coke | 2/8 package | Prepared | 550 | 5.0 | 115.0 | 7.5 | Calories provided by Jason; macros scaled from dry mix label for 5 servings, Diet Coke assumed zero-calorie |
+| Chicken breast | 380g | Raw | 456 | 85.5 | 0.0 | 9.9 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Miscellaneous seasoning | 100 calories worth | Prepared | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Peaches | 2 peaches, about 500g total | Raw | 195 | 4.6 | 47.7 | 1.3 | Total weight estimated by Jason; nutrition estimated from standard raw peach nutrition |
+| Krusteaz Gluten Free Double Chocolate Brownie mixed with Diet Coke | 1/8 package | Prepared | 275 | 2.5 | 57.5 | 3.8 | Calories provided by Jason; macros scaled from the prior brownie entry, Diet Coke assumed zero-calorie |
+| Chicken breast | 300g | Raw | 360 | 67.5 | 0.0 | 7.8 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Cucumber | 50g | Raw | 8 | 0.3 | 1.8 | 0.1 | Estimated from standard raw cucumber nutrition |
 
-**Daily Total:** 550 calories, 5.0g protein, 115.0g carbs, 7.5g fat
+**Daily Total:** 1944 calories, 165.4g protein, 222.0g carbs, 30.4g fat
+
+
+### 2026-07-11
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| White rice | 200g | Cooked | 260 | 5.4 | 56.4 | 0.6 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Chicken breast | 180g | Raw | 216 | 40.5 | 0.0 | 4.7 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| White rice | 175g | Cooked | 228 | 4.7 | 49.4 | 0.5 | Assumed cooked white rice; estimated from standard cooked white rice nutrition |
+| Stewed chicken | 40g | Cooked | 75 | 10.0 | 0.0 | 3.5 | Estimated as cooked stewed chicken; cut and skin content not specified |
+| Cucumber kimchi | 150g | Prepared | 60 | 2.0 | 12.0 | 1.0 | Estimated from standard cucumber kimchi nutrition; recipe varies |
+| Broccoli salad with mayo | 180g | Prepared | 198 | 4.3 | 12.2 | 15.1 | Estimated consistently with prior broccoli salad with mayo entries |
+| Beef short ribs, relatively lean | About 175g | Cooked | 368 | 50.8 | 0.0 | 17.5 | Estimated as relatively lean cooked beef short ribs with visible fat trimmed |
+
+**Daily Total:** 1455 calories, 117.7g protein, 130.0g carbs, 42.9g fat
+
+### 2026-07-12
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark strawberry ultra-filtered milk protein shakes | 2 bottles (11.5 fl oz each) | Prepared | 300 | 60.0 | 6.0 | 5.0 | Nutrition based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
+
+**Daily Total:** 300 calories, 60.0g protein, 6.0g carbs, 5.0g fat
