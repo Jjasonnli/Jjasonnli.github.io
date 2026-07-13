@@ -360,13 +360,16 @@ Use this file to track daily food intake, calories, and macros.
 | Cucumber kimchi | 150g | Prepared | 60 | 2.0 | 12.0 | 1.0 | Estimated from standard cucumber kimchi nutrition; recipe varies |
 | Broccoli salad with mayo | 180g | Prepared | 198 | 4.3 | 12.2 | 15.1 | Estimated consistently with prior broccoli salad with mayo entries |
 | Beef short ribs, relatively lean | About 175g | Cooked | 368 | 50.8 | 0.0 | 17.5 | Estimated as relatively lean cooked beef short ribs with visible fat trimmed |
+| Member's Mark strawberry ultra-filtered milk protein shakes | 2 bottles (11.5 fl oz each) | Prepared | 300 | 60.0 | 6.0 | 5.0 | Nutrition based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
 
-**Daily Total:** 1455 calories, 117.7g protein, 130.0g carbs, 42.9g fat
+**Daily Total:** 1755 calories, 177.7g protein, 136.0g carbs, 47.9g fat
 
 ### 2026-07-12
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
-| Member's Mark strawberry ultra-filtered milk protein shakes | 2 bottles (11.5 fl oz each) | Prepared | 300 | 60.0 | 6.0 | 5.0 | Nutrition based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
+| Sweet potato | 600g | Raw | 516 | 9.6 | 120.6 | 0.3 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Miscellaneous sauces | 25 calories worth | Prepared | 25 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
-**Daily Total:** 300 calories, 60.0g protein, 6.0g carbs, 5.0g fat
+**Daily Total:** 811 calories, 69.6g protein, 120.6g carbs, 1.8g fat
