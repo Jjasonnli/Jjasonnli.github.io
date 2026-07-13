@@ -368,8 +368,11 @@ Use this file to track daily food intake, calories, and macros.
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
-| Sweet potato | 600g | Raw | 516 | 9.6 | 120.6 | 0.3 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| Sweet potato | 300g | Raw | 258 | 4.8 | 60.3 | 0.2 | Reduced by 300g per Jason; weight basis assumed raw, consistent with recent sweet potato entries |
 | StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
 | Miscellaneous sauces | 25 calories worth | Prepared | 25 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Pizza slices | 4 slices from 9-10 inch pies | Prepared | 1110 | 51.0 | 112.0 | 48.0 | Estimated as 2 supreme slices, 1 margherita slice, and 1 buffalo chicken slice from small pies |
+| Cheesesteak | Half of a cheesesteak on a 6 inch roll | Prepared | 350 | 18.0 | 32.0 | 18.0 | Estimated for half of a small cheesesteak with cheese and steak |
+| Large taro milk tea bubble tea | 1 large drink with taro pieces and tapioca pearls | Prepared | 650 | 6.0 | 125.0 | 14.0 | Estimated for large taro milk tea with added taro pieces and tapioca pearls |
 
-**Daily Total:** 811 calories, 69.6g protein, 120.6g carbs, 1.8g fat
+**Daily Total:** 2663 calories, 139.8g protein, 329.3g carbs, 81.7g fat
