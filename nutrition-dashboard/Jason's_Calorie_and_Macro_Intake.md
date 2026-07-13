@@ -372,7 +372,7 @@ Use this file to track daily food intake, calories, and macros.
 | StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
 | Miscellaneous sauces | 25 calories worth | Prepared | 25 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 | Pizza slices | 4 slices from 9-10 inch pies | Prepared | 1110 | 51.0 | 112.0 | 48.0 | Estimated as 2 supreme slices, 1 margherita slice, and 1 buffalo chicken slice from small pies |
-| Cheesesteak | Half of a cheesesteak on a 6 inch roll | Prepared | 350 | 18.0 | 32.0 | 18.0 | Estimated for half of a small cheesesteak with cheese and steak |
+| Cheesesteak | Half of a hefty cheesesteak on a 6 inch roll | Prepared | 550 | 23.0 | 42.0 | 32.0 | Increased by 200 calories per Jason because it was a hefty cheesesteak; macros adjusted upward |
 | Large taro milk tea bubble tea | 1 large drink with taro pieces and tapioca pearls | Prepared | 650 | 6.0 | 125.0 | 14.0 | Estimated for large taro milk tea with added taro pieces and tapioca pearls |
 
-**Daily Total:** 2663 calories, 139.8g protein, 329.3g carbs, 81.7g fat
+**Daily Total:** 2863 calories, 144.8g protein, 339.3g carbs, 95.7g fat
