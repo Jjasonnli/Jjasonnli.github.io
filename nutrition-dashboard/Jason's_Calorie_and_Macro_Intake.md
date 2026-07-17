@@ -31,6 +31,7 @@ Use this file to track daily food intake, calories, and macros.
 | 2026-07-06 | 161.2 lb |
 | 2026-07-10 | 158.8 lb |
 | 2026-07-11 | 161 lb |
+| 2026-07-15 | 159.5 lb |
 
 ## Daily Log
 
@@ -376,3 +377,51 @@ Use this file to track daily food intake, calories, and macros.
 | Large taro milk tea bubble tea | 1 large drink with taro pieces and tapioca pearls | Prepared | 650 | 6.0 | 125.0 | 14.0 | Estimated for large taro milk tea with added taro pieces and tapioca pearls |
 
 **Daily Total:** 2863 calories, 144.8g protein, 339.3g carbs, 95.7g fat
+
+
+### 2026-07-13
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 250g | Raw | 215 | 4.0 | 50.3 | 0.1 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| Protein-heavy dinner | 2500 calories worth | Prepared | 2500 | 180.0 | 130.0 | 140.0 | Calories provided by Jason; macros estimated as protein-heavy dinner |
+| Paris Baguette green tea strawberry cake | 2 slices | Prepared | 680 | 10.0 | 90.0 | 34.0 | Estimated for two bakery cake slices; exact Paris Baguette serving nutrition not provided |
+| Corn bread | 1 slice | Prepared | 110 | 2.0 | 18.0 | 4.5 | Calories provided by Jason; macros estimated for a 110-calorie slice |
+
+**Daily Total:** 3505 calories, 196.0g protein, 288.3g carbs, 178.6g fat
+
+
+### 2026-07-14
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Cornbread | 330 calories worth | Prepared | 330 | 6.0 | 54.0 | 13.5 | Calories provided by Jason; macros estimated from earlier 110-calorie cornbread entry |
+| Member's Mark canned chicken | 1 can, 4 servings | Prepared | 360 | 76.0 | 0.0 | 4.0 | Label calories provided by Jason: 90 calories per serving, 4 servings; macros estimated from standard canned chicken nutrition |
+| Cooked white fish | 150g | Cooked | 180 | 30.0 | 0.0 | 6.0 | Estimated as cooked white fish with some fat, per Jason |
+| Pork and vegetable soup with carrots and white yam | About 1000 calories worth | Prepared | 1000 | 20.0 | 130.0 | 43.0 | Calories provided by Jason; macros estimated for soup with pork, carrots, white yam, and other vegetables |
+
+**Daily Total:** 1870 calories, 132.0g protein, 184.0g carbs, 66.5g fat
+
+### 2026-07-15
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Cornbread | 220 calories worth | Prepared | 220 | 4.0 | 36.0 | 9.0 | Calories provided by Jason; macros estimated from earlier cornbread entries |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Weight estimated by Jason; nutrition estimated from standard raw peach nutrition |
+| Pork and shrimp siu mai | 16 pieces | Prepared | 1550 | 80.0 | 65.0 | 110.0 | Calories corrected by Jason; macros estimated as pork/shrimp-heavy siu mai with some wrapper carbs |
+
+**Daily Total:** 1868 calories, 86.3g protein, 124.9g carbs, 119.6g fat
+
+### 2026-07-16
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Japanese sweet potato | 800g | Raw | 688 | 12.8 | 160.8 | 0.5 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Mayo and chili oil | 100 calories worth | Prepared | 100 | 0.4 | 0.4 | 11.0 | Calories provided by Jason; macros estimated from mayo and chili oil |
+| David protein bar | 1 bar | Prepared | 150 | 28.0 | 5.0 | 2.5 | Estimated from typical David protein bar nutrition |
+| Brisk iced tea | 1 can | Prepared | 70 | 0.0 | 18.0 | 0.0 | Assumed one standard 12 fl oz can of Brisk lemon iced tea |
+| Pork buns | 2 buns, 210g total | Prepared | 525 | 18.9 | 73.5 | 16.8 | Estimated by scaling prior Chinese meat bun entry to 210g total |
+| Member's Mark strawberry ultra-filtered milk protein shake | 1 bottle (11.5 fl oz) | Prepared | 150 | 30.0 | 3.0 | 2.5 | Nutrition based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
+
+**Daily Total:** 1953 calories, 150.1g protein, 260.7g carbs, 34.8g fat
