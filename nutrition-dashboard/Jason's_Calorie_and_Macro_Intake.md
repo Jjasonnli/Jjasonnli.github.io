@@ -425,3 +425,16 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark strawberry ultra-filtered milk protein shake | 1 bottle (11.5 fl oz) | Prepared | 150 | 30.0 | 3.0 | 2.5 | Nutrition based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
 
 **Daily Total:** 1953 calories, 150.1g protein, 260.7g carbs, 34.8g fat
+
+### 2026-07-17
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Japanese sweet potato | 1100g | Raw | 946 | 17.6 | 221.1 | 0.7 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Mayo and chili oil | 100 calories worth | Prepared | 100 | 0.4 | 0.4 | 11.0 | Calories provided by Jason; macros estimated from mayo and chili oil |
+| 90/10 ground beef | 180g | Cooked | 391 | 47.0 | 0.0 | 20.9 | Estimated from standard cooked 90/10 ground beef nutrition |
+| Ice cream | About 100 calories worth | Prepared | 100 | 2.0 | 12.0 | 5.0 | Calories estimated by Jason; macros estimated from typical ice cream |
+| Seasoning/miscellaneous | 75 calories worth | Prepared | 75 | 0.3 | 0.3 | 8.3 | Calories provided by Jason; macros estimated mostly from oil/seasoning |
+
+**Daily Total:** 1882 calories, 127.3g protein, 233.8g carbs, 47.4g fat
