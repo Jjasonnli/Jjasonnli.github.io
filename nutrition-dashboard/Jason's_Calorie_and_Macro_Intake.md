@@ -438,3 +438,14 @@ Use this file to track daily food intake, calories, and macros.
 | Seasoning/miscellaneous | 75 calories worth | Prepared | 75 | 0.3 | 0.3 | 8.3 | Calories provided by Jason; macros estimated mostly from oil/seasoning |
 
 **Daily Total:** 1882 calories, 127.3g protein, 233.8g carbs, 47.4g fat
+
+### 2026-07-18
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 380g | Raw | 456 | 85.5 | 0.0 | 9.9 | Weight provided raw; estimated from standard raw skinless chicken breast nutrition |
+| Miscellaneous seasoning and potato chips | 100 calories worth | Prepared | 100 | 0.7 | 5.0 | 8.0 | Calories provided by Jason; macros estimated mostly from potato chips and seasoning |
+| Banana | 240g | Raw, edible portion without peel | 214 | 2.6 | 54.8 | 0.8 | Weight provided without peel; estimated from standard raw banana nutrition |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Weight estimated by Jason; nutrition estimated from standard raw peach nutrition |
+
+**Daily Total:** 868 calories, 91.1g protein, 83.7g carbs, 19.3g fat
