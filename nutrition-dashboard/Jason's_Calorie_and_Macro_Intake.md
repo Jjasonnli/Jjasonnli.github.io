@@ -447,5 +447,51 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous seasoning and potato chips | 100 calories worth | Prepared | 100 | 0.7 | 5.0 | 8.0 | Calories provided by Jason; macros estimated mostly from potato chips and seasoning |
 | Banana | 240g | Raw, edible portion without peel | 214 | 2.6 | 54.8 | 0.8 | Weight provided without peel; estimated from standard raw banana nutrition |
 | Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Weight estimated by Jason; nutrition estimated from standard raw peach nutrition |
+| Chicken stew with chicken thighs, no visible fat | About 300g cooked chicken thighs | Cooked | 630 | 78.0 | 0.0 | 33.0 | Weight provided cooked; estimated as cooked skinless chicken thighs with no visible fat, stew sauce not separately counted |
+| White rice | 175g | Cooked | 228 | 4.7 | 49.4 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Cucumber kimchi | Some, estimated 75g | Prepared | 30 | 1.0 | 6.0 | 0.5 | Portion estimated from "some"; macros estimated from standard cucumber kimchi nutrition |
+| Broccoli salad with mayo | 150g | Prepared | 165 | 3.6 | 10.2 | 12.6 | Estimated consistently with prior broccoli salad with mayo entries |
 
-**Daily Total:** 868 calories, 91.1g protein, 83.7g carbs, 19.3g fat
+**Daily Total:** 1921 calories, 178.4g protein, 149.3g carbs, 65.9g fat
+
+### 2026-07-19
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Krusteaz banana bread | About 1/3 box, 500 calories worth | Prepared | 500 | 7.5 | 105.0 | 7.5 | Calories provided by Jason; macros estimated from typical Krusteaz banana bread mix |
+| Member's Mark plain nonfat Greek yogurt | 3 servings | Prepared | 300 | 54.0 | 18.0 | 0.0 | Estimated from prior logged Member's Mark nonfat Greek yogurt: 100 calories, 18g protein, 6g carbs, and 0g fat per serving |
+| Honey | 8g | Prepared | 24 | 0.0 | 6.6 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Pho | 1 large bowl | Prepared | 850 | 45.0 | 105.0 | 25.0 | Estimated for a large restaurant-style bowl of pho; meat, noodle amount, and broth richness may vary |
+| Vietnamese summer rolls | 1.5 rolls | Prepared | 210 | 9.0 | 36.0 | 4.5 | Estimated for rice-paper summer rolls with shrimp/pork or similar filling; sauce not separately counted |
+| Miscellaneous calories | 30 calories worth | Not specified | 30 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Cucumber | 330g | Raw | 50 | 2.1 | 11.9 | 0.4 | Weight provided raw; estimated from standard raw cucumber nutrition |
+
+**Daily Total:** 1964 calories, 117.6g protein, 282.5g carbs, 37.4g fat
+
+### 2026-07-20
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Rice cakes | 90 calories worth | Prepared | 90 | 1.5 | 18.0 | 1.5 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Peach | 250g | Raw | 98 | 2.3 | 23.9 | 0.6 | Weight provided; nutrition estimated from standard raw peach nutrition |
+| Beef shank | About 150g | Cooked | 300 | 51.0 | 0.0 | 10.5 | Weight provided cooked; estimated from cooked lean beef shank nutrition |
+| White rice | About 150g | Cooked | 195 | 4.1 | 42.3 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Winter melon | About 400g | Cooked | 52 | 1.6 | 12.4 | 0.8 | Weight provided cooked; estimated from cooked winter melon nutrition |
+| Beef shank | About 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with earlier beef shank entry |
+| Salmon | About 350g | Cooked | 721 | 77.0 | 0.0 | 43.4 | Weight provided cooked; estimated from standard cooked salmon nutrition |
+| White fish | About 200g | Cooked | 300 | 46.0 | 0.0 | 10.0 | Weight provided cooked; estimated as a slightly fatty cooked white fish |
+| Tomato and eggs | About 400g | Cooked | 520 | 28.0 | 24.0 | 36.0 | Estimated for Chinese tomato and eggs with cooking oil |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 2776 calories, 279.5g protein, 120.6g carbs, 117.3g fat
+
+### 2026-07-21
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Krusteaz banana cake | About 2/3 cake, 1000 calories worth | Prepared | 1000 | 15.0 | 210.0 | 15.0 | Calories provided by Jason; macros estimated consistently with prior banana bread entry |
+| Member's Mark plain nonfat Greek yogurt | 340g, 2 servings | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Honey | 4g | Prepared | 12 | 0.0 | 3.3 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Rice cakes | 120 calories worth | Prepared | 120 | 2.0 | 24.0 | 2.0 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+
+**Daily Total:** 1332 calories, 53.0g protein, 249.3g carbs, 17.0g fat
