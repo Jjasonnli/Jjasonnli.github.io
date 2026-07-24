@@ -493,5 +493,36 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark plain nonfat Greek yogurt | 340g, 2 servings | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
 | Honey | 4g | Prepared | 12 | 0.0 | 3.3 | 0.0 | Weight provided; estimated from standard honey nutrition |
 | Rice cakes | 120 calories worth | Prepared | 120 | 2.0 | 24.0 | 2.0 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Cucumbers with honey | 100 calories worth, including 5g honey | Prepared | 100 | 3.6 | 24.5 | 0.6 | Calories provided by Jason; includes 5g honey, remaining macros estimated as cucumber |
+| Chicken breast | 450g | Raw | 540 | 101.3 | 0.0 | 11.7 | Weight provided raw; estimated consistently with prior raw chicken breast entry |
 
-**Daily Total:** 1332 calories, 53.0g protein, 249.3g carbs, 17.0g fat
+**Daily Total:** 1972 calories, 157.9g protein, 273.8g carbs, 29.3g fat
+
+### 2026-07-22
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 410g | Raw | 492 | 92.3 | 0.0 | 10.7 | Weight provided raw; estimated consistently with prior raw chicken breast entries |
+| Rice cakes | 100 calories worth | Prepared | 100 | 1.7 | 20.0 | 1.7 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Banana | 250g | Raw | 223 | 2.7 | 57.2 | 0.8 | Weight provided; estimated from standard raw banana nutrition |
+| Chicken breast | 460g | Raw | 552 | 103.5 | 0.0 | 12.0 | Weight provided raw; estimated consistently with prior raw chicken breast entries |
+| White rice | 380g | Cooked | 494 | 10.2 | 107.1 | 1.1 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Rice cake | 30 calories worth | Prepared | 30 | 0.5 | 6.0 | 0.5 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+
+**Daily Total:** 1891 calories, 210.9g protein, 190.3g carbs, 26.8g fat
+
+### 2026-07-23
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Beef shank | 220g | Cooked | 440 | 74.8 | 0.0 | 15.4 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| White potatoes | 680g | Raw | 524 | 13.9 | 119.0 | 0.6 | Weight provided raw; estimated from standard raw white potato nutrition |
+| Hard-boiled egg | 1 large egg | Cooked | 78 | 6.3 | 0.6 | 5.3 | Estimated from standard hard-boiled egg nutrition |
+| Seasoning | 50 calories worth | Prepared | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Rice cakes | 100 calories worth | Prepared | 100 | 1.7 | 20.0 | 1.7 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Beef shank | 220g | Cooked | 440 | 74.8 | 0.0 | 15.4 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Hard-boiled eggs | 2 large eggs | Cooked | 156 | 12.6 | 1.2 | 10.6 | Estimated from standard hard-boiled egg nutrition |
+| White rice | 160g | Cooked | 208 | 4.3 | 45.1 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 2118 calories, 188.4g protein, 185.9g carbs, 49.5g fat
