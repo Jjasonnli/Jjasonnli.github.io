@@ -526,3 +526,36 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
 **Daily Total:** 2118 calories, 188.4g protein, 185.9g carbs, 49.5g fat
+
+### 2026-07-24
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Beef shank | 240g | Cooked | 480 | 81.6 | 0.0 | 16.8 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Banana | 120g | Raw | 107 | 1.3 | 27.5 | 0.4 | Weight provided; estimated from standard raw banana nutrition |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Mom's Best Sweetened Wheat-fuls cereal | 21 pieces, 60g | Prepared | 210 | 5.0 | 50.0 | 1.0 | Serving provided by Jason; nutrition from official product page |
+| Rice cakes | 100 calories worth | Prepared | 100 | 1.7 | 20.0 | 1.7 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Beef shank | 150g | Cooked | 300 | 51.0 | 0.0 | 10.5 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| White rice | 280g | Cooked | 364 | 7.6 | 79.0 | 0.8 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Pickled cucumbers | 30g | Prepared | 10 | 0.1 | 2.0 | 0.1 | Weight provided; estimated from standard pickled cucumber nutrition |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Chocolate rice cakes | 2 cakes | Prepared | 120 | 2.0 | 24.0 | 2.0 | Estimated consistently with prior chocolate rice cake entries |
+
+**Daily Total:** 1891 calories, 150.3g protein, 202.5g carbs, 33.3g fat
+
+### 2026-07-25
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Mom's Best Sweetened Wheat-fuls cereal | 300 calories worth | Prepared | 300 | 7.1 | 71.4 | 1.4 | Calories provided by Jason; macros scaled from official product page |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Beef shank | 175g | Cooked | 350 | 59.5 | 0.0 | 12.3 | Assumed cooked; estimated consistently with prior cooked beef shank entries |
+| Rice cake | 30 calories worth | Prepared | 30 | 0.5 | 6.0 | 0.5 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| White rice | 170g | Cooked | 221 | 4.6 | 48.0 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Pork, about 80/20 lean-to-fat | 400g | Cooked | 1188 | 102.8 | 0.0 | 83.2 | Weight provided cooked; corrected from pork rib meat to about 80/20 lean-to-fat pork |
+| Potatoes | 90g | Cooked | 78 | 1.7 | 18.0 | 0.1 | Assumed cooked; estimated from standard cooked potato nutrition |
+| Kimchi | About 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Approximate weight provided; estimated from standard kimchi nutrition |
+
+**Daily Total:** 2282 calories, 177.3g protein, 145.8g carbs, 98.5g fat
