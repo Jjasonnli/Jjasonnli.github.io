@@ -559,3 +559,19 @@ Use this file to track daily food intake, calories, and macros.
 | Kimchi | About 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Approximate weight provided; estimated from standard kimchi nutrition |
 
 **Daily Total:** 2282 calories, 177.3g protein, 145.8g carbs, 98.5g fat
+
+### 2026-07-26
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Mom's Best Sweetened Wheat-fuls cereal | 2 servings, 42 pieces, 120g | Prepared | 420 | 10.0 | 100.0 | 2.0 | Nutrition from official product page; 2 x 60g servings |
+| Member's Mark plain nonfat Greek yogurt | 340g, 2 servings | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Honey | 5g | Prepared | 15 | 0.0 | 4.1 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Gummies | 80 calories worth | Prepared | 80 | 0.0 | 20.0 | 0.0 | Calories provided by Jason; macros estimated as mostly carbs |
+| White rice | 220g | Cooked | 286 | 5.9 | 62.0 | 0.6 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Hard-boiled eggs | 2 large eggs | Cooked | 156 | 12.6 | 1.2 | 10.6 | Estimated from standard hard-boiled egg nutrition |
+| Pork spine meat | 80g | Cooked | 368 | 19.4 | 0.0 | 31.6 | Weight provided cooked; estimated as cooked edible pork spine/neck bone meat |
+| Miscellaneous calories, including sardines | 200 calories worth | Not specified | 200 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; includes sardines, macros not specified |
+| Member's Mark strawberry ultra-filtered milk shake | 1 shake, 340mL | Prepared | 160 | 30.0 | 3.0 | 2.5 | Nutrition from product listing |
+
+**Daily Total:** 1885 calories, 113.9g protein, 202.3g carbs, 47.3g fat
