@@ -575,3 +575,15 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark strawberry ultra-filtered milk shake | 1 shake, 340mL | Prepared | 160 | 30.0 | 3.0 | 2.5 | Nutrition from product listing |
 
 **Daily Total:** 1885 calories, 113.9g protein, 202.3g carbs, 47.3g fat
+
+### 2026-07-27
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 170g, 1 serving | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Mom's Best Sweetened Wheat-fuls cereal | 1 serving, 21 pieces, 60g | Prepared | 210 | 5.0 | 50.0 | 1.0 | Nutrition from official product page |
+| Rice cakes | 70 calories worth | Prepared | 70 | 1.2 | 14.0 | 1.2 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Dinner with cooked pork, white fish, tomato and eggs, winter melon clam soup, sweet potatoes, and rice | 2300 calories worth | Prepared | 2300 | 180.0 | 155.0 | 106.7 | Calories provided by Jason; macros estimated as protein-heavy mixed dinner |
+
+**Daily Total:** 2698 calories, 204.2g protein, 229.9g carbs, 108.9g fat
