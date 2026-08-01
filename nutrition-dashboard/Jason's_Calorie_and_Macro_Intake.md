@@ -587,3 +587,72 @@ Use this file to track daily food intake, calories, and macros.
 | Dinner with cooked pork, white fish, tomato and eggs, winter melon clam soup, sweet potatoes, and rice | 2300 calories worth | Prepared | 2300 | 180.0 | 155.0 | 106.7 | Calories provided by Jason; macros estimated as protein-heavy mixed dinner |
 
 **Daily Total:** 2698 calories, 204.2g protein, 229.9g carbs, 108.9g fat
+
+### 2026-07-28
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Pineapple bun | 100g | Prepared | 333 | 6.7 | 56.7 | 10.0 | Weight provided; estimated consistently with prior pineapple bun entries |
+| Banana | 105g | Raw | 93 | 1.1 | 24.0 | 0.3 | Weight provided; estimated from standard raw banana nutrition |
+| Member's Mark plain nonfat Greek yogurt | 340g, 2 servings | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Honey | 7g | Prepared | 21 | 0.0 | 5.7 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Mom's Best Sweetened Wheat-fuls cereal | 2 servings, 42 pieces, 120g | Prepared | 420 | 10.0 | 100.0 | 2.0 | Nutrition from official product page; 2 x 60g servings |
+| Member's Mark strawberry ultra-filtered milk shake | 3 shakes, 1020mL | Prepared | 480 | 90.0 | 9.0 | 7.5 | Nutrition from product listing; 3 x 340mL shakes |
+
+**Daily Total:** 1547 calories, 143.8g protein, 207.4g carbs, 19.8g fat
+
+### 2026-07-29
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Cucumber | 360g | Raw | 54 | 2.3 | 13.0 | 0.4 | Weight provided raw; estimated from standard raw cucumber nutrition |
+| Member's Mark plain nonfat Greek yogurt | 425g, 2.5 servings | Prepared | 250 | 45.0 | 15.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving |
+| Banana | 350g | Raw | 312 | 3.9 | 80.1 | 1.2 | Weight provided; estimated from standard raw banana nutrition |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Weight provided; estimated from standard honey nutrition |
+| Kellogg's Frosted Flakes | 1 serving | Prepared | 140 | 2.0 | 34.0 | 0.0 | Serving size not specified; estimated from standard Kellogg's Frosted Flakes nutrition |
+| Butterfinger candy bar | 250 calories worth | Prepared | 250 | 4.0 | 36.0 | 10.0 | Calories provided by Jason; macros estimated from standard Butterfinger candy bar nutrition |
+| Japanese sweet potato | 475g | Raw | 409 | 7.6 | 95.5 | 0.3 | Weight basis assumed raw, consistent with recent Japanese sweet potato entries; estimated from standard raw sweet potato nutrition |
+| StarKist Chunk Light Tuna in Water | 4 cans, 113g drained each | Prepared | 360 | 80.0 | 0.0 | 2.0 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1893 calories, 144.8g protein, 278.5g carbs, 13.9g fat
+
+### 2026-07-30
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 475g | Raw | 409 | 7.6 | 95.5 | 0.3 | Weight basis assumed raw, consistent with recent sweet potato entries; estimated from standard raw sweet potato nutrition |
+| Rice cakes | 380 calories worth | Prepared | 380 | 6.5 | 76.0 | 6.5 | Calories provided by Jason; macros estimated consistently with prior rice cake entries |
+| Member's Mark strawberry ultra-filtered milk shake | 2 shakes, 680mL | Prepared | 320 | 60.0 | 6.0 | 5.0 | Nutrition from product listing; 2 x 340mL shakes |
+| StarKist Chunk Light Tuna in Water | 4 cans, 113g drained each | Prepared | 360 | 80.0 | 0.0 | 2.0 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Hard-boiled eggs | 2 large eggs | Cooked | 156 | 12.6 | 1.2 | 10.6 | Estimated from standard hard-boiled egg nutrition |
+| Kimchi | 150g | Prepared | 23 | 1.7 | 3.6 | 0.8 | Weight provided; estimated from standard kimchi nutrition |
+| White rice | 50g | Cooked | 65 | 1.4 | 14.1 | 0.2 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Miscellaneous calories | 80 calories worth | Not specified | 80 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1893 calories, 169.8g protein, 196.4g carbs, 25.4g fat
+
+### 2026-07-31
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Potatoes | 350g | Raw | 270 | 7.2 | 61.3 | 0.3 | Weight provided raw; estimated from standard raw white potato nutrition |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| StarKist Chunk Light Tuna in Water | 3 cans, 113g drained each | Prepared | 270 | 60.0 | 0.0 | 1.5 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Radish kimchi | 30 calories worth | Prepared | 30 | 1.5 | 6.0 | 0.5 | Calories provided by Jason; macros estimated from standard radish kimchi nutrition |
+| Mayonnaise | 1 tbsp | Prepared | 94 | 0.1 | 0.1 | 10.3 | Estimated from standard mayonnaise nutrition |
+| Rice cakes | 150 calories worth | Prepared | 150 | 2.6 | 24.0 | 2.6 | Carbs corrected by Jason; calories provided by Jason and remaining macros estimated |
+| Chicken cooked in soup | 300g total: 150g chicken breast and 150g boneless skinless chicken thighs | Cooked | 563 | 85.5 | 0.0 | 21.9 | Cooked weight provided; soup liquid not counted separately |
+| White rice | 170g | Cooked | 221 | 4.6 | 48.0 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Kimchi | 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Weight provided; estimated from standard kimchi nutrition |
+
+**Daily Total:** 1713 calories, 162.6g protein, 141.8g carbs, 38.1g fat
+
+### 2026-08-01
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Potatoes | 720g | Raw | 554 | 14.7 | 126.0 | 0.6 | Weight provided raw; estimated from standard raw white potato nutrition |
+
+**Daily Total:** 554 calories, 14.7g protein, 126.0g carbs, 0.6g fat
