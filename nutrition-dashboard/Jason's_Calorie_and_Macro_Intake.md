@@ -654,5 +654,11 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Potatoes | 720g | Raw | 554 | 14.7 | 126.0 | 0.6 | Weight provided raw; estimated from standard raw white potato nutrition |
+| StarKist Chunk Light Tuna in Water | 4 cans, 113g drained each | Prepared | 360 | 80.0 | 0.0 | 2.0 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| Mayonnaise | 1 tbsp | Prepared | 94 | 0.1 | 0.1 | 10.3 | Estimated from standard mayonnaise nutrition |
+| Kimchi | 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Weight provided; estimated from standard kimchi nutrition |
+| Haagen-Dazs Cherry Vanilla Ice Cream | 1 pint, 414mL | Prepared | 770 | 12.0 | 76.0 | 47.0 | Nutrition from product listing for one 14 fl oz container |
+| Member's Mark strawberry ultra-filtered milk shake | 1 shake, 340mL | Prepared | 160 | 30.0 | 3.0 | 2.5 | Nutrition from product listing |
+| Cucumber | About 1 lb, 454g | Raw | 68 | 3.0 | 16.4 | 0.5 | Amount estimated from "like a pound"; estimated from standard raw cucumber nutrition |
 
-**Daily Total:** 554 calories, 14.7g protein, 126.0g carbs, 0.6g fat
+**Daily Total:** 2021 calories, 140.9g protein, 223.9g carbs, 63.4g fat
