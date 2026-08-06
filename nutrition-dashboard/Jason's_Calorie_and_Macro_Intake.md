@@ -662,3 +662,58 @@ Use this file to track daily food intake, calories, and macros.
 | Cucumber | About 1 lb, 454g | Raw | 68 | 3.0 | 16.4 | 0.5 | Amount estimated from "like a pound"; estimated from standard raw cucumber nutrition |
 
 **Daily Total:** 2021 calories, 140.9g protein, 223.9g carbs, 63.4g fat
+
+### 2026-08-02
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Haagen-Dazs Chocolate Chocolate Chip Ice Cream | 1 pint, 414mL | Prepared | 970 | 16.0 | 89.0 | 63.0 | Nutrition from SmartLabel/Kroger for one 14 fl oz container; about 2.5 servings |
+| StarKist Chunk Light Tuna in Water | 4 cans, 113g drained each | Prepared | 360 | 80.0 | 0.0 | 2.0 | Estimated from prior logged StarKist can nutrition: 90 calories, 20g protein, and 0.5g fat per can |
+| White rice | 230g | Cooked | 299 | 6.2 | 64.9 | 0.7 | Estimated from standard cooked white rice nutrition |
+| Kimchi | 120g | Prepared | 18 | 1.3 | 2.9 | 0.6 | Estimated from standard kimchi nutrition |
+| Member's Mark strawberry ultra-filtered milk shake | 1 shake, 340mL | Prepared | 160 | 30.0 | 3.0 | 2.5 | Nutrition from product listing |
+| Jack Link's Teriyaki Beef Jerky | 35g | Prepared | 100 | 13.0 | 8.0 | 2.0 | Nutrition from 35g packaged listing; branded estimate |
+
+**Daily Total:** 1907 calories, 146.5g protein, 167.8g carbs, 70.8g fat
+
+### 2026-08-03
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| RXBAR Peanut Butter Chocolate | 1 bar, 52g | Prepared | 210 | 12.0 | 23.0 | 9.0 | Nutrition from RXBAR product listing for one 52g bar |
+| Cucumber | 1 lb, 454g | Raw | 68 | 3.0 | 16.5 | 0.5 | Estimated from USDA raw cucumber with peel nutrition, scaled to 454g |
+| Protein-heavy buffet dinner | 3000 calories worth | Prepared | 3000 | 216.0 | 156.0 | 168.0 | Calories provided by Jason for buffet dinner; macros estimated as protein-heavy and scaled from prior protein-heavy dinner convention |
+
+**Daily Total:** 3278 calories, 231.0g protein, 195.5g carbs, 177.5g fat
+
+### 2026-08-04
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| RXBAR Peanut Butter Chocolate | 1 bar, 52g | Prepared | 210 | 12.0 | 23.0 | 9.0 | Nutrition from RXBAR product listing for one 52g bar |
+| Miscellaneous calories | 100 calories worth | Prepared | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason for some corn flakes and gummies; macros not specified |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Honey | 8g | Prepared | 24 | 0.0 | 6.6 | 0.0 | Estimated from USDA honey nutrition, scaled to 8g |
+| Potatoes | 425g | Raw | 327 | 8.7 | 74.4 | 0.4 | Weight provided raw; estimated from standard raw white potato nutrition consistent with prior logged raw potato values |
+| Chicken drumsticks, no skin | 400g | Cooked | 688 | 108.0 | 0.0 | 22.8 | Weighed cooked with skin removed; estimated from cooked skinless chicken drumstick meat nutrition |
+| Kimchi | 150g | Prepared | 23 | 1.6 | 3.6 | 0.8 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Seasoning | 100 calories worth | Prepared | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1932 calories, 170.3g protein, 185.6g carbs, 33.0g fat
+
+### 2026-08-05
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Estimated from USDA honey nutrition, scaled to 6g |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Kabaya Tough Gummy | 203g | Prepared | 648 | 17.5 | 150.0 | 0.8 | Scaled from Kabaya official Tough Gummy nutrition per 100g: 319 calories, 8.6g protein, 73.9g carbs, 0.4g fat |
+| Chicken drumsticks, no skin | 375g | Cooked | 645 | 101.3 | 0.0 | 21.4 | Weighed cooked with skin removed; estimated from cooked skinless chicken drumstick meat nutrition |
+| Hard-boiled egg | 1 large egg | Prepared | 78 | 6.3 | 0.6 | 5.3 | Estimated from standard large hard-boiled egg nutrition |
+| Kimchi | 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1964 calories, 166.2g protein, 235.9g carbs, 28.0g fat
