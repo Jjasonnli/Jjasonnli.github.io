@@ -717,3 +717,20 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
 **Daily Total:** 1964 calories, 166.2g protein, 235.9g carbs, 28.0g fat
+
+### 2026-08-06
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Estimated from USDA honey nutrition, scaled to 6g |
+| Jack Link's Teriyaki Beef Jerky | 35g | Prepared | 100 | 13.0 | 8.0 | 2.0 | Nutrition from 35g packaged listing; branded estimate |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| White rice | 270g | Cooked | 351 | 7.3 | 76.1 | 0.8 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Chicken drumsticks, no skin | 430g | Cooked | 740 | 116.1 | 0.0 | 24.5 | Weighed cooked with skin removed; estimated from cooked skinless chicken drumstick meat nutrition |
+| Hard-boiled egg | 1 large egg | Prepared | 78 | 6.3 | 0.6 | 5.3 | Estimated from standard large hard-boiled egg nutrition |
+| Kimchi | 75g | Prepared | 11 | 0.8 | 1.8 | 0.4 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1908 calories, 183.5g protein, 169.4g carbs, 33.0g fat
