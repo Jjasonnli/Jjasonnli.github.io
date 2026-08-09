@@ -734,3 +734,43 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
 **Daily Total:** 1908 calories, 183.5g protein, 169.4g carbs, 33.0g fat
+
+### 2026-08-07
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 260g | Prepared | 153 | 27.5 | 9.2 | 0.0 | Scaled from prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Honey | 5g | Prepared | 15 | 0.0 | 4.1 | 0.0 | Estimated from USDA honey nutrition, scaled to 5g |
+| Beef shank | 100g | Cooked | 200 | 34.0 | 0.0 | 7.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Rice cakes | 150 calories worth | Prepared | 150 | 2.6 | 30.0 | 2.6 | Calories provided by Jason; macros estimated from prior rice-cake ratio |
+| White rice | 150g | Cooked | 195 | 4.1 | 42.3 | 0.5 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Stewed mackerel | 150g | Cooked/stewed | 393 | 35.9 | 0.0 | 26.7 | Estimated from cooked mackerel nutrition; stew sauce not separately counted |
+| Chicken drumsticks, no skin | 150g | Cooked/stewed | 258 | 40.5 | 0.0 | 8.6 | Weighed cooked with skin removed; estimated from cooked skinless chicken drumstick meat nutrition; stew sauce not separately counted |
+| Kimchi | 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1789 calories, 149.7g protein, 154.0g carbs, 45.9g fat
+
+### 2026-08-08
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| White rice | 310g | Cooked | 403 | 8.4 | 87.4 | 0.9 | Weight provided cooked; estimated from standard cooked white rice nutrition |
+| Chicken drumsticks, no skin | 180g | Cooked | 310 | 48.6 | 0.0 | 10.3 | Weight provided cooked; estimated from cooked skinless chicken drumstick meat nutrition |
+| Beef shank | 60g | Cooked | 120 | 20.4 | 0.0 | 4.2 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Breakstone 4% cottage cheese | 121g | Prepared | 118 | 11.8 | 5.4 | 5.4 | Estimated from Breakstone 4% cottage cheese label values, scaled from 113g serving |
+| Japanese sweet potato | 540g | Raw | 464 | 8.6 | 108.5 | 0.3 | Assumed weighed raw; estimated from prior Japanese sweet potato estimate |
+| Beef shank | 150g | Cooked | 300 | 51.0 | 0.0 | 10.5 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Breakstone 4% cottage cheese | 70g | Prepared | 68 | 6.8 | 3.1 | 3.1 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged 121g entry |
+
+**Daily Total:** 1783 calories, 155.6g protein, 204.4g carbs, 34.7g fat
+
+### 2026-08-09
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Russet potatoes | 1100g | Raw | 869 | 28.6 | 201.3 | 1.0 | Assumed weighed raw; estimated from standard raw russet potato nutrition |
+
+**Daily Total:** 869 calories, 28.6g protein, 201.3g carbs, 1.0g fat
