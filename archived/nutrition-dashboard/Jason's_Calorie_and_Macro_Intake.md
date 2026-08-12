@@ -772,5 +772,31 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Russet potatoes | 1100g | Raw | 869 | 28.6 | 201.3 | 1.0 | Assumed weighed raw; estimated from standard raw russet potato nutrition |
+| Beef shank | 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Breakstone 4% cottage cheese | 117g | Prepared | 114 | 11.4 | 5.2 | 5.2 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged entries |
+| Radish kimchi | 60g | Prepared | 9 | 0.7 | 1.4 | 0.3 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Beef shank | 210g | Cooked | 420 | 71.4 | 0.0 | 14.7 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Kimchi | 80g | Prepared | 12 | 0.9 | 1.9 | 0.4 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
-**Daily Total:** 869 calories, 28.6g protein, 201.3g carbs, 1.0g fat
+**Daily Total:** 1924 calories, 181.0g protein, 209.8g carbs, 35.6g fat
+
+### 2026-08-10
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Cantonese dinner | 3000 calories worth | Prepared | 3000 | 220.0 | 250.0 | 124.0 | Calories provided by Jason for tonight's Cantonese meal; macros estimated as mostly protein with decent carbs |
+
+**Daily Total:** 3000 calories, 220.0g protein, 250.0g carbs, 124.0g fat
+
+### 2026-08-11
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Cascadian Farm Organic Raisin Bran Cereal | 1 whole box, 12 oz / 340g | Prepared | 1116 | 26.6 | 270.9 | 5.3 | Whole box calculated from 340g package; label basis 210 calories, 5g protein, 51g carbs, 1g fat per 64g serving; cereal only, no milk |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Honey | 5g | Prepared | 15 | 0.0 | 4.1 | 0.0 | Estimated from USDA honey nutrition, scaled to 5g |
+| Beef shank | 300g | Cooked | 600 | 102.0 | 0.0 | 21.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Cucumber kimchi | 250g | Prepared | 38 | 2.8 | 6.0 | 1.3 | Estimated from standard kimchi nutrition and prior logged kimchi values |
+
+**Daily Total:** 1969 calories, 167.4g protein, 293.0g carbs, 27.6g fat
