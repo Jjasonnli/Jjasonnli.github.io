@@ -800,3 +800,16 @@ Use this file to track daily food intake, calories, and macros.
 | Cucumber kimchi | 250g | Prepared | 38 | 2.8 | 6.0 | 1.3 | Estimated from standard kimchi nutrition and prior logged kimchi values |
 
 **Daily Total:** 1969 calories, 167.4g protein, 293.0g carbs, 27.6g fat
+
+### 2026-08-12
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Honey | 7g | Prepared | 21 | 0.0 | 5.7 | 0.0 | Estimated from USDA honey nutrition, scaled to 7g |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Kellogg's Raisin Bran | 1 serving, 59g | Prepared | 190 | 5.0 | 47.0 | 1.0 | Nutrition from Kellogg's Raisin Bran Original SmartLabel: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Beef shank | 500g | Cooked | 1000 | 170.0 | 0.0 | 35.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Japanese sweet potato | 350g | Raw | 301 | 5.6 | 70.3 | 0.2 | Assumed weighed raw; estimated from prior Japanese sweet potato estimate |
+
+**Daily Total:** 1972 calories, 220.6g protein, 201.0g carbs, 36.2g fat
