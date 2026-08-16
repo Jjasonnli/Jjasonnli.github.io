@@ -813,3 +813,47 @@ Use this file to track daily food intake, calories, and macros.
 | Japanese sweet potato | 350g | Raw | 301 | 5.6 | 70.3 | 0.2 | Assumed weighed raw; estimated from prior Japanese sweet potato estimate |
 
 **Daily Total:** 1972 calories, 220.6g protein, 201.0g carbs, 36.2g fat
+
+### 2026-08-13
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Honey | 7g | Prepared | 21 | 0.0 | 5.7 | 0.0 | Estimated from USDA honey nutrition, scaled to 7g |
+| Kellogg's Frosted Flakes | 2 servings, 74g total | Prepared | 260 | 4.0 | 66.0 | 0.0 | Nutrition from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Kellogg's Raisin Bran | 1 serving, 59g | Prepared | 190 | 5.0 | 47.0 | 1.0 | Nutrition from Kellogg's Raisin Bran Original SmartLabel: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Japanese sweet potato | 300g | Cooked | 396 | 3.6 | 93.0 | 0.6 | Weight provided cooked this time; estimated from cooked Japanese sweet potato nutrition |
+| Beef shank | 220g | Cooked | 440 | 74.8 | 0.0 | 15.4 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Breakstone 4% cottage cheese | 117g | Prepared | 114 | 11.4 | 5.2 | 5.2 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged entries |
+| Beef shank | 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+
+**Daily Total:** 2021 calories, 202.8g protein, 228.9g carbs, 36.2g fat
+
+### 2026-08-14
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 240g | Prepared | 141 | 25.4 | 8.5 | 0.0 | Scaled from prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Estimated from USDA honey nutrition, scaled to 6g |
+| Kellogg's Frosted Flakes | 107g | Prepared | 376 | 5.8 | 95.4 | 0.0 | Scaled from Kellogg's Frosted Flakes listing: 130 calories, 2g protein, 33g carbs, 0g fat per 37g serving |
+| Beef shank | 350g | Cooked | 700 | 119.0 | 0.0 | 24.5 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Hard-boiled egg | 1 large egg | Prepared | 78 | 6.3 | 0.6 | 5.3 | Estimated from standard large hard-boiled egg nutrition |
+| Japanese sweet potato | 150g | Raw | 129 | 2.4 | 30.1 | 0.1 | Weight provided raw; estimated from prior Japanese sweet potato estimate |
+| Banana | 1 medium banana | Prepared | 105 | 1.3 | 27.0 | 0.4 | Estimated from standard medium banana nutrition |
+| Winter melon | about 300g | Prepared | 39 | 1.2 | 9.0 | 0.1 | Amount estimated from Jason saying he ate a bunch of winter melon; estimated from standard winter melon nutrition |
+| Miscellaneous calories | 300 calories worth | Not specified | 300 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 1886 calories, 161.4g protein, 175.5g carbs, 30.4g fat
+
+### 2026-08-15
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 200g | Raw | 172 | 3.2 | 40.2 | 0.1 | Weight provided raw; estimated from prior Japanese sweet potato estimate |
+| Chicken drumsticks, no skin | 275g | Cooked | 473 | 74.3 | 0.0 | 15.7 | Weight provided cooked; no skin; estimated consistently with prior cooked chicken drumstick entries |
+| White rice | 125g | Cooked | 163 | 3.4 | 35.2 | 0.4 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Russet potatoes | 500g | Raw assumed | 395 | 13.0 | 91.5 | 0.5 | Basis not specified; assumed raw consistent with prior russet potato entry |
+| Beef shank | 280g | Cooked | 560 | 95.2 | 0.0 | 19.6 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Winter melon and tomatoes mix sauteed in oil | 400g | Cooked/prepared | 150 | 2.0 | 12.0 | 11.0 | Estimated from winter melon/tomato vegetables plus saute oil; oil amount not specified |
+
+**Daily Total:** 1913 calories, 191.1g protein, 178.9g carbs, 47.3g fat
