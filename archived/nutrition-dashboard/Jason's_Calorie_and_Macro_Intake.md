@@ -857,3 +857,17 @@ Use this file to track daily food intake, calories, and macros.
 | Winter melon and tomatoes mix sauteed in oil | 400g | Cooked/prepared | 150 | 2.0 | 12.0 | 11.0 | Estimated from winter melon/tomato vegetables plus saute oil; oil amount not specified |
 
 **Daily Total:** 1913 calories, 191.1g protein, 178.9g carbs, 47.3g fat
+
+### 2026-08-16
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Russet potatoes | 500g | Raw assumed | 395 | 13.0 | 91.5 | 0.5 | Basis not specified; assumed raw consistent with prior russet potato entries |
+| White rice | 220g | Cooked | 286 | 5.9 | 61.9 | 0.7 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Chicken drumsticks, pork loin, and beef shank mix | 260g | Cooked mixture | 491 | 78.0 | 0.0 | 17.1 | Estimated as an even cooked mixture of skinless chicken drumstick meat, pork loin, and beef shank |
+| Beef shank | 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Lean and fatty pork mix | 80g | Cooked | 184 | 19.0 | 0.0 | 12.0 | Estimated cooked lean/fatty pork mix; exact cut and fat ratio not specified |
+| Miscellaneous calories | 70 calories worth | Not specified | 70 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Luffa gourd stir fried with eggs | about 350g | Prepared | 250 | 12.0 | 17.0 | 17.0 | Estimated from luffa gourd, eggs, and stir-fry oil; exact egg/oil amount not specified |
+
+**Daily Total:** 2076 calories, 195.9g protein, 170.4g carbs, 61.3g fat
