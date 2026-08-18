@@ -871,3 +871,18 @@ Use this file to track daily food intake, calories, and macros.
 | Luffa gourd stir fried with eggs | about 350g | Prepared | 250 | 12.0 | 17.0 | 17.0 | Estimated from luffa gourd, eggs, and stir-fry oil; exact egg/oil amount not specified |
 
 **Daily Total:** 2076 calories, 195.9g protein, 170.4g carbs, 61.3g fat
+
+### 2026-08-17
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Kellogg's Raisin Bran | 2 servings, 118g total | Prepared | 380 | 10.0 | 94.0 | 2.0 | Based on prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk shake values |
+| Jack Link's Teriyaki Beef Jerky | 35g | Prepared | 100 | 13.0 | 8.0 | 2.0 | Nutrition from prior logged 35g packaged listing; corrected from 3g entry per Jason |
+| Premier Protein Cookies & Cream protein shake | 1 shake | Prepared | 160 | 30.0 | 4.0 | 3.0 | Estimated from Premier Protein Cookies & Cream shake label-style nutrition; exact product name entered as prime shake by Jason |
+| Russet potatoes | 500g | Raw | 395 | 13.0 | 91.5 | 0.5 | Weight provided raw; estimated from standard raw russet potato nutrition and prior logged values |
+| Beef shank | 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Lean and fatty pork mix | 100g | Cooked | 230 | 23.8 | 0.0 | 15.0 | Estimated from prior 80g cooked lean/fatty pork mix entry; exact cut and fat ratio not specified |
+| Breakstone 4% cottage cheese | 117g | Prepared | 114 | 11.4 | 5.2 | 5.2 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged entries |
+
+**Daily Total:** 1939 calories, 199.2g protein, 205.7g carbs, 44.2g fat
