@@ -886,3 +886,21 @@ Use this file to track daily food intake, calories, and macros.
 | Breakstone 4% cottage cheese | 117g | Prepared | 114 | 11.4 | 5.2 | 5.2 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged entries |
 
 **Daily Total:** 1939 calories, 199.2g protein, 205.7g carbs, 44.2g fat
+
+### 2026-08-18
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Kellogg's Raisin Bran | 2 servings, 118g total | Prepared | 380 | 10.0 | 94.0 | 2.0 | Based on prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk shake values |
+| Banana | 95g | Raw | 85 | 1.0 | 21.7 | 0.3 | Weight provided; estimated from standard raw banana nutrition |
+| Russet potatoes | 500g | Raw assumed | 395 | 13.0 | 91.5 | 0.5 | Basis not specified; assumed raw consistent with recent 500g potato entries |
+| Breakstone 4% cottage cheese | 117g | Prepared | 114 | 11.4 | 5.2 | 5.2 | Estimated from Breakstone 4% cottage cheese label values, scaled from prior logged entries |
+| Eggs | 1.5 large eggs | Prepared | 117 | 9.5 | 0.9 | 8.0 | Estimated from standard large egg nutrition, scaled to 1.5 eggs |
+| Tomatoes | 330g | Raw | 59 | 3.0 | 12.8 | 0.7 | Estimated from standard raw tomato nutrition |
+| Water spinach | 80g | Raw | 15 | 2.1 | 2.5 | 0.2 | Estimated from standard raw water spinach nutrition |
+| White rice | 80g | Cooked | 104 | 2.2 | 22.6 | 0.2 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Beef shank | 200g | Cooked | 400 | 68.0 | 0.0 | 14.0 | Weight provided cooked; estimated consistently with prior cooked beef shank entries |
+| Pork shoulder | 100g | Cooked | 230 | 29.0 | 0.0 | 13.0 | Weight provided cooked; estimated from prior cooked pork shoulder entry |
+
+**Daily Total:** 2059 calories, 179.2g protein, 254.2g carbs, 46.6g fat
