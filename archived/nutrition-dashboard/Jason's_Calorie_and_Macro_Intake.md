@@ -904,3 +904,13 @@ Use this file to track daily food intake, calories, and macros.
 | Pork shoulder | 100g | Cooked | 230 | 29.0 | 0.0 | 13.0 | Weight provided cooked; estimated from prior cooked pork shoulder entry |
 
 **Daily Total:** 2059 calories, 179.2g protein, 254.2g carbs, 46.6g fat
+
+### 2026-08-19
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Kellogg's Raisin Bran | 2 servings, 118g total | Prepared | 380 | 10.0 | 94.0 | 2.0 | Based on prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+
+**Daily Total:** 660 calories, 55.0g protein, 117.2g carbs, 2.0g fat
