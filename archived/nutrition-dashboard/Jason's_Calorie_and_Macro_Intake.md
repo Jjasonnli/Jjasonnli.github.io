@@ -912,5 +912,10 @@ Use this file to track daily food intake, calories, and macros.
 | Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
 | Kellogg's Raisin Bran | 2 servings, 118g total | Prepared | 380 | 10.0 | 94.0 | 2.0 | Based on prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
 | Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Banana | 82g | Raw | 73 | 0.9 | 18.8 | 0.3 | Weight provided; estimated from standard raw banana nutrition |
+| Chick-O-Stick candy | 70 calories worth | Prepared | 70 | 1.0 | 10.0 | 3.0 | Calories provided by Jason; macros estimated for peanut butter/coconut candy |
+| Hard-boiled eggs | 5 large eggs | Prepared | 390 | 31.5 | 3.0 | 26.5 | Estimated from prior logged large hard-boiled egg values, scaled to 5 eggs |
+| Steamed white fish, skin on | 350g | Cooked | 420 | 84.0 | 0.0 | 10.5 | Weight provided cooked; estimated as steamed skin-on white fish using prior white fish entries |
+| Chinese gourd | 1 lb / 454g | Cooked | 60 | 2.0 | 14.0 | 0.4 | Weight provided cooked; estimated as cooked Chinese gourd/winter melon style vegetable |
 
-**Daily Total:** 660 calories, 55.0g protein, 117.2g carbs, 2.0g fat
+**Daily Total:** 1673 calories, 174.4g protein, 163.0g carbs, 42.7g fat
