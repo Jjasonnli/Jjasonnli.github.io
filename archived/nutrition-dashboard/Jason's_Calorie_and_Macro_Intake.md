@@ -917,5 +917,6 @@ Use this file to track daily food intake, calories, and macros.
 | Hard-boiled eggs | 5 large eggs | Prepared | 390 | 31.5 | 3.0 | 26.5 | Estimated from prior logged large hard-boiled egg values, scaled to 5 eggs |
 | Steamed white fish, skin on | 350g | Cooked | 420 | 84.0 | 0.0 | 10.5 | Weight provided cooked; estimated as steamed skin-on white fish using prior white fish entries |
 | Chinese gourd | 1 lb / 454g | Cooked | 60 | 2.0 | 14.0 | 0.4 | Weight provided cooked; estimated as cooked Chinese gourd/winter melon style vegetable |
+| Oil for vegetables and fish | about 300 calories worth | Prepared | 300 | 0.0 | 0.0 | 33.3 | Calories added per Jason for oil used with the vegetables and fish; fat estimated from oil calories |
 
-**Daily Total:** 1673 calories, 174.4g protein, 163.0g carbs, 42.7g fat
+**Daily Total:** 1973 calories, 174.4g protein, 163.0g carbs, 76.0g fat
