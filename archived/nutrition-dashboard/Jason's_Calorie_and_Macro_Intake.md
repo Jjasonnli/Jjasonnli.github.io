@@ -920,3 +920,15 @@ Use this file to track daily food intake, calories, and macros.
 | Oil for vegetables and fish | about 300 calories worth | Prepared | 300 | 0.0 | 0.0 | 33.3 | Calories added per Jason for oil used with the vegetables and fish; fat estimated from oil calories |
 
 **Daily Total:** 1973 calories, 174.4g protein, 163.0g carbs, 76.0g fat
+
+### 2026-08-20
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Kellogg's Raisin Bran | 275g, about 4.66 servings | Prepared | 886 | 23.3 | 219.1 | 4.7 | Scaled from prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Pompano fish steamed with soy sauce | 400g | Cooked/steamed | 656 | 74.0 | 0.0 | 38.0 | Weight provided cooked/steamed; estimated as steamed pompano, a fattier fish; soy sauce calories not separately significant |
+| Stir fried long green beans | about 400g | Prepared | 250 | 8.0 | 32.0 | 14.0 | Estimated from long green beans plus stir-fry oil; exact oil amount not specified |
+
+**Daily Total:** 2072 calories, 150.3g protein, 274.3g carbs, 56.7g fat
