@@ -932,3 +932,19 @@ Use this file to track daily food intake, calories, and macros.
 | Stir fried long green beans | about 400g | Prepared | 250 | 8.0 | 32.0 | 14.0 | Estimated from long green beans plus stir-fry oil; exact oil amount not specified |
 
 **Daily Total:** 2072 calories, 150.3g protein, 274.3g carbs, 56.7g fat
+
+### 2026-08-21
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Corrected from 250g to 2.5 servings per Jason; Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving |
+| Quaker chocolate rice cakes | 3 cakes | Prepared | 180 | 3.0 | 36.0 | 3.0 | Estimated consistently with prior chocolate rice cake entries: 60 calories, 1g protein, 12g carbs, 1g fat per cake |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Honey | 21g additional | Prepared | 64 | 0.0 | 17.2 | 0.0 | Additional 21g honey; estimated from USDA honey nutrition |
+| Quaker chocolate rice cake | 1 cake additional | Prepared | 60 | 1.0 | 12.0 | 1.0 | Additional rice cake; estimated consistently with prior chocolate rice cake entries: 60 calories, 1g protein, 12g carbs, 1g fat per cake |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Honeydew melon | about 2.5 lb / 1134g | Raw | 408 | 6.1 | 102.1 | 1.6 | Estimated as edible honeydew portion; scaled from standard raw honeydew nutrition |
+| Stir fry tomato and egg | about 400g tomatoes and 3 eggs | Prepared | 426 | 22.9 | 17.5 | 28.7 | Estimated from about 400g tomatoes, 3 large eggs, and stir-fry oil; exact oil amount not specified |
+| Pompano fish, pan fried then steamed | about 400g | Cooked | 806 | 74.0 | 0.0 | 54.7 | Estimated as 400g pompano plus pan-fry oil; cooked by pan frying then steaming |
+
+**Daily Total:** 2358 calories, 152.0g protein, 217.0g carbs, 89.0g fat
