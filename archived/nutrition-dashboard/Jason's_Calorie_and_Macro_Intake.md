@@ -948,3 +948,18 @@ Use this file to track daily food intake, calories, and macros.
 | Pompano fish, pan fried then steamed | about 400g | Cooked | 806 | 74.0 | 0.0 | 54.7 | Estimated as 400g pompano plus pan-fry oil; cooked by pan frying then steaming |
 
 **Daily Total:** 2358 calories, 152.0g protein, 217.0g carbs, 89.0g fat
+
+### 2026-08-22
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Honeydew melon | about 2.5 lb / 1134g | Raw | 408 | 6.1 | 102.1 | 1.6 | Estimated as edible honeydew portion; scaled from standard raw honeydew nutrition |
+| Cucumber | 300g | Raw | 45 | 1.9 | 10.8 | 0.3 | Weight provided; estimated from standard raw cucumber nutrition |
+| Branzino, steamed | about 400g | Cooked | 500 | 88.0 | 0.0 | 16.0 | Estimated as one steamed branzino, about 400g cooked edible fish |
+| Gourd melon | a bunch, estimated about 1 lb / 454g | Cooked | 60 | 2.0 | 14.0 | 0.4 | Amount estimated from Jason saying a bunch; estimated as cooked Chinese gourd/winter melon style vegetable |
+| Hard-boiled eggs | 5 large eggs | Prepared | 390 | 31.5 | 3.0 | 26.5 | Estimated from prior logged large hard-boiled egg values, scaled to 5 eggs |
+| White rice | 250 calories worth | Cooked | 250 | 5.2 | 54.2 | 0.6 | Calories provided by Jason; macros estimated from standard cooked white rice nutrition |
+| Long bean sprouts stir fried | 40g | Prepared | 50 | 1.5 | 4.0 | 3.5 | Estimated from bean sprouts/long beans plus stir-fry oil; exact oil amount not specified |
+| Stir fried shrimp and chicken breast | 70g | Prepared | 110 | 18.0 | 0.0 | 3.0 | Estimated as mixed shrimp and chicken breast with some stir-fry oil |
+
+**Daily Total:** 1813 calories, 154.2g protein, 188.1g carbs, 51.9g fat
