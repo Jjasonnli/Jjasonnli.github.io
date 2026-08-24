@@ -975,3 +975,15 @@ Use this file to track daily food intake, calories, and macros.
 | Kellogg's Special K Red Berries cereal | 1/2 serving | Prepared | 75 | 1.5 | 17.0 | 0.3 | Estimated from Kellogg's Special K Red Berries label-style values; half serving |
 
 **Daily Total:** 1804 calories, 134.8g protein, 230.1g carbs, 29.5g fat
+
+### 2026-08-24
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker chocolate rice cakes | 3 cakes | Prepared | 180 | 3.0 | 36.0 | 3.0 | Estimated consistently with prior chocolate rice cake entries: 60 calories, 1g protein, 12g carbs, 1g fat per cake |
+| Kellogg's Special K Red Berries cereal | 1 serving | Prepared | 150 | 3.0 | 34.0 | 0.5 | Estimated from Kellogg's Special K Red Berries label-style values; one serving |
+| Member's Mark almond butter | 5g | Prepared | 31 | 1.1 | 1.0 | 2.8 | Estimated from standard almond butter nutrition, scaled to 5g |
+| Miscellaneous cake calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason for misc cake; macros not specified |
+| Protein-heavy buffet dinner | 3000 calories worth | Prepared | 3000 | 216.0 | 156.0 | 168.0 | Calories provided by Jason for tonight's buffet dinner; macros estimated as majority protein and consistent with prior protein-heavy buffet convention |
+
+**Daily Total:** 3461 calories, 223.1g protein, 227.0g carbs, 174.3g fat
