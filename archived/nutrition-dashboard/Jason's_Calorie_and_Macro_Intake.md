@@ -963,3 +963,15 @@ Use this file to track daily food intake, calories, and macros.
 | Stir fried shrimp and chicken breast | 70g | Prepared | 110 | 18.0 | 0.0 | 3.0 | Estimated as mixed shrimp and chicken breast with some stir-fry oil |
 
 **Daily Total:** 1813 calories, 154.2g protein, 188.1g carbs, 51.9g fat
+
+### 2026-08-23
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Russet potatoes | 1050g | Raw | 829 | 27.3 | 192.1 | 1.0 | Weight provided raw; estimated from standard raw russet potato nutrition and prior logged values |
+| Branzino, steamed | about 400g | Cooked | 500 | 88.0 | 0.0 | 16.0 | Estimated as one steamed branzino, about 400g cooked edible fish; consistent with prior logged branzino entry |
+| Stir fried Chinese gourd with shrimp and chicken | about 1.5 lb Chinese gourd with about 60g shrimp/chicken | Prepared | 250 | 18.0 | 21.0 | 12.2 | Updated per Jason: about 1.5 lb Chinese gourd; estimated from cooked Chinese gourd/winter melon style vegetable, about 60g shrimp/chicken, and stir-fry oil; exact oil amount not specified |
+| Miscellaneous calories | 150 calories worth | Not specified | 150 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Kellogg's Special K Red Berries cereal | 1/2 serving | Prepared | 75 | 1.5 | 17.0 | 0.3 | Estimated from Kellogg's Special K Red Berries label-style values; half serving |
+
+**Daily Total:** 1804 calories, 134.8g protein, 230.1g carbs, 29.5g fat
