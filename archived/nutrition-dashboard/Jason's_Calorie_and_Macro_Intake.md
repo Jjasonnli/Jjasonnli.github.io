@@ -987,3 +987,21 @@ Use this file to track daily food intake, calories, and macros.
 | Protein-heavy buffet dinner | 3000 calories worth | Prepared | 3000 | 216.0 | 156.0 | 168.0 | Calories provided by Jason for tonight's buffet dinner; macros estimated as majority protein and consistent with prior protein-heavy buffet convention |
 
 **Daily Total:** 3461 calories, 223.1g protein, 227.0g carbs, 174.3g fat
+
+### 2026-08-25
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Golden kiwis | 316g | Raw | 199 | 3.2 | 49.9 | 0.9 | Weight provided; estimated from standard golden kiwi nutrition |
+| Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Aldi honey oats with almond cereal | 1 serving, 40g | Prepared | 160 | 3.0 | 34.0 | 2.5 | Estimated from label-style honey oats with almond cereal values for one 40g serving |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 8g | Prepared | 50 | 1.8 | 1.6 | 4.5 | Estimated from standard almond butter nutrition, scaled to 8g |
+| Purely Elizabeth Original Ancient Grain Granola | 1 serving, 30g | Prepared | 130 | 3.0 | 18.0 | 5.0 | Nutrition from Purely Elizabeth product label: 130 calories, 3g protein, 18g carbs, 5g fat per 1/3 cup / 30g serving |
+| Purely Elizabeth Original Ancient Grain Granola | 1.5 servings, 45g additional | Prepared | 195 | 4.5 | 27.0 | 7.5 | Additional 1.5 servings per Jason; scaled from Purely Elizabeth product label: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Purely Elizabeth Original Ancient Grain Granola | 1 serving, 30g additional | Prepared | 130 | 3.0 | 18.0 | 5.0 | Additional 1 serving per Jason; nutrition from Purely Elizabeth product label: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Member's Mark Uncured Black Forest Ham | 330g | Prepared | 317 | 57.1 | 6.3 | 6.3 | Estimated from Sam's Club/Member's Mark uncured whole ham-style listing: 50 calories, 9g protein, 1g carbs, 1g fat per 52g serving; scaled to 330g |
+| White fish, steamed | 100g | Cooked/steamed | 120 | 23.0 | 0.0 | 2.5 | Weight provided; estimated as steamed lean white fish |
+| Chinese gourd with eggs and tomato | about 2 lb Chinese gourd, 2 eggs, 250g tomato | Prepared | 441 | 18.9 | 39.0 | 25.4 | Estimated from about 2 lb Chinese gourd, 2 large eggs, 250g tomato, and stir-fry oil; exact oil amount not specified |
+
+**Daily Total:** 2022 calories, 162.5g protein, 217.0g carbs, 59.6g fat
