@@ -1005,3 +1005,14 @@ Use this file to track daily food intake, calories, and macros.
 | Chinese gourd with eggs and tomato | about 2 lb Chinese gourd, 2 eggs, 250g tomato | Prepared | 441 | 18.9 | 39.0 | 25.4 | Estimated from about 2 lb Chinese gourd, 2 large eggs, 250g tomato, and stir-fry oil; exact oil amount not specified |
 
 **Daily Total:** 2022 calories, 162.5g protein, 217.0g carbs, 59.6g fat
+
+### 2026-08-26
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Friendly Farms plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 225 | 40.0 | 15.0 | 0.0 | Aldi/Friendly Farms plain nonfat Greek yogurt label-style values: 90 calories, 16g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Aldi Honey Crunch N Oats with Almonds cereal | 60g | Prepared | 240 | 4.5 | 49.5 | 3.8 | Aldi/Millville honey crunch oats with almonds label: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving; scaled to 60g |
+| Golden kiwis | 310g | Raw | 195 | 3.1 | 49.0 | 0.9 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 316g kiwi entry |
+| Member's Mark almond butter | 20g | Prepared | 124 | 4.4 | 4.0 | 11.2 | Estimated from standard almond butter nutrition, scaled to 20g |
+
+**Daily Total:** 784 calories, 52.0g protein, 117.5g carbs, 15.9g fat
