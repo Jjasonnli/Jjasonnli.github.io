@@ -1014,5 +1014,11 @@ Use this file to track daily food intake, calories, and macros.
 | Aldi Honey Crunch N Oats with Almonds cereal | 60g | Prepared | 240 | 4.5 | 49.5 | 3.8 | Aldi/Millville honey crunch oats with almonds label: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving; scaled to 60g |
 | Golden kiwis | 310g | Raw | 195 | 3.1 | 49.0 | 0.9 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 316g kiwi entry |
 | Member's Mark almond butter | 20g | Prepared | 124 | 4.4 | 4.0 | 11.2 | Estimated from standard almond butter nutrition, scaled to 20g |
+| Purely Elizabeth Original Ancient Grain Granola | 1 serving, 30g | Prepared | 130 | 3.0 | 18.0 | 5.0 | Nutrition from Purely Elizabeth product label used in prior log: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Purely Elizabeth Original Ancient Grain Granola | 1 serving, 30g additional | Prepared | 130 | 3.0 | 18.0 | 5.0 | Additional 1 serving per Jason; nutrition from Purely Elizabeth product label used in prior log: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Member's Mark Uncured Black Forest Ham | 320g | Prepared | 308 | 55.4 | 6.2 | 6.2 | Estimated from Sam's Club/Member's Mark uncured whole ham-style listing used previously: 50 calories, 9g protein, 1g carbs, 1g fat per 52g serving; scaled to 320g |
+| Eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.2 | 10.6 | Estimated from standard large egg nutrition, scaled to 2 eggs |
+| Chinese gourd with tomato | about 1.8 lb Chinese gourd and 250g tomato | Prepared | 273 | 5.8 | 31.8 | 14.2 | Estimated from about 1.8 lb Chinese gourd, 250g tomato, and stir-fry oil; exact oil amount not specified |
+| Chinese wontons with fish skin and pork filling | 250g | Prepared | 625 | 35.0 | 50.0 | 32.0 | Estimated for Chinese wontons made with fish skin wrapper and pork filling; weight provided, exact recipe not specified |
 
-**Daily Total:** 784 calories, 52.0g protein, 117.5g carbs, 15.9g fat
+**Daily Total:** 2406 calories, 166.8g protein, 242.7g carbs, 88.9g fat
