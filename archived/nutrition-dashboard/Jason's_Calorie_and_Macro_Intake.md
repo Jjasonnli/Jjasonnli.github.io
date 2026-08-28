@@ -1022,3 +1022,23 @@ Use this file to track daily food intake, calories, and macros.
 | Chinese wontons with fish skin and pork filling | 250g | Prepared | 625 | 35.0 | 50.0 | 32.0 | Estimated for Chinese wontons made with fish skin wrapper and pork filling; weight provided, exact recipe not specified |
 
 **Daily Total:** 2406 calories, 166.8g protein, 242.7g carbs, 88.9g fat
+
+### 2026-08-27
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Friendly Farms plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 225 | 40.0 | 15.0 | 0.0 | Aldi/Friendly Farms plain nonfat Greek yogurt label-style values used previously: 90 calories, 16g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Golden kiwis | 310g | Raw | 195 | 3.1 | 49.0 | 0.9 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 310g kiwi entry |
+| Aldi Honey Crunch N Oats with Almonds cereal | 82g | Prepared | 328 | 6.2 | 67.7 | 5.1 | Aldi/Millville honey crunch oats with almonds label used previously: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving; scaled to 82g |
+| Member's Mark almond butter | 15g | Prepared | 93 | 3.3 | 3.0 | 8.4 | Estimated from standard almond butter nutrition, scaled to 15g |
+| Purely Elizabeth Original Ancient Grain Granola | 10g | Prepared | 43 | 1.0 | 6.0 | 1.7 | Scaled from Purely Elizabeth product label used previously: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Russet potatoes | 250g | Raw assumed | 198 | 6.5 | 45.8 | 0.3 | Basis not specified; assumed raw consistent with recent potato entries and scaled from prior 500g raw potato log |
+| Purely Elizabeth Original Ancient Grain Granola | 25g additional | Prepared | 108 | 2.5 | 15.0 | 4.2 | Additional 25g per Jason; scaled from Purely Elizabeth product label used previously: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Member's Mark Uncured Black Forest Ham | 133g | Prepared | 128 | 23.0 | 2.6 | 2.6 | Estimated from Sam's Club/Member's Mark uncured whole ham-style listing used previously: 50 calories, 9g protein, 1g carbs, 1g fat per 52g serving; scaled to 133g |
+| Short rib, stewed | 53g, weighed cooked | Cooked/stewed | 159 | 13.3 | 0.0 | 11.7 | Weight provided cooked/stewed; estimated from cooked beef short rib nutrition |
+| Chinese gourd | 1 lb / 454g | Cooked | 60 | 2.0 | 14.0 | 0.4 | Amount provided; estimated as cooked Chinese gourd/winter melon style vegetable, no added oil specified |
+| Eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.2 | 10.6 | Estimated from standard large egg nutrition, scaled to 2 eggs |
+| Cooked tomatoes | 350g | Cooked | 63 | 3.2 | 13.7 | 0.7 | Weight provided cooked; estimated from cooked tomatoes, no added oil specified |
+| Stir-fry oil adjustment | about 175 calories worth | Prepared | 175 | 0.0 | 0.0 | 19.4 | Added per Jason to account for oil used stir-frying the Chinese gourd and tomatoes; midpoint of requested 150-200 calorie range |
+
+**Daily Total:** 1931 calories, 116.7g protein, 233.0g carbs, 66.0g fat
