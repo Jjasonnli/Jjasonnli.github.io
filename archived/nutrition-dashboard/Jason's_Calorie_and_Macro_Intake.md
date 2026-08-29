@@ -1042,3 +1042,22 @@ Use this file to track daily food intake, calories, and macros.
 | Stir-fry oil adjustment | about 175 calories worth | Prepared | 175 | 0.0 | 0.0 | 19.4 | Added per Jason to account for oil used stir-frying the Chinese gourd and tomatoes; midpoint of requested 150-200 calorie range |
 
 **Daily Total:** 1931 calories, 116.7g protein, 233.0g carbs, 66.0g fat
+
+### 2026-08-28
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark Uncured Black Forest Ham | 330g | Prepared | 317 | 57.1 | 6.3 | 6.3 | Estimated from Sam's Club/Member's Mark uncured whole ham-style listing used previously: 50 calories, 9g protein, 1g carbs, 1g fat per 52g serving; scaled to 330g |
+| Pickled radish | 100g | Prepared | 30 | 1.5 | 6.0 | 0.5 | Weight provided; estimated from standard pickled radish/radish kimchi nutrition |
+| Member's Mark frozen mango chunks | 285g | Frozen | 171 | 2.3 | 42.8 | 0.6 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g |
+| Member's Mark almond butter | 12g | Prepared | 74 | 2.6 | 2.4 | 6.7 | Estimated from standard almond butter nutrition, scaled to 12g |
+| Honey | 8g | Prepared | 24 | 0.0 | 6.6 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Aldi Honey Crunch N Oats with Almonds cereal | 1 serving, 40g | Prepared | 160 | 3.0 | 33.0 | 2.5 | Aldi/Millville honey crunch oats with almonds label used previously: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving |
+| Aldi Honey Crunch N Oats with Almonds cereal | 1 serving, 40g additional | Prepared | 160 | 3.0 | 33.0 | 2.5 | Additional serving per Jason; Aldi/Millville honey crunch oats with almonds label used previously: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving |
+| Honey | 6g additional | Prepared | 18 | 0.0 | 4.9 | 0.0 | Additional 6g per Jason; estimated from USDA honey nutrition |
+| Purely Elizabeth Original Ancient Grain Granola | 1 serving, 30g | Prepared | 130 | 3.0 | 18.0 | 5.0 | Nutrition from Purely Elizabeth product label used in prior logs: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving |
+| Beef short ribs, fat trimmed | 1 lb / 454g, weighed cooked, cooked in broth | Cooked | 955 | 131.7 | 0.0 | 45.4 | Weight provided cooked; estimated by scaling prior relatively lean cooked short ribs with visible fat trimmed, cooked in broth/soup style |
+| Pompano fish, steamed | 300g edible cooked fish | Cooked/steamed | 492 | 55.5 | 0.0 | 28.5 | Weight provided as edible steamed fish; scaled from prior steamed pompano entry |
+| Stir fried shrimp and chicken with bitter melon | about 70g shrimp/chicken and 140g bitter melon | Prepared | 175 | 19.5 | 7.0 | 7.2 | Estimated from about 70g stir fried shrimp/chicken plus 140g bitter melon and stir-fry oil; exact oil amount not specified |
+
+**Daily Total:** 2706 calories, 279.2g protein, 160.0g carbs, 105.2g fat
