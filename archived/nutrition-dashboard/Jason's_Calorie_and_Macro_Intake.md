@@ -1061,3 +1061,19 @@ Use this file to track daily food intake, calories, and macros.
 | Stir fried shrimp and chicken with bitter melon | about 70g shrimp/chicken and 140g bitter melon | Prepared | 175 | 19.5 | 7.0 | 7.2 | Estimated from about 70g stir fried shrimp/chicken plus 140g bitter melon and stir-fry oil; exact oil amount not specified |
 
 **Daily Total:** 2706 calories, 279.2g protein, 160.0g carbs, 105.2g fat
+
+### 2026-08-29
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark frozen mango chunks | 260g | Frozen | 156 | 2.1 | 39.0 | 0.5 | Weight provided; estimated from standard frozen mango nutrition and scaled from prior Member's Mark frozen mango entry |
+| Member's Mark almond butter | 11g | Prepared | 68 | 2.4 | 2.2 | 6.1 | Estimated from standard almond butter nutrition, scaled to 11g |
+| Aldi Honey Crunch N Oats with Almonds cereal | 60g | Prepared | 240 | 4.5 | 49.5 | 3.8 | Aldi/Millville honey crunch oats with almonds label used previously: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving; scaled to 60g |
+| Honey | 12g | Prepared | 36 | 0.0 | 9.8 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Honeydew melon | 250g | Raw | 90 | 1.3 | 22.5 | 0.4 | Weight provided; estimated from standard raw honeydew nutrition and scaled from prior honeydew entries |
+| White fish, pan seared with skin | about 300g cooked | Cooked | 450 | 69.0 | 0.0 | 15.0 | Weight provided cooked; estimated from prior cooked white fish entry, with skin and pan searing included |
+| Sea cucumbers, stir fried | 250g | Prepared | 220 | 20.0 | 8.0 | 12.0 | Weight provided; estimated from sea cucumber plus stir-fry oil; exact oil amount not specified |
+| Braised pork belly | about 120g | Cooked/braised | 620 | 11.0 | 0.0 | 64.0 | Estimated from prior logged 120g pork belly nutrition; fat content varies |
+| Cooked root vegetable | about 300g cooked | Cooked | 270 | 4.0 | 63.0 | 0.3 | Estimated as cooked starchy root vegetable; exact type not specified |
+
+**Daily Total:** 2150 calories, 114.3g protein, 194.0g carbs, 102.1g fat
