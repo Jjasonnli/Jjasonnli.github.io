@@ -1077,3 +1077,20 @@ Use this file to track daily food intake, calories, and macros.
 | Cooked root vegetable | about 300g cooked | Cooked | 270 | 4.0 | 63.0 | 0.3 | Estimated as cooked starchy root vegetable; exact type not specified |
 
 **Daily Total:** 2150 calories, 114.3g protein, 194.0g carbs, 102.1g fat
+
+### 2026-08-30
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Friendly Farms plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 225 | 40.0 | 15.0 | 0.0 | Aldi/Friendly Farms plain nonfat Greek yogurt label-style values used previously: 90 calories, 16g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Aldi Honey Crunch N Oats with Almonds cereal | 90g | Prepared | 360 | 6.8 | 74.3 | 5.6 | Aldi/Millville honey crunch oats with almonds label used previously: 160 calories, 3g protein, 33g carbs, 2.5g fat per 40g serving; scaled to 90g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Hami melon | 1.4 lb / 635g | Raw | 216 | 5.3 | 52.7 | 1.2 | Weight provided; estimated from standard raw Hami/cantaloupe-style melon nutrition |
+| Member's Mark Uncured Black Forest Ham | 500g | Prepared | 481 | 86.5 | 9.6 | 9.6 | Estimated from Sam's Club/Member's Mark uncured whole ham-style listing used previously: 50 calories, 9g protein, 1g carbs, 1g fat per 52g serving; scaled to 500g |
+| Stir fried root vegetable | about 250g | Prepared | 275 | 3.3 | 52.5 | 8.6 | Estimated as cooked starchy root vegetable plus stir-fry oil; exact vegetable and oil amount not specified |
+| White rice porridge | 380g | Prepared | 114 | 2.3 | 24.3 | 0.2 | Weight provided; estimated from plain white rice porridge/congee nutrition |
+| Sea cucumbers, stir fried | 120g | Prepared | 106 | 9.6 | 3.8 | 5.8 | Estimated from prior stir-fried sea cucumber entry, scaled to 120g; exact oil amount not specified |
+| Braised pork shoulder | 110g | Cooked/braised | 360 | 27.5 | 0.0 | 28.0 | Estimated for slightly fatty braised pork shoulder; fat content varies |
+
+**Daily Total:** 2167 calories, 181.3g protein, 240.4g carbs, 59.0g fat
+
