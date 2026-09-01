@@ -1094,3 +1094,29 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2167 calories, 181.3g protein, 240.4g carbs, 59.0g fat
 
+### 2026-08-31
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Oriental melon | 420g | Raw | 130 | 3.4 | 30.7 | 0.4 | Weight provided; estimated from standard raw Oriental melon nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 6g | Prepared | 18 | 0.0 | 4.9 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Mixed dinner: beef noodle soup, chili-oil meats, dumplings, egg tart, rice mochi, coconut bread, and beef skewer | about 3250 calories worth | Prepared | 3250 | 180.0 | 310.0 | 143.0 | Calories provided by Jason; macros estimated from beef noodle soup, chicken breast/thigh in chili oil, beef tendon, pig ear, beef shank in chili oil, 4 pan fried dumplings, 1 egg tart, about 100g Vietnamese rice mochi, about 70g baked coconut bread, and 1 beef skewer |
+
+**Daily Total:** 3460 calories, 185.6g protein, 347.6g carbs, 149.0g fat
+
+### 2026-09-01
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Friendly Farms plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 225 | 40.0 | 15.0 | 0.0 | Aldi/Friendly Farms plain nonfat Greek yogurt label-style values used previously: 90 calories, 16g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
+| Golden kiwis | 290g | Raw | 183 | 2.9 | 45.8 | 0.8 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 316g kiwi entry |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 43g | Prepared | 165 | 3.3 | 37.5 | 0.6 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving; scaled to 43g |
+| Member's Mark frozen mango chunks | 143g | Frozen | 86 | 1.1 | 21.5 | 0.3 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
+| Honey | 5g additional | Prepared | 15 | 0.0 | 4.1 | 0.0 | Additional 5g per Jason; estimated from USDA honey nutrition |
+| Member's Mark Light Low-Moisture Part-Skim Mozzarella String Cheese | 3 sticks, 72g total | Prepared | 150 | 18.0 | 3.0 | 7.5 | Nutrition from Member's Mark label-style listing: 50 calories, 6g protein, 1g carbs, 2.5g fat per 24g stick; scaled to 3 sticks |
+
+**Daily Total:** 916 calories, 67.5g protein, 137.1g carbs, 14.8g fat
+
