@@ -1116,7 +1116,8 @@ Use this file to track daily food intake, calories, and macros.
 | Kellogg's Special K Red Berries cereal | 43g | Prepared | 165 | 3.3 | 37.5 | 0.6 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving; scaled to 43g |
 | Member's Mark frozen mango chunks | 143g | Frozen | 86 | 1.1 | 21.5 | 0.3 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
 | Honey | 5g additional | Prepared | 15 | 0.0 | 4.1 | 0.0 | Additional 5g per Jason; estimated from USDA honey nutrition |
-| Member's Mark Light Low-Moisture Part-Skim Mozzarella String Cheese | 3 sticks, 72g total | Prepared | 150 | 18.0 | 3.0 | 7.5 | Nutrition from Member's Mark label-style listing: 50 calories, 6g protein, 1g carbs, 2.5g fat per 24g stick; scaled to 3 sticks |
+| Member's Mark Light Low-Moisture Part-Skim Mozzarella String Cheese | 5 sticks, 120g total | Prepared | 250 | 30.0 | 5.0 | 12.5 | Nutrition from Member's Mark label-style listing: 50 calories, 6g protein, 1g carbs, 2.5g fat per 24g stick; scaled to 5 sticks |
+| Vietnamese beef banh mi | 2 sandwiches, about 600 calories each | Prepared | 1200 | 52.0 | 150.0 | 44.0 | Calories estimated by Jason at about 600 per sandwich; macros estimated for beef banh mi with bread, beef, pickled vegetables, and sauce |
 
-**Daily Total:** 916 calories, 67.5g protein, 137.1g carbs, 14.8g fat
+**Daily Total:** 2216 calories, 131.5g protein, 289.1g carbs, 63.8g fat
 
