@@ -1137,3 +1137,18 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 1850 calories, 181.9g protein, 156.0g carbs, 52.4g fat
 
+### 2026-09-03
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark Light Low-Moisture Part-Skim Mozzarella String Cheese | 2 sticks, 48g total | Prepared | 100 | 12.0 | 2.0 | 5.0 | Nutrition from Member's Mark label-style listing used previously: 50 calories, 6g protein, 1g carbs, 2.5g fat per 24g stick; scaled to 2 sticks |
+| Golden kiwis | 300g | Raw | 189 | 3.0 | 47.4 | 0.9 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 316g kiwi entry |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 80g | Prepared | 308 | 6.0 | 69.8 | 1.1 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving; scaled to 80g |
+| Member's Mark frozen mango chunks | 163g | Frozen | 98 | 1.3 | 24.5 | 0.3 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
+| Honey | 4g additional | Prepared | 12 | 0.0 | 3.3 | 0.0 | Additional 4g per Jason; estimated from USDA honey nutrition |
+
+**Daily Total:** 999 calories, 60.5g protein, 169.2g carbs, 12.9g fat
+
