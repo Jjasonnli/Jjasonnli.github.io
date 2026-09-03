@@ -1121,3 +1121,19 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2216 calories, 131.5g protein, 289.1g carbs, 63.8g fat
 
+### 2026-09-02
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Kellogg's Special K Red Berries cereal | 80g | Prepared | 308 | 6.0 | 69.8 | 1.1 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving; scaled to 80g |
+| Member's Mark almond butter | 13g total | Prepared | 81 | 2.9 | 2.6 | 7.3 | Original 10g plus 3g additional per Jason; estimated from standard almond butter nutrition |
+| Honey | 11g | Prepared | 33 | 0.0 | 9.0 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark frozen mango chunks | 300g | Frozen | 180 | 2.4 | 45.0 | 0.6 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
+| Honey | 6g additional | Prepared | 18 | 0.0 | 4.9 | 0.0 | Additional 6g per Jason; estimated from USDA honey nutrition |
+| Member's Mark Light Low-Moisture Part-Skim Mozzarella String Cheese | 5 sticks, 120g total | Prepared | 250 | 30.0 | 5.0 | 12.5 | Nutrition from Member's Mark label-style listing used previously: 50 calories, 6g protein, 1g carbs, 2.5g fat per 24g stick; scaled to 5 sticks |
+| White fish, pan seared | about 450g cooked | Cooked | 675 | 103.5 | 0.0 | 22.5 | Estimated from prior cooked pan-seared white fish entry, scaled to about 450g |
+| Stir fried Chinese gourd | about 250g | Prepared | 105 | 1.1 | 7.7 | 8.4 | Estimated from cooked Chinese gourd plus stir-fry oil; exact oil amount not specified |
+
+**Daily Total:** 1850 calories, 181.9g protein, 156.0g carbs, 52.4g fat
+
