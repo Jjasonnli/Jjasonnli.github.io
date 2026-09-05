@@ -1155,3 +1155,20 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2115 calories, 203.5g protein, 180.2g carbs, 67.2g fat
 
+### 2026-09-04
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Kellogg's Special K Red Berries cereal | 90g | Prepared | 346 | 6.9 | 78.5 | 1.2 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving; scaled to 90g |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 11g | Prepared | 33 | 0.0 | 9.0 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Golden kiwi | 120g | Raw | 76 | 1.2 | 18.9 | 0.3 | Weight provided; estimated from standard golden kiwi nutrition and prior logged 316g kiwi entry |
+| Member's Mark frozen mango chunks | 283g | Frozen | 170 | 2.3 | 42.5 | 0.6 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake additional | Prepared | 60 | 0.5 | 13.0 | 0.5 | Additional rice cake per Jason; same Quaker SmartLabel nutrition as prior row |
+| Pork shoulder, cooked with skin on | about 350g cooked | Cooked | 1330 | 84.0 | 0.0 | 108.5 | Weight provided cooked; estimated for braised/cooked pork shoulder with skin on, fat content varies |
+| Stir fried Chinese gourd | about 300g | Prepared | 126 | 1.3 | 9.2 | 10.1 | Estimated from cooked Chinese gourd plus stir-fry oil; exact oil amount not specified |
+
+**Daily Total:** 2463 calories, 134.9g protein, 198.1g carbs, 127.3g fat
+
