@@ -1167,8 +1167,8 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark frozen mango chunks | 283g | Frozen | 170 | 2.3 | 42.5 | 0.6 | Weight provided; estimated from standard frozen mango nutrition at about 60 calories per 100g, consistent with prior Member's Mark frozen mango entries |
 | Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
 | Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake additional | Prepared | 60 | 0.5 | 13.0 | 0.5 | Additional rice cake per Jason; same Quaker SmartLabel nutrition as prior row |
-| Pork shoulder, cooked with skin on | about 350g cooked | Cooked | 1330 | 84.0 | 0.0 | 108.5 | Weight provided cooked; estimated for braised/cooked pork shoulder with skin on, fat content varies |
+| Pork shoulder, cooked with skin on | about 350g cooked | Cooked | 1050 | 91.0 | 0.0 | 73.5 | Weight provided cooked; revised per Jason that the meat itself was on the leaner side, with skin still included; fat content varies |
 | Stir fried Chinese gourd | about 300g | Prepared | 126 | 1.3 | 9.2 | 10.1 | Estimated from cooked Chinese gourd plus stir-fry oil; exact oil amount not specified |
 
-**Daily Total:** 2463 calories, 134.9g protein, 198.1g carbs, 127.3g fat
+**Daily Total:** 2183 calories, 141.9g protein, 198.1g carbs, 92.3g fat
 
