@@ -1172,3 +1172,22 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2183 calories, 141.9g protein, 198.1g carbs, 92.3g fat
 
+
+### 2026-09-05
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Cucumber | 200g | Raw | 30 | 1.3 | 7.3 | 0.2 | Weight provided; estimated from USDA raw cucumber with peel nutrition |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| White fish, pan seared | 160g cooked | Cooked | 240 | 36.8 | 0.0 | 8.0 | Weight provided cooked; estimated from prior pan-seared white fish entries |
+| Nature's Own 100% Whole Wheat Hamburger Bun | 1 bun | Prepared | 130 | 6.0 | 25.0 | 2.0 | Nutrition from current product label listings for one 53g bun |
+| 90/10 ground beef | 150g | Raw | 268 | 29.5 | 0.0 | 14.7 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Cooked fuzzy melon (mo qua) | 700g | Cooked | 93 | 3.1 | 21.6 | 0.6 | Weight provided cooked; estimated using prior cooked Chinese gourd/winter melon style vegetable entries, no added oil specified |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 additional rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Member's Mark frozen mango chunks | 303g | Frozen | 195 | 0.0 | 46.4 | 0.0 | Weight provided; scaled from EWG-listed Member's Mark Organic Mango Chunks label: 80 calories, 19g carbs, 0g fat, and 0g protein per 124g serving |
+| Honey | 22g | Prepared | 67 | 0.0 | 18.1 | 0.0 | Estimated from USDA honey nutrition, scaled to 22g |
+| Kellogg's Special K Red Berries cereal | 39g | Prepared | 150 | 3.0 | 34.0 | 0.5 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving |
+
+**Daily Total:** 1891 calories, 141.8g protein, 180.4g carbs, 62.1g fat
