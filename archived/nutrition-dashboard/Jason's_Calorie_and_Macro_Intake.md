@@ -1204,5 +1204,7 @@ Use this file to track daily food intake, calories, and macros.
 | White fish with skin, steamed | 250g cooked | Cooked/steamed | 350 | 57.5 | 0.0 | 12.5 | Weight provided cooked; estimated by scaling prior steamed skin-on white fish entry |
 | Lean pork | about 60g cooked | Cooked | 120 | 17.4 | 0.0 | 4.8 | Amount approximate; estimated from prior generic cooked lean pork entry |
 | White rice | 210g | Cooked | 273 | 5.7 | 59.2 | 0.6 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 additional rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Kellogg's Special K Red Berries cereal | about 15g | Prepared | 58 | 1.2 | 13.1 | 0.2 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving |
 
-**Daily Total:** 1819 calories, 159.8g protein, 167.5g carbs, 54.6g fat
+**Daily Total:** 1937 calories, 161.5g protein, 193.6g carbs, 55.3g fat
