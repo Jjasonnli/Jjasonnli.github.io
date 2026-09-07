@@ -1191,3 +1191,18 @@ Use this file to track daily food intake, calories, and macros.
 | Kellogg's Special K Red Berries cereal | 39g | Prepared | 150 | 3.0 | 34.0 | 0.5 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per serving |
 
 **Daily Total:** 1891 calories, 141.8g protein, 180.4g carbs, 62.1g fat
+
+### 2026-09-06
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Nature's Own 100% Whole Wheat Hamburger Bun | 2 buns | Prepared | 260 | 12.0 | 50.0 | 4.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+| Cucumber | 200g | Raw | 30 | 1.3 | 7.3 | 0.2 | Weight provided; estimated from USDA raw cucumber with peel nutrition |
+| Quaker Caramel Chocolate Chip Rice Cakes | 2 rice cakes | Prepared | 120 | 1.0 | 26.0 | 1.0 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
+| Nature's Own 100% Whole Wheat Hamburger Bun | 1 additional bun | Prepared | 130 | 6.0 | 25.0 | 2.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+| White fish with skin, steamed | 250g cooked | Cooked/steamed | 350 | 57.5 | 0.0 | 12.5 | Weight provided cooked; estimated by scaling prior steamed skin-on white fish entry |
+| Lean pork | about 60g cooked | Cooked | 120 | 17.4 | 0.0 | 4.8 | Amount approximate; estimated from prior generic cooked lean pork entry |
+| White rice | 210g | Cooked | 273 | 5.7 | 59.2 | 0.6 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+
+**Daily Total:** 1819 calories, 159.8g protein, 167.5g carbs, 54.6g fat
