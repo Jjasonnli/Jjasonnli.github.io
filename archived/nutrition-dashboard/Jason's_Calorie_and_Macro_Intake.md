@@ -1208,3 +1208,30 @@ Use this file to track daily food intake, calories, and macros.
 | Kellogg's Special K Red Berries cereal | about 15g | Prepared | 58 | 1.2 | 13.1 | 0.2 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving |
 
 **Daily Total:** 1937 calories, 161.5g protein, 193.6g carbs, 55.3g fat
+
+### 2026-09-07
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Banana | 120g | Raw | 107 | 1.3 | 27.4 | 0.4 | Weight provided; estimated from USDA raw banana nutrition, edible portion |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Buffet dinner, mostly protein | about 4000-4500 calories; logged midpoint 4250 calories | Prepared | 4250 | 300.0 | 200.0 | 250.0 | Calories estimated by Jason as about 4000-4500; logged midpoint. Macro split is a rough protein-heavy estimate for buffet-style portions |
+
+**Daily Total:** 4417 calories, 301.8g protein, 240.4g carbs, 250.9g fat
+
+### 2026-09-08
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Honey | 11g | Prepared | 33 | 0.0 | 9.0 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Kellogg's Special K Red Berries cereal | 127g | Prepared | 488 | 9.8 | 110.7 | 1.6 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 127g |
+| Quaker Caramel Chocolate Chip Rice Cakes | 3 additional rice cakes | Prepared | 180 | 1.5 | 39.0 | 1.5 | Two rice cakes plus one more per Jason; nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
+| Miscellaneous calories | 150 calories worth | Not specified | 150 | 0.0 | 0.0 | 0.0 | Combined 50 calories plus 100 calories per Jason; macros not specified |
+| Nature's Own 100% Whole Wheat Hamburger Bun | 1 bun | Prepared | 130 | 6.0 | 25.0 | 2.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+| Lean pork | 300g cooked | Cooked | 600 | 87.0 | 0.0 | 24.0 | Weight provided cooked; estimated from prior generic cooked lean pork entry |
+| Purely Elizabeth Original Ancient Grain Granola | 2 servings, 60g total | Prepared | 260 | 6.0 | 36.0 | 10.0 | Nutrition from Purely Elizabeth product label used in prior logs: 130 calories, 3g protein, 18g carbs, 5g fat per 30g serving; scaled to 2 servings |
+| Cooked fuzzy melon (mo qua) | about 150g | Cooked | 20 | 0.7 | 4.6 | 0.1 | Amount approximate; estimated by scaling prior cooked fuzzy melon entry, no added oil specified |
+
+**Daily Total:** 2123 calories, 149.2g protein, 238.3g carbs, 44.8g fat
