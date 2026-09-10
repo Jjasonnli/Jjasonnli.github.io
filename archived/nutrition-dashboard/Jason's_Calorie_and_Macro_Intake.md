@@ -1235,3 +1235,19 @@ Use this file to track daily food intake, calories, and macros.
 | Cooked fuzzy melon (mo qua) | about 150g | Cooked | 20 | 0.7 | 4.6 | 0.1 | Amount approximate; estimated by scaling prior cooked fuzzy melon entry, no added oil specified |
 
 **Daily Total:** 2123 calories, 149.2g protein, 238.3g carbs, 44.8g fat
+
+### 2026-09-09
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Chocolate Chip Rice Cakes | 2 rice cakes | Prepared | 120 | 1.0 | 26.0 | 1.0 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 11g | Prepared | 68 | 2.4 | 2.2 | 6.2 | Estimated from standard almond butter nutrition, scaled to 11g |
+| Honey | 10g additional | Prepared | 30 | 0.0 | 8.2 | 0.0 | Additional 10g per Jason; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 60g | Prepared | 231 | 4.6 | 52.3 | 0.8 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 60g |
+| Golden kiwis | 200g | Raw | 127 | 2.0 | 31.6 | 0.5 | Weight provided; estimated from standard golden kiwi nutrition and prior logged golden kiwi entries |
+| Honey | 5g additional | Prepared | 15 | 0.0 | 4.1 | 0.0 | Additional 5g per Jason; estimated from USDA honey nutrition |
+| Member's Mark frozen mango chunks | 357g | Frozen | 230 | 0.0 | 54.7 | 0.0 | Weight provided; scaled from EWG-listed Member's Mark Organic Mango Chunks label used previously: 80 calories, 19g carbs, 0g fat, and 0g protein per 124g serving |
+
+**Daily Total:** 1051 calories, 46.0g protein, 199.3g carbs, 8.5g fat
