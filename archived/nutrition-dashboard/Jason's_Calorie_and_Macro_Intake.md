@@ -1253,5 +1253,6 @@ Use this file to track daily food intake, calories, and macros.
 | Nature's Own 100% Whole Wheat Hamburger Bun | 2 buns | Prepared | 260 | 12.0 | 50.0 | 4.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
 | 90/10 ground beef | 260g | Raw | 464 | 51.1 | 0.0 | 25.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
 | Cucumber | 200g | Raw | 30 | 1.3 | 7.3 | 0.2 | Weight provided; estimated from USDA raw cucumber with peel nutrition |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
 
-**Daily Total:** 1865 calories, 110.9g protein, 269.6g carbs, 38.7g fat
+**Daily Total:** 2025 calories, 140.9g protein, 272.6g carbs, 41.2g fat
