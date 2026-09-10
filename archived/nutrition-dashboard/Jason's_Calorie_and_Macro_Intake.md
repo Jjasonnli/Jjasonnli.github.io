@@ -1249,5 +1249,9 @@ Use this file to track daily food intake, calories, and macros.
 | Golden kiwis | 200g | Raw | 127 | 2.0 | 31.6 | 0.5 | Weight provided; estimated from standard golden kiwi nutrition and prior logged golden kiwi entries |
 | Honey | 5g additional | Prepared | 15 | 0.0 | 4.1 | 0.0 | Additional 5g per Jason; estimated from USDA honey nutrition |
 | Member's Mark frozen mango chunks | 357g | Frozen | 230 | 0.0 | 54.7 | 0.0 | Weight provided; scaled from EWG-listed Member's Mark Organic Mango Chunks label used previously: 80 calories, 19g carbs, 0g fat, and 0g protein per 124g serving |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 additional rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Nature's Own 100% Whole Wheat Hamburger Bun | 2 buns | Prepared | 260 | 12.0 | 50.0 | 4.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+| 90/10 ground beef | 260g | Raw | 464 | 51.1 | 0.0 | 25.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Cucumber | 200g | Raw | 30 | 1.3 | 7.3 | 0.2 | Weight provided; estimated from USDA raw cucumber with peel nutrition |
 
-**Daily Total:** 1051 calories, 46.0g protein, 199.3g carbs, 8.5g fat
+**Daily Total:** 1865 calories, 110.9g protein, 269.6g carbs, 38.7g fat
