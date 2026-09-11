@@ -1256,3 +1256,18 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
 
 **Daily Total:** 2025 calories, 140.9g protein, 272.6g carbs, 41.2g fat
+
+### 2026-09-10
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 11g | Prepared | 68 | 2.4 | 2.2 | 6.2 | Estimated from standard almond butter nutrition, scaled to 11g |
+| Honey | 8g | Prepared | 24 | 0.0 | 6.6 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 79g | Prepared | 304 | 6.1 | 68.9 | 1.0 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 79g |
+| Member's Mark frozen blueberries | 140g | Frozen | 80 | 1.0 | 17.0 | 1.0 | Weight matches label serving; Member's Mark frozen blueberries label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| 90/10 ground beef | 450g | Raw | 804 | 88.4 | 0.0 | 44.2 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Nature's Own 100% Whole Wheat Hamburger Buns | 3 buns | Prepared | 390 | 18.0 | 75.0 | 6.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+
+**Daily Total:** 1930 calories, 152.4g protein, 194.7g carbs, 58.9g fat
