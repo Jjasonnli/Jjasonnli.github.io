@@ -1304,3 +1304,18 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Sticks | 4 sticks | Prepared | 200 | 24.0 | 0.0 | 8.0 | Based on prior logged Member's Mark cheese stick nutrition: 50 calories, 6g protein, 0g carbs, and 2g fat per stick |
 
 **Daily Total:** 1885 calories, 138.1g protein, 209.9g carbs, 46.1g fat
+
+### 2026-09-13
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| White rice | 420g | Cooked | 546 | 11.4 | 118.4 | 1.2 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Kellogg's Special K Red Berries cereal | 60g | Prepared | 231 | 4.6 | 52.3 | 0.8 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 60g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Member's Mark frozen blueberries | 140g | Frozen | 80 | 1.0 | 17.0 | 1.0 | Weight matches label serving; Member's Mark frozen blueberries label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Sticks | 5 sticks | Prepared | 250 | 30.0 | 0.0 | 10.0 | Based on prior logged Member's Mark cheese stick nutrition: 50 calories, 6g protein, 0g carbs, and 2g fat per stick |
+
+**Daily Total:** 1935 calories, 144.1g protein, 209.9g carbs, 48.1g fat
