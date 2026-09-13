@@ -1271,3 +1271,36 @@ Use this file to track daily food intake, calories, and macros.
 | Nature's Own 100% Whole Wheat Hamburger Buns | 3 buns | Prepared | 390 | 18.0 | 75.0 | 6.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
 
 **Daily Total:** 1930 calories, 152.4g protein, 194.7g carbs, 58.9g fat
+
+### 2026-09-11
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Kellogg's Special K Red Berries cereal | 58g | Prepared | 223 | 4.5 | 50.6 | 0.7 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 58g |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark frozen blueberries | 158g | Frozen | 90 | 1.1 | 19.2 | 1.1 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| 90/10 ground beef | 450g | Raw | 804 | 88.4 | 0.0 | 44.2 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Nature's Own 100% Whole Wheat Hamburger Buns | 2 buns | Prepared | 260 | 12.0 | 50.0 | 4.0 | Nutrition from current product label listings used previously: 130 calories, 6g protein, 25g carbs, and 2g fat per 53g bun |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Braised cooked pork belly | 10g | Cooked/braised | 52 | 0.9 | 0.0 | 5.3 | Weight provided; estimated by scaling prior logged braised pork belly nutrition at about 620 calories, 11g protein, and 64g fat per 120g |
+| Honey | 5g additional | Prepared | 15 | 0.0 | 4.1 | 0.0 | Additional 5g per Jason; estimated from USDA honey nutrition |
+| Member's Mark frozen mango chunks | 160g | Frozen | 103 | 0.0 | 24.5 | 0.0 | Weight provided; scaled from EWG-listed Member's Mark Organic Mango Chunks label used previously: 80 calories, 19g carbs, 0g fat, and 0g protein per 124g serving |
+
+**Daily Total:** 1899 calories, 145.6g protein, 183.6g carbs, 61.4g fat
+
+### 2026-09-12
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Kellogg's Special K Red Berries cereal | 60g | Prepared | 231 | 4.6 | 52.3 | 0.8 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 60g |
+| Member's Mark frozen blueberries | 140g | Frozen | 80 | 1.0 | 17.0 | 1.0 | Weight matches label serving; Member's Mark frozen blueberries label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| White rice | 420g | Cooked | 546 | 11.4 | 118.4 | 1.2 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Sticks | 4 sticks | Prepared | 200 | 24.0 | 0.0 | 8.0 | Based on prior logged Member's Mark cheese stick nutrition: 50 calories, 6g protein, 0g carbs, and 2g fat per stick |
+
+**Daily Total:** 1885 calories, 138.1g protein, 209.9g carbs, 46.1g fat
