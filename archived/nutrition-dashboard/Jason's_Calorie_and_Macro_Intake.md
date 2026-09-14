@@ -1319,3 +1319,12 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Sticks | 5 sticks | Prepared | 250 | 30.0 | 0.0 | 10.0 | Based on prior logged Member's Mark cheese stick nutrition: 50 calories, 6g protein, 0g carbs, and 2g fat per stick |
 
 **Daily Total:** 1935 calories, 144.1g protein, 209.9g carbs, 48.1g fat
+
+### 2026-09-14
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Chocolate Chip Rice Cakes | 2 rice cakes | Prepared | 120 | 1.0 | 26.0 | 1.0 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
+| Buffet dinner | about 4400 calories | Prepared | 4400 | 320.0 | 200.0 | 258.0 | Calories estimated by Jason; macro split is an assumption based on a protein-heavy buffet dinner |
+
+**Daily Total:** 4520 calories, 321.0g protein, 226.0g carbs, 259.0g fat
