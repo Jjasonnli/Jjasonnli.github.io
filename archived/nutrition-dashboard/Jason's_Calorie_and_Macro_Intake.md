@@ -1328,3 +1328,19 @@ Use this file to track daily food intake, calories, and macros.
 | Buffet dinner | about 4400 calories | Prepared | 4400 | 320.0 | 200.0 | 258.0 | Calories estimated by Jason; macro split is an assumption based on a protein-heavy buffet dinner |
 
 **Daily Total:** 4520 calories, 321.0g protein, 226.0g carbs, 259.0g fat
+
+### 2026-09-15
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| White rice | 410g | Cooked | 533 | 11.1 | 115.6 | 1.2 | Weight provided cooked; estimated from standard cooked white rice nutrition and prior logged values |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Kellogg's Special K Red Berries cereal | 84g | Prepared | 323 | 6.5 | 73.2 | 1.1 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 84g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Member's Mark frozen blueberries | 140g | Frozen | 80 | 1.0 | 17.0 | 1.0 | Weight matches label serving; Member's Mark frozen blueberries label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| PBfit Classic Peanut Butter Powder | 1 serving | Prepared | 60 | 8.0 | 5.0 | 2.0 | Based on PBfit Classic label values used as 60 calories, 8g protein, 5g carbs, and 2g fat per serving |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
+
+**Daily Total:** 1984 calories, 153.7g protein, 236.0g carbs, 42.9g fat
