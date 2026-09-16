@@ -1344,3 +1344,22 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on prior logged Member's Mark strawberry ultra-filtered milk protein shake values |
 
 **Daily Total:** 1984 calories, 153.7g protein, 236.0g carbs, 42.9g fat
+
+### 2026-09-16
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Chinese steamed mantou | about 80g cooked | Cooked/steamed | 178 | 6.1 | 35.9 | 1.0 | Amount approximate; estimated from generic steamed mantou nutrition scaled to 80g cooked weight |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark frozen blueberries | 140g | Frozen | 80 | 1.0 | 17.0 | 1.0 | Weight matches label serving; Member's Mark frozen blueberries label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 60g | Prepared | 231 | 4.6 | 52.3 | 0.8 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 60g |
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| StarKist chunk light tuna in water | 2 cans, 226g total drained | Drained | 180 | 40.0 | 0.0 | 1.0 | Based on StarKist 5 oz can label: 90 calories, 20g protein, 0g carbs, and 0.5g fat per 113g drained can; tuna variety assumed because exact can type was not specified |
+| Best Foods Purely 100% Avocado Oil Mayonnaise | 1 tbsp + 2g extra | Prepared | 115 | 0.0 | 0.0 | 12.7 | Includes the original 1 tbsp plus 2g extra; extra amount estimated from the existing 1 tbsp product values |
+| White rice | 187g | Cooked | 243 | 5.0 | 52.7 | 0.6 | Cooked weight; estimated from the established tracker basis of about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice, scaled to 187g |
+| Kimchi | about 80g | Prepared | 12 | 0.8 | 2.4 | 0.4 | Amount approximate; estimated from generic kimchi nutrition scaled to 80g |
+
+**Daily Total:** 1927 calories, 155.1g protein, 195.5g carbs, 53.1g fat
