@@ -1363,3 +1363,11 @@ Use this file to track daily food intake, calories, and macros.
 | Kimchi | about 80g | Prepared | 12 | 0.8 | 2.4 | 0.4 | Amount approximate; estimated from generic kimchi nutrition scaled to 80g |
 
 **Daily Total:** 1927 calories, 155.1g protein, 195.5g carbs, 53.1g fat
+
+### 2026-09-17
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 350g | Raw | 625 | 68.7 | 0.0 | 34.4 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+
+**Daily Total:** 625 calories, 68.7g protein, 0.0g carbs, 34.4g fat
