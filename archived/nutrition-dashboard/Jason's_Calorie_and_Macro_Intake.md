@@ -1369,5 +1369,51 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | 90/10 ground beef | 350g | Raw | 625 | 68.7 | 0.0 | 34.4 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Member's Mark frozen blueberries | 150g | Frozen | 86 | 1.1 | 18.2 | 1.1 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Kellogg's Special K Red Berries cereal | 60g | Prepared | 231 | 4.6 | 52.3 | 0.8 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving; scaled to 60g |
+| Quaker Caramel Chocolate Chip Rice Cake | 1 rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
+| Best Foods Purely 100% Avocado Oil Mayonnaise | 10g | Prepared | 67 | 0.0 | 0.0 | 7.3 | Amount provided; estimated by scaling the established 1 tbsp value of 100 calories and 11g fat using an assumed 15g tablespoon |
+| White rice | 360g | Cooked | 468 | 9.7 | 101.5 | 1.1 | Cooked weight; estimated from the established tracker basis of about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice; includes 15g additional rice |
+| StarKist chunk light tuna in water | 1 can, 113g drained | Drained | 90 | 20.0 | 0.0 | 0.5 | Based on StarKist 5 oz can label: 90 calories, 20g protein, 0g carbs, and 0.5g fat per 113g drained can |
+| Kimchi | about 60g | Prepared | 9 | 0.6 | 1.8 | 0.3 | Amount approximate; estimated from generic kimchi nutrition scaled to 60g |
+| Onions and green pepper | about 50g combined handful | Prepared | 15 | 0.5 | 3.5 | 0.1 | Amount and split approximate; estimated from a small combined handful of onions and green pepper |
+| Member's Mark frozen mango chunks | 1 serving, 124g | Frozen | 80 | 0.0 | 19.0 | 0.0 | Based on the established Member's Mark frozen mango label basis: 80 calories and 19g carbs per 124g serving |
 
-**Daily Total:** 625 calories, 68.7g protein, 0.0g carbs, 34.4g fat
+**Daily Total:** 2023 calories, 143.9g protein, 231.5g carbs, 51.7g fat
+
+### 2026-09-18
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Member's Mark frozen mango chunks | 280g | Frozen | 181 | 0.0 | 42.9 | 0.0 | Weight provided; scaled from the established Member's Mark frozen mango label basis of 80 calories and 19g carbs per 124g serving |
+| Honey | 20g total | Prepared | 60 | 0.0 | 16.4 | 0.0 | Includes the original 15g plus 5g additional honey; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| StarKist chunk light tuna in water | 2 cans, 226g total drained | Drained | 180 | 40.0 | 0.0 | 1.0 | Based on StarKist 5 oz can label: 90 calories, 20g protein, 0g carbs, and 0.5g fat per 113g drained can; tuna variety assumed from the established tuna entry |
+| White rice | 360g | Cooked | 468 | 9.7 | 101.5 | 1.1 | Cooked weight; revised from 412g to offset approximately 10g of mayonnaise under the 1,900-calorie target; based on about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice |
+| Onions and green pepper | about 50g combined | Prepared | 15 | 0.5 | 3.5 | 0.1 | Amount and split approximate; estimated from a small combined amount of onions and green pepper |
+| Best Foods Purely 100% Avocado Oil Mayonnaise | about 10g | Prepared | 67 | 0.0 | 0.0 | 7.3 | Amount approximate; estimated by scaling the established 1 tbsp value of 100 calories and 11g fat using an assumed 15g tablespoon |
+
+**Daily Total:** 1929 calories, 149.3g protein, 212.3g carbs, 46.6g fat
+
+### 2026-09-19
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark frozen blueberries | 350g | Frozen | 200 | 2.5 | 42.5 | 2.5 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Honey | 16g | Prepared | 48 | 0.0 | 13.1 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| Member's Mark frozen mango chunks | 278g | Frozen | 179 | 0.0 | 42.6 | 0.0 | Weight provided; scaled from the established Member's Mark frozen mango label basis of 80 calories and 19g carbs per 124g serving |
+| Honey | 6g additional | Prepared | 18 | 0.0 | 4.9 | 0.0 | Additional amount provided; estimated from USDA honey nutrition |
+| Member's Mark vanilla protein shake | 2 shakes | Prepared | 320 | 60.0 | 6.0 | 5.0 | Based on established Member's Mark protein shake values: 160 calories, 30g protein, 3g carbs, and 2.5g fat per shake |
+| Pancakes with maple syrup and butter | 5 pancakes, about 170g cooked plus toppings | Prepared | 530 | 11.0 | 68.0 | 25.0 | Restaurant estimate; syrup and butter amounts were not provided |
+| House fries / pan-seared potatoes | about 200g | Prepared | 320 | 4.0 | 45.0 | 15.0 | Restaurant estimate; includes assumed cooking oil |
+| Eggs Benedict components with pulled pork | 2 eggs, 1 English muffin, hollandaise, and about 130g cooked pulled pork | Prepared | 730 | 52.0 | 28.0 | 45.0 | Restaurant estimate; includes one whole English muffin (two halves) estimated at about 130 calories, 5g protein, 25g carbs, and 1g fat |
+
+**Daily Total:** 2607 calories, 167.7g protein, 264.1g carbs, 98.1g fat
