@@ -1207,7 +1207,7 @@ Use this file to track daily food intake, calories, and macros.
 | Quaker Caramel Chocolate Chip Rice Cake | 1 additional rice cake | Prepared | 60 | 0.5 | 13.0 | 0.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g |
 | Kellogg's Special K Red Berries cereal | about 15g | Prepared | 58 | 1.2 | 13.1 | 0.2 | Estimated from Kellogg's Special K Red Berries label-style values used previously: 150 calories, 3g protein, 34g carbs, 0.5g fat per 39g serving |
 
-**Daily Total:** 1937 calories, 161.5g protein, 193.6g carbs, 55.3g fat
+**Daily Total:** 1877 calories, 161.0g protein, 180.6g carbs, 54.8g fat
 
 ### 2026-09-07
 
@@ -1415,5 +1415,37 @@ Use this file to track daily food intake, calories, and macros.
 | Pancakes with maple syrup and butter | 5 pancakes, about 170g cooked plus toppings | Prepared | 530 | 11.0 | 68.0 | 25.0 | Restaurant estimate; syrup and butter amounts were not provided |
 | House fries / pan-seared potatoes | about 200g | Prepared | 320 | 4.0 | 45.0 | 15.0 | Restaurant estimate; includes assumed cooking oil |
 | Eggs Benedict components with pulled pork | 2 eggs, 1 English muffin, hollandaise, and about 130g cooked pulled pork | Prepared | 730 | 52.0 | 28.0 | 45.0 | Restaurant estimate; includes one whole English muffin (two halves) estimated at about 130 calories, 5g protein, 25g carbs, and 1g fat |
+| Miscellaneous calories | about 300 calories | Prepared | 300 | 25.0 | 25.0 | 11.1 | Calories provided by Jason; macros evenly split by calorie share across protein, carbs, and fat (100 calories each) |
 
-**Daily Total:** 2607 calories, 167.7g protein, 264.1g carbs, 98.1g fat
+**Daily Total:** 2907 calories, 192.7g protein, 289.1g carbs, 109.2g fat
+
+### 2026-09-20
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Honey | 26g total | Prepared | 78 | 0.0 | 21.3 | 0.0 | Includes the original 15g plus 11g additional honey; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
+| 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
+| Kellogg's Special K Red Berries cereal | 0g | Prepared | 0 | 0.0 | 0.0 | 0.0 | Revised to zero per Jason; cereal not eaten |
+| Member's Mark vanilla protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established Member's Mark protein shake values: 160 calories, 30g protein, 3g carbs, and 2.5g fat per shake |
+| Member's Mark mixed vegetables, frozen | 24 oz, about 680g | Frozen | 410 | 16.4 | 90.2 | 0.0 | Based on Member's Mark label reference: 50 calories, 2g protein, 11g carbs, and 0g fat per 83g serving; scaled to 24 oz |
+| Onions and green pepper | 100g total, 50g each | Raw | 30 | 1.1 | 7.0 | 0.2 | Weight provided; estimated from 50g raw onion plus 50g raw green pepper |
+| Member's Mark frozen mango chunks | 176g | Frozen | 114 | 0.0 | 27.0 | 0.0 | Amount selected to use the remaining calories under the 1,900-calorie target; based on 80 calories and 19g carbs per 124g serving |
+
+**Daily Total:** 1900 calories, 149.6g protein, 230.5g carbs, 40.3g fat
+
+### 2026-09-21
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Chocolate Chip Rice Cakes | 3 rice cakes | Prepared | 180 | 1.5 | 39.0 | 1.5 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
+| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Auntie Anne's Cinnamon Sugar Pretzel Nuggets | about 100g | Prepared | 300 | 6.0 | 57.5 | 5.4 | Approximate scaling from Auntie Anne's official nutrition guide: small serving 167g, 500 calories, 10g protein, 96g carbs, and 9g fat |
+| Miscellaneous calories | 50 calories worth | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Potato chips | 200 calories worth | Not specified | 200 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Potato chips | 130g | Prepared | 743 | 9.3 | 69.6 | 46.4 | Estimated from standard potato-chip nutrition, scaled to 130g |
+| Dinner | about 2000 calories | Prepared | 2000 | 250.0 | 125.0 | 55.6 | Calories fixed by Jason; macros are an approximate protein-heavy split |
+
+**Daily Total:** 3503 calories, 266.8g protein, 299.3g carbs, 108.9g fat
