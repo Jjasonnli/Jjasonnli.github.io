@@ -1449,3 +1449,58 @@ Use this file to track daily food intake, calories, and macros.
 | Dinner | about 2000 calories | Prepared | 2000 | 250.0 | 125.0 | 55.6 | Calories fixed by Jason; macros are an approximate protein-heavy split |
 
 **Daily Total:** 3503 calories, 266.8g protein, 299.3g carbs, 108.9g fat
+
+### 2026-09-22
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sushi feast | about 4500 calories | Prepared | 4500 | 375.0 | 375.0 | 166.7 | Calories provided by Jason; macros are an approximate even calorie split across protein, carbs, and fat, with values rounded |
+
+**Daily Total:** 4500 calories, 375.0g protein, 375.0g carbs, 166.7g fat
+
+### 2026-09-23
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+| Specially Selected sourdough round bread | 244g total | Prepared | 511 | 22.7 | 107.8 | 0.0 | Includes the previously logged 71g plus 173g additional; scaled from listed nutrition of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
+| Honey | 41g total | Prepared | 123 | 0.0 | 33.6 | 0.0 | Includes the previously logged 31g plus 10g additional; estimated from USDA honey nutrition |
+| Hard-boiled eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.1 | 10.6 | Estimated from standard nutrition for two large hard-boiled eggs |
+| SunButter Original sunflower seed butter | 6g | Prepared | 38 | 1.3 | 1.5 | 3.4 | Scaled from the official label basis of 200 calories, 7g protein, 8g carbs, and 18g fat per 32g serving |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Member's Mark almond butter | 1 serving, 32g | Prepared | 198 | 7.0 | 6.4 | 17.9 | Revised from 10g to one 32g serving; estimated from standard almond butter nutrition |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+
+**Daily Total:** 1776 calories, 154.7g protein, 196.4g carbs, 42.4g fat
+
+### 2026-09-24
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+
+**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+
+### 2026-09-25
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+
+**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+
+### 2026-09-26
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+
+**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+
+### 2026-09-27
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+
+**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
