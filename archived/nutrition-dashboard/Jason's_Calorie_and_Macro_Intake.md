@@ -1470,8 +1470,9 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
 | Member's Mark almond butter | 1 serving, 32g | Prepared | 198 | 7.0 | 6.4 | 17.9 | Revised from 10g to one 32g serving; estimated from standard almond butter nutrition |
 | Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Quaker Caramel Chocolate Chip Rice Cakes | 2 rice cakes | Prepared | 120 | 1.0 | 26.0 | 1.0 | Nutrition from Quaker SmartLabel used previously: 60 calories, 13g carbs, 0.5g fat, and less than 1g protein per cake; protein logged as 0.5g per cake |
 
-**Daily Total:** 1776 calories, 154.7g protein, 196.4g carbs, 42.4g fat
+**Daily Total:** 1896 calories, 155.7g protein, 222.4g carbs, 43.4g fat
 
 ### 2026-09-24
 
