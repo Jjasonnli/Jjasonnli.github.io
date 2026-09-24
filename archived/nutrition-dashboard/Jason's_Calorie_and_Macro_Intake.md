@@ -1479,8 +1479,10 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+| Specially Selected sourdough round bread | 150g | Prepared | 314 | 14.0 | 66.3 | 0.0 | Scaled from listed nutrition of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
+| Honey | 12g | Prepared | 36 | 0.0 | 9.8 | 0.0 | Weight provided; estimated from USDA honey nutrition |
 
-**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+**Daily Total:** 740 calories, 87.1g protein, 76.1g carbs, 8.5g fat
 
 ### 2026-09-25
 
