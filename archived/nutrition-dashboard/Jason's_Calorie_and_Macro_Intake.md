@@ -103,6 +103,8 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Sticky rice | 360g | Cooked | 350 | 7.3 | 76.0 | 0.7 | Estimated from standard cooked glutinous rice nutrition |
 | Chicken breast | 440g | Cooked | 726 | 136.4 | 0.0 | 15.8 | Estimated as cooked skinless chicken breast |
+| Specially Selected sourdough round bread | 190g | Prepared | 398 | 17.7 | 84.0 | 0.0 | Scaled from previously logged label basis of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
+| Hard-boiled eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.1 | 10.6 | Estimated from standard nutrition for two large hard-boiled eggs; no added cooking fat assumed |
 | Frank's RedHot sauce | 20g | Prepared | 0 | 0.0 | 0.0 | 0.0 | Frank's hot sauce is effectively zero-calorie at this amount; sodium not tracked |
 | Rice crackers | 180 calories worth | Prepared | 180 | 2.0 | 36.0 | 3.0 | Calories provided by Jason; macros estimated |
 | Pineapple | 250g | Raw | 125 | 1.4 | 32.8 | 0.3 | Estimated from standard raw pineapple nutrition |
@@ -155,7 +157,6 @@ Use this file to track daily food intake, calories, and macros.
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
-| Member's Mark plain nonfat Greek yogurt | 340g | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on label nutrition: 100 calories, 18g protein, 6g carbs, and 0g fat per 170g serving; 340g equals 2 servings |
 | Banana | 236g | Raw, edible portion without peel | 210 | 2.6 | 53.9 | 0.8 | Estimated from standard raw banana nutrition; weight excludes peel |
 | Chocolate rice cake | 1 cake | Prepared | 60 | 1.0 | 12.0 | 1.0 | Estimated from a standard chocolate-flavored rice cake; brand not specified |
 | Beef noodle soup base with beef | 1 bowl, excluding separately listed wontons and roasted meats | Prepared | 500 | 25.0 | 65.0 | 15.0 | Rough estimate for noodles, broth, and beef; bowl size and noodle quantity not specified |
@@ -911,7 +912,7 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Good & Gather plain nonfat Greek yogurt | 2.5 servings, 425g total | Prepared | 250 | 45.0 | 15.0 | 0.0 | Target label: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2.5 servings |
 | Kellogg's Raisin Bran | 2 servings, 118g total | Prepared | 380 | 10.0 | 94.0 | 2.0 | Based on prior logged Kellogg's Raisin Bran values: 190 calories, 5g protein, 47g carbs, 1g fat per 59g serving |
-| Honey | 10g | Prepared | 30 | 0.0 | 8.2 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| Honey | 20g total | Prepared | 60 | 0.0 | 16.4 | 0.0 | Includes the previously logged 10g plus 10g additional; estimated from USDA honey nutrition |
 | Banana | 82g | Raw | 73 | 0.9 | 18.8 | 0.3 | Weight provided; estimated from standard raw banana nutrition |
 | Chick-O-Stick candy | 70 calories worth | Prepared | 70 | 1.0 | 10.0 | 3.0 | Calories provided by Jason; macros estimated for peanut butter/coconut candy |
 | Hard-boiled eggs | 5 large eggs | Prepared | 390 | 31.5 | 3.0 | 26.5 | Estimated from prior logged large hard-boiled egg values, scaled to 5 eggs |
@@ -1481,24 +1482,46 @@ Use this file to track daily food intake, calories, and macros.
 | Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
 | Specially Selected sourdough round bread | 150g | Prepared | 314 | 14.0 | 66.3 | 0.0 | Scaled from listed nutrition of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
 | Honey | 12g | Prepared | 36 | 0.0 | 9.8 | 0.0 | Weight provided; estimated from USDA honey nutrition |
+| White rice | 300g | Cooked | 390 | 8.1 | 84.6 | 0.9 | Weight provided cooked; estimated from the established basis of about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice |
+| Stewed mackerel, leaner portion | 100g | Cooked/stewed | 205 | 22.0 | 0.0 | 13.0 | Amount provided; estimated for a leaner portion of stewed mackerel, with oil/sauce uncertainty |
+| Stewed pork belly | 100g | Cooked/stewed | 520 | 9.0 | 0.0 | 53.0 | Amount provided; estimated from prior braised pork belly values; fat content and sauce can vary substantially |
+| Kimchi | 120g | Prepared | 18 | 1.2 | 3.6 | 0.6 | Weight provided; scaled from prior kimchi estimates |
 
-**Daily Total:** 740 calories, 87.1g protein, 76.1g carbs, 8.5g fat
+**Daily Total:** 1873 calories, 127.4g protein, 164.3g carbs, 76.0g fat
 
 ### 2026-09-25
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on prior logged label nutrition: 100 calories, 18g protein, 6g carbs, 0g fat per 170g serving; scaled to 2 servings |
+| Honey | 15g total | Prepared | 45 | 0.0 | 12.3 | 0.0 | Includes the previously logged 10g plus 5g additional; estimated from USDA honey nutrition |
+| Member's Mark almond butter | 1 serving, 32g | Prepared | 198 | 7.0 | 6.4 | 17.9 | Estimated from standard almond butter nutrition, scaled to 32g |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Weight provided; scaled from Member's Mark frozen blueberries label data used previously: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| White rice | 500g | Cooked | 650 | 13.5 | 141.0 | 1.5 | Weight provided cooked; estimated from the established basis of about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice |
+| StarKist chunk light tuna in water | 1 can, 113g drained | Drained | 90 | 20.0 | 0.0 | 0.5 | Based on established StarKist 5 oz can values: 90 calories, 20g protein, 0g carbs, and 0.5g fat |
+| Best Foods Purely 100% Avocado Oil Mayonnaise | 14g | Prepared | 93 | 0.0 | 0.0 | 10.3 | Estimated by scaling the established 1 tbsp value of 100 calories and 11g fat using an assumed 15g tablespoon |
+| SunButter Original sunflower seed butter | 10g | Prepared | 63 | 2.2 | 2.5 | 5.6 | Scaled from the official label basis of 200 calories, 7g protein, 8g carbs, and 18g fat per 32g serving |
+| Quaker White Cheddar rice cake | 1 cake (12g) | Prepared | 60 | 0.5 | 9.0 | 2.0 | Current package nutrition: 60 calories, 2g fat, 9g carbs, and less than 1g protein; protein logged as 0.5g |
 
-**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+**Daily Total:** 1949 calories, 154.3g protein, 217.2g carbs, 48.3g fat
 
 ### 2026-09-26
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+| Specially Selected sourdough round bread | 190g | Prepared | 398 | 17.7 | 84.0 | 0.0 | Scaled from previously logged label basis of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
+| Hard-boiled eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.1 | 10.6 | Estimated from standard nutrition for two large hard-boiled eggs; no added cooking fat assumed |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Scaled from prior Member's Mark frozen blueberry label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Honey | 20g total | Prepared | 60 | 0.0 | 16.4 | 0.0 | Includes the previously logged 10g plus 10g additional; estimated from USDA honey nutrition |
+| Quaker White Cheddar rice cakes | 2 cakes total (12g each) | Prepared | 120 | 1.0 | 18.0 | 4.0 | Two cakes total; current package nutrition per cake: 60 calories, 2g fat, 9g carbs, and less than 1g protein; protein logged as 0.5g per cake |
+| White rice | 300g | Cooked | 390 | 8.1 | 84.6 | 0.9 | Weight provided cooked; estimated from established tracker basis per 100g cooked rice |
+| Potatoes | 80g | Cooked in soup | 70 | 1.5 | 16.1 | 0.1 | Weight provided cooked; estimated from standard cooked potato nutrition |
+| Chicken breast in soup | 100g | Cooked | 165 | 31.0 | 0.0 | 3.6 | Revised from 120g to 100g per Jason; estimated as lean cooked chicken breast; soup broth not counted separately |
+| Cucumber kimchi | 100g | Prepared | 15 | 1.1 | 2.4 | 0.5 | Estimated using prior generic kimchi basis; recipe and oil may vary |
 
-**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+**Daily Total:** 1924 calories, 148.1g protein, 256.6g carbs, 30.2g fat
 
 ### 2026-09-27
 
