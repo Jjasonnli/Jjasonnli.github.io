@@ -1536,5 +1536,6 @@ Use this file to track daily food intake, calories, and macros.
 | Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from USDA honey nutrition |
 | Member's Mark almond butter | 32g | Prepared | 198 | 7.0 | 6.4 | 17.9 | Estimated from established tracker basis for a 32g serving |
 | Pork shoulder | 50g | Cooked | 115 | 14.5 | 0.0 | 6.5 | Estimated by scaling the prior cooked pork shoulder basis of 230 calories, 29g protein, and 13g fat per 100g; leanness can vary |
+| Quaker White Cheddar rice cake | 1 cake (12g) | Prepared | 60 | 0.5 | 9.0 | 2.0 | Current package nutrition: 60 calories, 2g fat, 9g carbs, and less than 1g protein; protein logged as 0.5g |
 
-**Daily Total:** 1918 calories, 168.4g protein, 202.5g carbs, 44.7g fat
+**Daily Total:** 1978 calories, 168.9g protein, 211.5g carbs, 46.7g fat
