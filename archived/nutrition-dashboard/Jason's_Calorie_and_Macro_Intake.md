@@ -1528,5 +1528,13 @@ Use this file to track daily food intake, calories, and macros.
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
 | Chicken breast | 325g | Raw | 390 | 73.1 | 0.0 | 8.5 | Weight provided raw; estimated from standard boneless, skinless raw chicken breast nutrition |
+| White rice | 510g | Cooked | 663 | 13.8 | 143.8 | 1.5 | Weight provided cooked; estimated from established tracker basis of about 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat per 100g cooked rice |
+| StarKist chunk light tuna in water | 2 cans, 226g total drained | Drained | 180 | 40.0 | 0.0 | 1.0 | Based on established StarKist 5 oz can values per 113g drained can: 90 calories, 20g protein, 0g carbs, and 0.5g fat; drained weight assumed |
+| Best Foods Purely 100% Avocado Oil Mayonnaise | 10g | Prepared | 67 | 0.0 | 0.0 | 7.3 | Estimated by scaling the established product basis of 100 calories and 11g fat per assumed 15g tablespoon; Best Foods Purely assumed |
+| Member's Mark plain nonfat Greek yogurt | 1 serving, 170g | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label values per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
+| Member's Mark frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Scaled from established label data: 80 calories, 1g protein, 17g carbs, and 1g fat per 140g serving |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from USDA honey nutrition |
+| Member's Mark almond butter | 32g | Prepared | 198 | 7.0 | 6.4 | 17.9 | Estimated from established tracker basis for a 32g serving |
+| Pork shoulder | 50g | Cooked | 115 | 14.5 | 0.0 | 6.5 | Estimated by scaling the prior cooked pork shoulder basis of 230 calories, 29g protein, and 13g fat per 100g; leanness can vary |
 
-**Daily Total:** 390 calories, 73.1g protein, 0.0g carbs, 8.5g fat
+**Daily Total:** 1918 calories, 168.4g protein, 202.5g carbs, 44.7g fat
