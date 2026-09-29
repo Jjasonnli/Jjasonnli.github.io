@@ -1539,3 +1539,26 @@ Use this file to track daily food intake, calories, and macros.
 | Quaker White Cheddar rice cake | 1 cake (12g) | Prepared | 60 | 0.5 | 9.0 | 2.0 | Current package nutrition: 60 calories, 2g fat, 9g carbs, and less than 1g protein; protein logged as 0.5g |
 
 **Daily Total:** 1978 calories, 168.9g protein, 211.5g carbs, 46.7g fat
+
+
+### 2026-09-28
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Buffet dinner | about 4500 calories | Prepared | 4500 | 375.0 | 375.0 | 166.7 | Calories provided by Jason; macros estimated as an even calorie split across protein, carbs, and fat |
+
+**Daily Total:** 4500 calories, 375.0g protein, 375.0g carbs, 166.7g fat
+
+
+### 2026-09-29
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 1 serving, 170g | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label values per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
+| Member's Mark frozen mixed berries | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on Member's Mark Natural Triple Berry Blend label: per 140g serving, 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
+| Member's Mark vanilla protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established Member's Mark protein shake values: 160 calories, 30g protein, 3g carbs, and 2.5g fat per shake |
+
+| Nanu's Hot Chicken #6 meal | 1 meal | Prepared | 1620 | 70.0 | 155.0 | 80.0 | Estimated: three Nashville hot fried chicken tenders, seasoned fries, house Belgian waffle, pickles, and Nanu's sauce; restaurant menu does not publish nutrition facts |
+
+**Daily Total:** 2085 calories, 120.0g protein, 214.3g carbs, 84.5g fat
