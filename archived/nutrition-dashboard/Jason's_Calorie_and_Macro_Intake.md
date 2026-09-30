@@ -1430,7 +1430,8 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark almond butter | 10g | Prepared | 62 | 2.2 | 2.0 | 5.6 | Estimated from standard almond butter nutrition, scaled to 10g |
 | 90/10 ground beef | 300g | Raw | 536 | 58.9 | 0.0 | 29.5 | Weight provided raw; estimated from 90/10 raw ground beef nutrition at about 200 calories, 22g protein, and 11g fat per 112g serving |
 | Kellogg's Special K Red Berries cereal | 0g | Prepared | 0 | 0.0 | 0.0 | 0.0 | Revised to zero per Jason; cereal not eaten |
-| Member's Mark vanilla protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established Member's Mark protein shake values: 160 calories, 30g protein, 3g carbs, and 2.5g fat per shake |
+| Smucker's Uncrustables Peanut Butter & Grape Jelly | 1 sandwich (80g) | Prepared | 320 | 10.0 | 36.0 | 17.0 | Corrected to Jason's 320-calorie Uncrustables; macros use the 80g large PB & grape jelly sandwich profile |
+| Miscellaneous: honey, fries, and chicken tenders | 300 calories worth | Prepared | 300 | 10.0 | 44.0 | 9.0 | Calories provided by Jason; macros estimated for a mix of honey, fries, and chicken tenders |
 | Member's Mark mixed vegetables, frozen | 24 oz, about 680g | Frozen | 410 | 16.4 | 90.2 | 0.0 | Based on Member's Mark label reference: 50 calories, 2g protein, 11g carbs, and 0g fat per 83g serving; scaled to 24 oz |
 | Onions and green pepper | 100g total, 50g each | Raw | 30 | 1.1 | 7.0 | 0.2 | Weight provided; estimated from 50g raw onion plus 50g raw green pepper |
 | Member's Mark frozen mango chunks | 176g | Frozen | 114 | 0.0 | 27.0 | 0.0 | Amount selected to use the remaining calories under the 1,900-calorie target; based on 80 calories and 19g carbs per 124g serving |
@@ -1561,4 +1562,4 @@ Use this file to track daily food intake, calories, and macros.
 
 | Nanu's Hot Chicken #6 meal | 1 meal | Prepared | 1620 | 70.0 | 155.0 | 80.0 | Estimated: three Nashville hot fried chicken tenders, seasoned fries, house Belgian waffle, pickles, and Nanu's sauce; restaurant menu does not publish nutrition facts |
 
-**Daily Total:** 2085 calories, 120.0g protein, 214.3g carbs, 84.5g fat
+**Daily Total:** 2545 calories, 110.0g protein, 291.3g carbs, 108.0g fat
