@@ -1588,10 +1588,11 @@ Use this file to track daily food intake, calories, and macros.
 | Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
 | Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
 | Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established product label per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
-| Kirkland chicken sandwich on pretzel bun, without mayo | 1 sandwich | Prepared | 500 | 40.0 | 50.0 | 14.0 | Estimated from components: pretzel bun, sliced chicken, Swiss and cheddar, and lettuce; Dijon mayo omitted; exact nutrition unavailable |
+| Kirkland chicken sandwich on pretzel bun, without mayo | 1 sandwich (201g) | Prepared | 400 | 28.0 | 30.0 | 18.0 | Nutrition facts label supplied by Jason; label lists 400 calories, 28g protein, 30g carbs, and 18g fat per 201g sandwich; Dijon mayo omitted per Jason. |
 | White rice | 300g | Cooked | 390 | 8.1 | 84.6 | 0.9 | Estimated using established cooked white rice values per 100g |
 | Kimchi | 100g | Prepared | 15 | 1.0 | 2.4 | 0.5 | Generic estimate; brand and recipe unspecified |
 | Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established product label values |
 | Spicy stir-fried pork belly (Dwaejigogi-bokkeum) | About 120g | Cooked | 500 | 12.0 | 5.0 | 48.0 | Estimated for fatty pork belly with spicy sauce and some stir-fry oil; exact recipe and oil amount unknown |
+| Member's Mark protein shake | 1 additional shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established product label values |
 
-**Daily Total:** 1970 calories, 129.1g protein, 207.3g carbs, 67.9g fat
+**Daily Total:** 2030 calories, 147.1g protein, 190.3g carbs, 74.4g fat
