@@ -1555,11 +1555,43 @@ Use this file to track daily food intake, calories, and macros.
 
 | Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
 |---|---:|---|---:|---:|---:|---:|---|
-| Member's Mark plain nonfat Greek yogurt | 1 serving, 170g | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label values per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
-| Member's Mark frozen mixed berries | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on Member's Mark Natural Triple Berry Blend label: per 140g serving, 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
-| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
-| Member's Mark vanilla protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established Member's Mark protein shake values: 160 calories, 30g protein, 3g carbs, and 2.5g fat per shake |
-
-| Nanu's Hot Chicken #6 meal | 1 meal | Prepared | 1620 | 70.0 | 155.0 | 80.0 | Estimated: three Nashville hot fried chicken tenders, seasoned fries, house Belgian waffle, pickles, and Nanu's sauce; restaurant menu does not publish nutrition facts |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170 g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on previously logged product nutrition: 100 kcal, 18 g protein, 6 g carbs, 0 g fat per serving |
+| Member's Mark frozen mixed berries | 280 g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on Member's Mark Natural Triple Berry Blend label: per 140g serving, 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Honey | 15 g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
+| Nanu's Hot Chicken #6 meal | 1 meal | Prepared | 1620 | 70.0 | 155.0 | 80.0 | Estimated meal: three Nashville hot fried chicken tenders, seasoned fries, Belgian/house waffle, pickles, and Nanu's sauce. Restaurant menu lists these components but no official nutrition facts; macros are approximate |
+| Smucker's Uncrustables Peanut Butter & Grape Jelly | 1 sandwich (80 g) | Prepared | 320 | 10.0 | 36.0 | 17.0 | Corrected to Jason's 320-calorie Uncrustables; macros use the 80 g large PB & grape jelly sandwich profile: 10 g protein, 36 g carbs, 17 g fat |
+| Miscellaneous: honey, fries, and chicken tenders | 300 calories worth | Prepared | 300 | 10.0 | 44.0 | 9.0 | Calories provided by Jason; macros estimated for a mix of honey, fries, and chicken tenders |
 
 **Daily Total:** 2545 calories, 110.0g protein, 291.3g carbs, 108.0g fat
+
+
+### 2026-09-30
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established product label per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
+| Pork shoulder meat | 430g | Cooked in water | 989 | 124.7 | 0.0 | 55.9 | Estimated using established cooked pork shoulder basis of 230 calories, 29g protein, and 13g fat per 100g; cooked in water with no added fat counted. Shoulder cut leanness and visible fat may vary |
+| Quaker White Cheddar rice cake | 1 cake (12g) | Prepared | 60 | 0.5 | 9.0 | 2.0 | Based on established package nutrition: 60 calories, 0.5g protein, 9g carbs, and 2g fat per cake |
+| Member's Mark almond butter | 9g total (4g previously logged + 5g added) | Prepared | 56 | 2.0 | 1.8 | 5.0 | Scaled from established 32g serving values of 198 calories, 7g protein, 6.4g carbs, and 17.9g fat |
+| Japanese sweet potato | 400g | Raw | 504 | 4.8 | 127.6 | 0.8 | Based on Japanese Standard Tables of Food Composition raw sweet potato, skinless edible portion: 126 calories, 1.2g protein, 31.9g carbohydrate, and 0.2g fat per 100g; variety-specific values may vary |
+| Beef shank | 50g | Cooked in water | 100 | 17.0 | 0.0 | 3.5 | Estimated consistently with prior cooked beef shank entries: 200 calories, 34g protein, and 7g fat per 100g; no added fat counted |
+
+**Daily Total:** 2114 calories, 187.0g protein, 200.7g carbs, 69.2g fat
+
+
+### 2026-10-01
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated from standard honey nutrition |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Member's Mark plain nonfat Greek yogurt | 2 servings, 340g total | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established product label per 170g serving: 100 calories, 18g protein, 6g carbs, and 0g fat |
+| Kirkland chicken sandwich on pretzel bun, without mayo | 1 sandwich | Prepared | 500 | 40.0 | 50.0 | 14.0 | Estimated from components: pretzel bun, sliced chicken, Swiss and cheddar, and lettuce; Dijon mayo omitted; exact nutrition unavailable |
+| White rice | 300g | Cooked | 390 | 8.1 | 84.6 | 0.9 | Estimated using established cooked white rice values per 100g |
+| Kimchi | 100g | Prepared | 15 | 1.0 | 2.4 | 0.5 | Generic estimate; brand and recipe unspecified |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established product label values |
+| Spicy stir-fried pork belly (Dwaejigogi-bokkeum) | About 120g | Cooked | 500 | 12.0 | 5.0 | 48.0 | Estimated for fatty pork belly with spicy sauce and some stir-fry oil; exact recipe and oil amount unknown |
+
+**Daily Total:** 1970 calories, 129.1g protein, 207.3g carbs, 67.9g fat
