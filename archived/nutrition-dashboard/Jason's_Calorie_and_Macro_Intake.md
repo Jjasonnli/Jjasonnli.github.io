@@ -1596,3 +1596,17 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark protein shake | 1 additional shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established product label values |
 
 **Daily Total:** 2030 calories, 147.1g protein, 190.3g carbs, 74.4g fat
+
+
+### 2026-10-02
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, skinless and boneless | 600g | Raw | 720 | 135.0 | 0.0 | 15.7 | Estimated using raw, skinless, boneless chicken breast values per 100g: 120 calories, 22.5g protein, 0g carbs, 2.62g fat |
+| Japanese sweet potato | 1 potato, 400g | Raw | 504 | 4.8 | 127.6 | 0.8 | Estimated using Japanese Standard Tables raw sweet potato values per 100g edible portion; cultivar may vary |
+| Green peppers and onions | About 50g total (25g each) | Raw | 15 | 0.5 | 3.5 | 0.1 | Approximate 50/50 split between green bell pepper and onion |
+| White rice | 150g | Cooked | 195 | 4.1 | 42.3 | 0.5 | Estimated using established cooked white rice values per 100g |
+| Chicken breast, skinless and boneless | About 120g | Raw | 144 | 27.0 | 0.0 | 3.1 | Estimated using raw, skinless, boneless chicken breast values per 100g |
+| Miscellaneous: fries, kimchi, and radish stew | 300 calories worth | Prepared | 300 | 5.0 | 43.0 | 11.0 | Calories provided by Jason; macros estimated for the foods described |
+
+**Daily Total:** 1878 calories, 176.4g protein, 216.4g carbs, 31.2g fat
