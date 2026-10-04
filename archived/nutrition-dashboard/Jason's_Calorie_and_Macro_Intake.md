@@ -1610,3 +1610,35 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous: fries, kimchi, and radish stew | 300 calories worth | Prepared | 300 | 5.0 | 43.0 | 11.0 | Calories provided by Jason; macros estimated for the foods described |
 
 **Daily Total:** 1878 calories, 176.4g protein, 216.4g carbs, 31.2g fat
+
+
+### 2026-10-03
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label nutrition per serving |
+| Chicken breast, skinless and boneless | 600g | Raw | 720 | 135.0 | 0.0 | 15.7 | Estimated using raw, skinless, boneless chicken breast values per 100g |
+| Green peppers and onions | About 50g total (25g each) | Raw | 15 | 0.5 | 3.5 | 0.1 | Approximate 50/50 split between green bell pepper and onion |
+| Kellogg's Special K Red Berries cereal | 82g | Prepared | 315 | 6.3 | 71.5 | 1.1 | Scaled from established values per 39g serving: 150 calories, 3g protein, 34g carbs, and 0.5g fat |
+| Banana | 220g weighed with peel (about 145g edible) | Raw | 129 | 1.6 | 33.1 | 0.5 | Estimated using about 66% edible portion after peel removal and standard raw banana nutrition |
+
+**Daily Total:** 1279 calories, 161.4g protein, 114.1g carbs, 17.4g fat
+
+
+### 2026-10-04
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, skinless and boneless | 600g | Raw | 720 | 135.0 | 0.0 | 15.7 | Estimated using raw, skinless, boneless chicken breast values per 100g |
+| Green peppers and onions | 50g total (25g each) | Raw | 15 | 0.5 | 3.5 | 0.1 | Approximate 50/50 split between green bell pepper and onion |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on product label per 32g serving |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label nutrition per serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving; scaled to 280g |
+| Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on product label per 18g tablespoon |
+
+| Banana | 145g edible portion, peeled | Raw | 129 | 1.6 | 33.1 | 0.5 | Estimated using standard raw banana nutrition; weight excludes peel |
+| Specially Selected sourdough round bread | 250g | Prepared | 523 | 23.3 | 110.5 | 0.0 | Scaled from established tracker basis of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g slice |
+| Hard-boiled eggs | 2 large eggs | Cooked | 156 | 12.6 | 1.2 | 10.6 | Estimated using standard nutrition for two large hard-boiled eggs |
+
+**Daily Total:** 2108 calories, 200.0g protein, 228.6g carbs, 44.9g fat
