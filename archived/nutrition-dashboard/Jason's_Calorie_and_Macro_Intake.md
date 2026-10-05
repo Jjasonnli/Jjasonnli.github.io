@@ -1642,3 +1642,12 @@ Use this file to track daily food intake, calories, and macros.
 | Hard-boiled eggs | 2 large eggs | Cooked | 156 | 12.6 | 1.2 | 10.6 | Estimated using standard nutrition for two large hard-boiled eggs |
 
 **Daily Total:** 2108 calories, 200.0g protein, 228.6g carbs, 44.9g fat
+
+
+### 2026-10-05
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Chocolate Chip Rice Cakes | 4 rice cakes | Prepared | 240 | 2.0 | 52.0 | 2.0 | Based on established nutrition per cake: 60 calories, 0.5g protein, 13g carbs, and 0.5g fat |
+
+**Daily Total:** 240 calories, 2.0g protein, 52.0g carbs, 2.0g fat
