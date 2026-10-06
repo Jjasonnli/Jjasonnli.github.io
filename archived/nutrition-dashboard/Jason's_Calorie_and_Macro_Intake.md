@@ -1650,4 +1650,6 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Quaker Caramel Chocolate Chip Rice Cakes | 4 rice cakes | Prepared | 240 | 2.0 | 52.0 | 2.0 | Based on established nutrition per cake: 60 calories, 0.5g protein, 13g carbs, and 0.5g fat |
 
-**Daily Total:** 240 calories, 2.0g protein, 52.0g carbs, 2.0g fat
+| Dinner: beef noodle soup, dumplings, lamb skewers, chili-oil chicken, beef tendon, pig ears, beef shank, and mango cake | Approx. 3500 calories | Prepared | 3500 | 291.7 | 291.7 | 129.6 | User-provided calorie estimate; macros assumed evenly split by calories because portions and recipes were unspecified |
+
+**Daily Total:** 3740 calories, 293.7g protein, 343.7g carbs, 131.6g fat
