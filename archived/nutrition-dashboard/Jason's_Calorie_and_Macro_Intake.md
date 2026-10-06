@@ -1653,3 +1653,22 @@ Use this file to track daily food intake, calories, and macros.
 | Dinner: beef noodle soup, dumplings, lamb skewers, chili-oil chicken, beef tendon, pig ears, beef shank, and mango cake | Approx. 3500 calories | Prepared | 3500 | 291.7 | 291.7 | 129.6 | User-provided calorie estimate; macros assumed evenly split by calories because portions and recipes were unspecified |
 
 **Daily Total:** 3740 calories, 293.7g protein, 343.7g carbs, 131.6g fat
+
+
+### 2026-10-06
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label nutrition per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 290g | Frozen | 166 | 2.1 | 39.4 | 2.1 | Assumed same mixed berry blend logged previously; scaled from label per 140g serving |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+
+| Quaker White Cheddar rice cakes | 4 cakes (12g each) | Prepared | 240 | 2.0 | 36.0 | 8.0 | Based on established package nutrition per cake: 60 calories, 0.5g protein, 9g carbs, and 2g fat |
+
+| Specially Selected sourdough round bread | 207g | Prepared | 433 | 19.3 | 91.4 | 0.0 | Scaled from established tracker basis of 90 calories, 4g protein, 19g carbs, and 0g fat per 43g |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on established product label nutrition per 32g serving |
+| Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on established product label nutrition per 18g tablespoon |
+| Hard-boiled eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.1 | 10.6 | Estimated using standard values for two large hard-boiled eggs |
+| Beef shank | 250g | Cooked in water | 500 | 85.0 | 0.0 | 17.5 | Estimated consistently with prior cooked beef shank entries: 200 calories, 34g protein, and 7g fat per 100g; no added fat counted |
+
+**Daily Total:** 2000 calories, 164.0g protein, 216.2g carbs, 54.2g fat
