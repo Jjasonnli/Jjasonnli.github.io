@@ -1672,3 +1672,22 @@ Use this file to track daily food intake, calories, and macros.
 | Beef shank | 250g | Cooked in water | 500 | 85.0 | 0.0 | 17.5 | Estimated consistently with prior cooked beef shank entries: 200 calories, 34g protein, and 7g fat per 100g; no added fat counted |
 
 **Daily Total:** 2000 calories, 164.0g protein, 216.2g carbs, 54.2g fat
+
+
+### 2026-10-07
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Original/plain rice cakes (assumed lightly salted) | 7 cakes | Prepared | 245 | 7.0 | 49.0 | 0.0 | Estimated using Quaker U.S. lightly salted plain rice cakes at 35 calories per cake; macros estimated at 1g protein, 7g carbs, and 0g fat per cake |
+
+| Simply Nature Organic Multigrain Sourdough Bread | 240g | Prepared | 557 | 17.1 | 102.9 | 4.3 | Scaled from product nutrition listing per 56g serving: 130 calories, 4g protein, 24g carbs, and 1g fat |
+| Beef shank | 220g | Cooked | 440 | 74.8 | 0.0 | 15.4 | Estimated consistently with established cooked beef shank values per 100g: 200 calories, 34g protein, and 7g fat |
+| Hard-boiled eggs | 2 large eggs | Prepared | 156 | 12.6 | 1.1 | 10.6 | Estimated using standard values for two large hard-boiled eggs |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on established product label nutrition per 32g serving |
+| Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on established product label nutrition per 18g tablespoon |
+
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label nutrition per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed same mixed berry blend logged previously; based on product label per 140g serving |
+| Honey | 21g | Prepared | 63 | 0.0 | 17.2 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+
+**Daily Total:** 1981 calories, 138.5g protein, 238.2g carbs, 48.3g fat
