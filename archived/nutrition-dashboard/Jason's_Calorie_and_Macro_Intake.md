@@ -1691,3 +1691,19 @@ Use this file to track daily food intake, calories, and macros.
 | Honey | 21g | Prepared | 63 | 0.0 | 17.2 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
 
 **Daily Total:** 1981 calories, 138.5g protein, 238.2g carbs, 48.3g fat
+
+### 2026-10-08
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 3 servings (510g) | Prepared | 300 | 54.0 | 18.0 | 0.0 | Based on established label nutrition per 170g serving |
+| Frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Estimated from established frozen blueberry values per 140g: 80 calories, 1g protein, 17g carbs, 1g fat |
+| Honey | 21g | Prepared | 63 | 0.0 | 17.2 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+
+| White rice | 400g | Cooked | 520 | 10.8 | 112.8 | 1.2 | Estimated from established tracker basis per 100g cooked: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Pork shoulder | 100g | Cooked | 230 | 29.0 | 0.0 | 13.0 | Estimated from established cooked pork shoulder basis; leanness can vary |
+| Cooked pork belly | About 187.5g (midpoint of 175-200g) | Cooked | 975 | 16.9 | 0.0 | 99.4 | Estimated using established cooked pork belly basis per 100g: about 520 calories, 9g protein, and 53g fat; fat content varies |
+| Soybean paste | 1 tbsp (estimated about 18g) | Prepared | 30 | 2.0 | 4.0 | 0.5 | Estimated generic soybean paste nutrition; brand and recipe not specified |
+| Kimchi | 100g | Prepared | 15 | 1.0 | 2.4 | 0.5 | Generic estimate; brand and recipe unspecified |
+
+**Daily Total:** 2293 calories, 115.7g protein, 188.4g carbs, 116.6g fat
