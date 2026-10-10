@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jason Nutrition Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Nutrition tracker</p>
+        <h1>Nutrition Dashboard</h1>
+      </div>
+      <div class="source-controls">
+        <label class="file-control">
+          <span>Load updated markdown</span>
+          <input id="markdown-file" type="file" accept=".md,.txt,text/markdown,text/plain" />
+        </label>
+        <button id="reset-data" type="button">Reload markdown</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-grid" aria-label="Nutrition summary">
+        <article class="metric">
+          <span>Logged days</span>
+          <strong id="logged-days">0</strong>
+          <small id="date-range">No entries</small>
+        </article>
+        <article class="metric">
+          <span>Average calories</span>
+          <strong id="avg-calories">0</strong>
+          <small id="calorie-target">Target: 0</small>
+        </article>
+        <article class="metric">
+          <span>Average protein</span>
+          <strong id="avg-protein">0g</strong>
+          <small id="protein-target">Target: 0g</small>
+        </article>
+        <article class="metric">
+          <span>Latest weight</span>
+          <strong id="latest-weight">-</strong>
+          <small id="latest-weight-date">No weigh-in</small>
+        </article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel trend-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Daily trend</p>
+              <h2 id="trend-title-text">Calories by date</h2>
+            </div>
+            <div class="trend-controls">
+              <div class="chart-controls" aria-label="Trend metric">
+                <button class="metric-toggle active" type="button" data-trend-metric="calories">Calories</button>
+                <button class="metric-toggle" type="button" data-trend-metric="protein">Protein</button>
+                <button class="metric-toggle" type="button" data-trend-metric="weight">Weight</button>
+              </div>
+              <div class="chart-controls" aria-label="Trend date range">
+                <button class="range-toggle active" type="button" data-trend-range="7">Last 7 days</button>
+                <button class="range-toggle" type="button" data-trend-range="month">Last month</button>
+                <button class="range-toggle" type="button" data-trend-range="custom">Select range</button>
+              </div>
+              <div id="custom-range" class="custom-range" hidden>
+                <label>
+                  <span>Start</span>
+                  <input id="trend-start-date" type="date" />
+                </label>
+                <label>
+                  <span>End</span>
+                  <input id="trend-end-date" type="date" />
+                </label>
+              </div>
+            </div>
+          </div>
+          <div id="trend-chart" class="trend-chart" aria-label="Daily nutrition line chart"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Average split</p>
+              <h2>Macros</h2>
+            </div>
+          </div>
+          <div class="macro-pie-layout">
+            <div id="macro-pie" class="macro-pie" role="img" aria-label="No macro data">
+              <span id="protein-pie-label" class="macro-slice-label protein">Protein</span>
+              <span id="carbs-pie-label" class="macro-slice-label carbs">Carbs</span>
+              <span id="fat-pie-label" class="macro-slice-label fat">Fat</span>
+            </div>
+            <div class="macro-legend" aria-label="Average macro percentages">
+              <div class="macro-legend-row">
+                <span class="macro-swatch protein" aria-hidden="true"></span>
+                <span>Protein</span>
+                <strong id="protein-share">0%</strong>
+              </div>
+              <div class="macro-legend-row">
+                <span class="macro-swatch carbs" aria-hidden="true"></span>
+                <span>Carbs</span>
+                <strong id="carbs-share">0%</strong>
+              </div>
+              <div class="macro-legend-row">
+                <span class="macro-swatch fat" aria-hidden="true"></span>
+                <span>Fat</span>
+                <strong id="fat-share">0%</strong>
+              </div>
+            </div>
+          </div>
+          <dl class="insights">
+            <div>
+              <dt>Highest protein day</dt>
+              <dd id="highest-protein">-</dd>
+            </div>
+            <div>
+              <dt>Highest calorie day</dt>
+              <dd id="highest-calorie">-</dd>
+            </div>
+            <div>
+              <dt>Days under calorie target</dt>
+              <dd id="under-target">-</dd>
+            </div>
+          </dl>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading table-heading">
+          <div>
+            <p class="eyebrow">Food log</p>
+            <h2>Entries</h2>
+          </div>
+          <select id="date-filter" aria-label="Filter by date"></select>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Food</th>
+                <th>Amount</th>
+                <th>Basis</th>
+                <th>Calories</th>
+                <th>Protein</th>
+                <th>Carbs</th>
+                <th>Fat</th>
+              </tr>
+            </thead>
+            <tbody id="food-table"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="dashboard.js?v=20260627-macro-pie-labels"></script>
+  </body>
+</html>
