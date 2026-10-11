@@ -1725,3 +1725,23 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark frozen mango chunks | 404g | Frozen | 261 | 0.0 | 61.9 | 0.0 | Scaled from established product basis per 124g serving: 80 calories and 19g carbs; protein and fat listed as 0g |
 
 **Daily Total:** 2212 calories, 151.8g protein, 304.1g carbs, 34.8g fat
+
+### 2026-10-10
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 3 servings (510g) | Prepared | 300 | 54.0 | 18.0 | 0.0 | Based on established label nutrition per 170g serving |
+| Honey | 23g | Prepared | 69 | 0.0 | 18.9 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+| Frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Estimated from established frozen blueberry values per 140g: 80 calories, 1g protein, 17g carbs, 1g fat |
+
+| Quaker chocolate rice cakes | 2 cakes | Prepared | 120 | 2.0 | 24.0 | 2.0 | Reduced from 3 cakes by removing the additional cake; estimated at 60 calories, 1g protein, 12g carbs, and 1g fat per cake |
+| Chicken breast, boiled | 200g | Cooked | 330 | 62.0 | 0.0 | 7.2 | Estimated from standard cooked boneless, skinless chicken breast values per 100g; weight provided cooked |
+| Potatoes, boiled | 40g | Cooked | 35 | 0.8 | 8.1 | 0.1 | Estimated from established cooked potato values; weight assumed cooked and boiled |
+| Broccoli salad with mayo | 100g | Prepared | 110 | 2.4 | 6.8 | 8.4 | Estimated consistently with prior broccoli salad with mayo entries; recipe and mayo amount vary |
+| Kimchi | 50g | Prepared | 8 | 0.5 | 1.2 | 0.3 | Estimated using generic kimchi values; brand and recipe unspecified |
+| White rice | About 400g | Cooked | 520 | 10.8 | 112.8 | 1.2 | Estimated from established tracker basis per 100g cooked: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Based on established Member's Mark protein shake values |
+
+| Hard-boiled eggs | 3 large eggs | Prepared | 234 | 18.9 | 1.8 | 15.9 | Estimated from prior logged large hard-boiled egg values: 78 calories, 6.3g protein, 0.6g carbs, and 5.3g fat per egg; no added cooking fat assumed |
+
+**Daily Total:** 2046 calories, 183.4g protein, 228.6g carbs, 39.6g fat
