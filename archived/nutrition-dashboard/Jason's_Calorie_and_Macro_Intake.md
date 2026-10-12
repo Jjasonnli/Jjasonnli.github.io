@@ -1764,3 +1764,20 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label nutrition per 170g serving |
 
 **Daily Total:** 2113 calories, 154.0g protein, 274.5g carbs, 38.2g fat
+
+### 2026-10-12
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Original/plain rice cakes (assumed lightly salted) | 7 cakes | Prepared | 245 | 7.0 | 49.0 | 0.0 | Estimated using Quaker U.S. lightly salted plain rice cake values: 35 calories, 1g protein, 7g carbs, and 0g fat per cake |
+
+| Sola Cinnamon & Raisin Bagel | 1 bagel (85g) | Prepared | 120 | 14.0 | 35.0 | 3.0 | Nutrition label listing: 120 calories, 14g protein, 35g total carbs, and 3g fat per 85g bagel |
+| Member's Mark Fruity Snacks | 1 pouch (23g) | Prepared | 70 | 1.0 | 17.0 | 0.0 | Based on USDA branded-food nutrition data: 70 calories, 1g protein, 17g carbs, and 0g fat per pouch; Sam's lists pouches as 0.8 oz |
+| Japanese sweet potato | 385g | Raw (assumed) | 485 | 4.6 | 122.8 | 0.8 | Assumed raw edible weight; scaled from previously used Japanese sweet potato values per 100g |
+| Member's Mark plain nonfat Greek yogurt | 3 servings (510g) | Prepared | 300 | 54.0 | 18.0 | 0.0 | Based on established label values per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on product label per serving |
+| PRIME protein shake | 1 bottle (325mL) | Prepared | 160 | 32.0 | 4.0 | 0.5 | Flavor not specified; used the 160-calorie PRIME 32g protein shake label values |
+| Sola Cinnamon & Raisin Bagel | 2 bagels (170g total) | Prepared | 240 | 28.0 | 70.0 | 6.0 | Based on established nutrition label per 85g bagel |
+
+**Daily Total:** 1980 calories, 149.6g protein, 361.8g carbs, 28.3g fat
