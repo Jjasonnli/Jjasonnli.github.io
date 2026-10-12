@@ -1744,4 +1744,23 @@ Use this file to track daily food intake, calories, and macros.
 
 | Hard-boiled eggs | 3 large eggs | Prepared | 234 | 18.9 | 1.8 | 15.9 | Estimated from prior logged large hard-boiled egg values: 78 calories, 6.3g protein, 0.6g carbs, and 5.3g fat per egg; no added cooking fat assumed |
 
-**Daily Total:** 2046 calories, 183.4g protein, 228.6g carbs, 39.6g fat
+| Orange | 70g | Raw | 33 | 0.6 | 8.3 | 0.1 | Estimated from standard raw orange nutrition; assumed 70g edible portion |
+
+**Daily Total:** 2079 calories, 184.0g protein, 236.9g carbs, 39.7g fat
+
+### 2026-10-11
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, boiled | 330g | Cooked | 545 | 102.3 | 0.0 | 11.9 | Estimated from standard cooked boneless, skinless chicken breast values per 100g; weight provided cooked |
+| White rice | 200g | Cooked | 260 | 5.4 | 56.4 | 0.6 | Estimated from established tracker basis per 100g cooked: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Simply Nature Organic Multigrain Sourdough Bread | 215g | Prepared | 499 | 15.4 | 92.1 | 3.8 | Scaled from established product nutrition per 56g: 130 calories, 4g protein, 24g carbs, and 1g fat |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on established product label nutrition per 32g serving |
+| Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on established product label nutrition per 18g tablespoon |
+| Frozen blueberries | 260g | Frozen | 149 | 1.9 | 31.6 | 1.9 | Scaled from established frozen blueberry values per 140g: 80 calories, 1g protein, 17g carbs, 1g fat |
+| Honey | 20g | Prepared | 60 | 0.0 | 16.4 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+
+| Quaker chocolate rice cakes | 4 cakes | Prepared | 240 | 4.0 | 48.0 | 4.0 | Estimated consistently with prior tracker entries: 60 calories, 1g protein, 12g carbs, 1g fat per cake |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label nutrition per 170g serving |
+
+**Daily Total:** 2113 calories, 154.0g protein, 274.5g carbs, 38.2g fat
