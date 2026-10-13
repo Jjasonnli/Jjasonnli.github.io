@@ -1776,8 +1776,23 @@ Use this file to track daily food intake, calories, and macros.
 | Japanese sweet potato | 385g | Raw (assumed) | 485 | 4.6 | 122.8 | 0.8 | Assumed raw edible weight; scaled from previously used Japanese sweet potato values per 100g |
 | Member's Mark plain nonfat Greek yogurt | 3 servings (510g) | Prepared | 300 | 54.0 | 18.0 | 0.0 | Based on established label values per 170g serving |
 | Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
-| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on product label per serving |
+| SunButter Original sunflower seed butter | 22g (reduced by 10g) | Prepared | 138 | 4.8 | 5.5 | 11.0 | Scaled from product label per 32g serving |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
 | PRIME protein shake | 1 bottle (325mL) | Prepared | 160 | 32.0 | 4.0 | 0.5 | Flavor not specified; used the 160-calorie PRIME 32g protein shake label values |
 | Sola Cinnamon & Raisin Bagel | 2 bagels (170g total) | Prepared | 240 | 28.0 | 70.0 | 6.0 | Based on established nutrition label per 85g bagel |
 
-**Daily Total:** 1980 calories, 149.6g protein, 361.8g carbs, 28.3g fat
+**Daily Total:** 1963 calories, 147.4g protein, 371.6g carbs, 23.3g fat
+
+### 2026-10-13
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label values per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Japanese sweet potato | 385g | Raw (assumed) | 485 | 4.6 | 122.8 | 0.8 | Assumed raw edible weight; scaled from previously used Japanese sweet potato values per 100g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on product label per serving |
+
+| Sola Cinnamon & Raisin Bagel | 1 bagel (85g) | Prepared | 120 | 14.0 | 35.0 | 3.0 | Based on established nutrition label per 85g bagel |
+
+**Daily Total:** 1210 calories, 63.6g protein, 228.1g carbs, 21.8g fat
