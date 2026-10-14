@@ -1793,6 +1793,24 @@ Use this file to track daily food intake, calories, and macros.
 | Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
 | SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on product label per serving |
 
-| Sola Cinnamon & Raisin Bagel | 1 bagel (85g) | Prepared | 120 | 14.0 | 35.0 | 3.0 | Based on established nutrition label per 85g bagel |
+| Sola Cinnamon & Raisin Bagel | 2 bagels (170g total) | Prepared | 240 | 28.0 | 70.0 | 6.0 | Includes today's additional bagel; based on established nutrition label per 85g bagel |
+| Chicken breast, cooked | 330g | Cooked, weighed cooked | 545 | 102.3 | 0.0 | 11.9 | Estimated from standard cooked, skinless chicken breast values per 100g |
+| Cooking oil | 1 tbsp (about 14g) | Prepared | 120 | 0.0 | 0.0 | 14.0 | Estimated using standard oil nutrition per tablespoon |
+| Carrots, onions, potatoes, and tomatoes | About 150g | Prepared (estimated) | 70 | 1.8 | 16.1 | 0.2 | Estimated assuming roughly equal amounts of each vegetable; cooking method unspecified |
 
-**Daily Total:** 1210 calories, 63.6g protein, 228.1g carbs, 21.8g fat
+**Daily Total:** 2065 calories, 181.7g protein, 279.2g carbs, 50.9g fat
+
+### 2026-10-14
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Japanese sweet potato | 385g | Raw (assumed) | 485 | 4.6 | 122.8 | 0.8 | Assumed raw edible weight; scaled from previously used Japanese sweet potato values per 100g |
+| Chicken breast, cooked | 330g | Cooked, weighed cooked | 545 | 102.3 | 0.0 | 11.9 | Estimated from standard cooked, skinless chicken breast values per 100g |
+| Cooking oil | 1 tbsp (about 14g) | Prepared | 120 | 0.0 | 0.0 | 14.0 | Estimated using standard oil nutrition per tablespoon |
+| Carrots, onions, potatoes, and tomatoes | About 150g | Prepared (estimated) | 70 | 1.8 | 16.1 | 0.2 | Estimated assuming roughly equal amounts of each vegetable; cooking method unspecified |
+
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label values per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+
+**Daily Total:** 1625 calories, 146.7g protein, 201.2g carbs, 28.9g fat
