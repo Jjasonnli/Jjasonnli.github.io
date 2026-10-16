@@ -1813,4 +1813,37 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
 | Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
 
-**Daily Total:** 1625 calories, 146.7g protein, 201.2g carbs, 28.9g fat
+| Sola Cinnamon & Raisin Bagel | 1 bagel (85g) | Prepared | 120 | 14.0 | 35.0 | 3.0 | Based on established nutrition label per 85g bagel |
+| Breakstone's 4% cottage cheese | 2 servings (234g) | Prepared | 240 | 24.0 | 12.0 | 10.0 | Based on product label per 1/2 cup (117g): 120 calories, 12g protein, 6g carbs, and 5g fat |
+
+**Daily Total:** 1985 calories, 184.7g protein, 248.2g carbs, 41.9g fat
+
+### 2026-10-15
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label values per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on product label per 140g serving: 80 calories, 1g protein, 19g carbs, and 1g fat; scaled to 280g |
+| Honey | 21g | Prepared | 63 | 0.0 | 17.2 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+| Sola Cinnamon & Raisin Bagel | 3 bagels (255g total) | Prepared | 360 | 42.0 | 105.0 | 9.0 | Includes today's additional bagel; based on established nutrition label per 85g bagel |
+
+| Quaker Caramel Rice Cake | 1 cake (13g) | Prepared | 50 | 1.0 | 11.0 | 0.0 | Based on product nutrition facts per cake |
+
+| White rice | 400g | Cooked | 520 | 10.8 | 112.8 | 1.2 | Estimated using established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat |
+
+| Pork shoulder, Korean-style stir-fried | About 200g | Cooked | 460 | 58.0 | 0.0 | 26.0 | Estimated from established cooked pork shoulder values per 100g; stir-fry sauce/oil not included and logged separately below |
+| Miscellaneous calories | 150 calories worth | Not specified | 150 | 0.0 | 0.0 | 0.0 | Calories provided by Jason for sauces, extra bites of meat, and other items; macros not specified |
+
+| Cooking oil | 1.5 tbsp (about 21g) | Prepared | 180 | 0.0 | 0.0 | 21.0 | Estimated using standard oil nutrition per tablespoon |
+
+**Daily Total:** 2143 calories, 149.8g protein, 296.0g carbs, 59.2g fat
+
+### 2026-10-16
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| The Little Potato Company potatoes | 510g | Raw (assumed) | 371 | 9.3 | 74.2 | 0.0 | Assumed raw; scaled from company Little Yellows label per 110g; variety not specified |
+
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 471 calories, 9.3g protein, 74.2g carbs, 0.0g fat
