@@ -1846,4 +1846,48 @@ Use this file to track daily food intake, calories, and macros.
 
 | Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
-**Daily Total:** 471 calories, 9.3g protein, 74.2g carbs, 0.0g fat
+| Breakstone's 4% cottage cheese | 2 servings (234g) | Prepared | 240 | 24.0 | 12.0 | 10.0 | Based on established label per 1/2 cup (117g) serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+
+| Chicken breast, cooked | 300g | Cooked, weighed cooked | 495 | 93.0 | 0.0 | 10.8 | Estimated using established cooked skinless chicken breast values per 100g |
+| Potatoes, boiled | 300g | Cooked, weighed after boiling | 261 | 5.7 | 60.3 | 0.3 | Estimated using standard boiled potato values per 100g: 87 calories, 1.9g protein, 20.1g carbs, and 0.1g fat |
+| Carrots, onions, and tomatoes | 100g total | Prepared (estimated) | 33 | 1.0 | 7.6 | 0.2 | Estimated assuming equal portions; weight basis and cooking method unspecified; added oil not counted |
+
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Based on established label values per 170g serving |
+| Sola Cinnamon & Raisin Bagel | 1 bagel (85g) | Prepared | 120 | 14.0 | 35.0 | 3.0 | Based on established nutrition label per 85g bagel |
+
+| Quaker Caramel Rice Cakes | 4 cakes (52g) | Prepared | 200 | 4.0 | 44.0 | 0.0 | Based on established label per cake: 50 calories, 1g protein, 11g carbs, and 0g fat |
+
+**Daily Total:** 2125 calories, 171.0g protein, 289.4g carbs, 26.3g fat
+
+### 2026-10-17
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Rice Cakes | 7 cakes (91g) | Prepared | 350 | 7.0 | 77.0 | 0.0 | Based on established label per cake: 50 calories, 1g protein, 11g carbs, and 0g fat |
+
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label values per 170g serving |
+| Honey | 17g | Prepared | 51 | 0.0 | 14.0 | 0.0 | Estimated using standard honey nutrition at approximately 3 calories per gram |
+| Sola Cinnamon & Raisin Bagel | 2 bagels (170g total) | Prepared | 240 | 28.0 | 70.0 | 6.0 | Based on established nutrition label per 85g bagel |
+
+| White rice | 375g | Cooked (assumed) | 488 | 10.1 | 105.8 | 1.1 | Assumed cooked weight; scaled from established cooked white rice values per 100g |
+
+| Pork ribs, boiled | 200g | Cooked, edible meat and fat (assumed) | 794 | 58.1 | 0.0 | 60.6 | Assumed weight excludes bones; estimated using USDA cooked braised spareribs as a proxy: 397 calories, 29.06g protein, and 30.3g fat per 100g; cut and fat content vary |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 2383 calories, 141.2g protein, 316.8g carbs, 69.7g fat
+
+### 2026-10-18
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, cooked | 280g | Cooked, weighed cooked | 462 | 86.8 | 0.0 | 10.1 | Estimated using established cooked skinless chicken breast values per 100g |
+| Potatoes, boiled | 300g | Cooked, weighed after boiling | 261 | 5.7 | 60.3 | 0.3 | Estimated using established boiled potato values per 100g |
+| Onions, peppers, carrots, and tomatoes | 140g total | Prepared (estimated) | 42 | 1.3 | 9.7 | 0.3 | Estimated assuming equal portions and green bell peppers; weight basis and cooking method unspecified; no added oil counted |
+| Simply Nature Organic Multigrain Sourdough Bread | 250g | Prepared | 580 | 17.9 | 107.1 | 4.5 | Scaled from established product nutrition per 56g: 130 calories, 4g protein, 24g carbs, and 1g fat |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on established product label per 32g serving |
+| Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on established product label per 18g tablespoon |
+
+**Daily Total:** 1605 calories, 118.7g protein, 201.1g carbs, 31.2g fat
