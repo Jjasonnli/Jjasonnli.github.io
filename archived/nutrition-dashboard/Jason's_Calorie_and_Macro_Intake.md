@@ -1890,4 +1890,48 @@ Use this file to track daily food intake, calories, and macros.
 | SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Based on established product label per 32g serving |
 | Crofter's Organic Premium Raspberry Spread | 2 servings (36g) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Based on established product label per 18g tablespoon |
 
-**Daily Total:** 1605 calories, 118.7g protein, 201.1g carbs, 31.2g fat
+| Member's Mark plain nonfat Greek yogurt | 440g total | Prepared | 259 | 46.6 | 15.5 | 0.0 | Corrected total quantity per Jason; scaled from established label per 170g: 100 calories, 18g protein, 6g carbs, and 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+
+**Daily Total:** 2069 calories, 167.3g protein, 266.9g carbs, 33.2g fat
+
+### 2026-10-19
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Caramel Rice Cakes | 7 cakes (91g) | Prepared | 350 | 7.0 | 77.0 | 0.0 | Based on established label per cake: 50 calories, 1g protein, 11g carbs, and 0g fat |
+
+| Banana | 120g | Raw, peeled (assumed) | 107 | 1.3 | 27.4 | 0.4 | Estimated using standard raw banana nutrition; assumes weight excludes peel |
+
+| White rice | 500g | Cooked (assumed) | 650 | 13.5 | 141.0 | 1.5 | Assumed cooked weight; scaled from established cooked white rice values per 100g |
+| Pork, boiled, lean with some fatty portions | 1 lb (454g) | Cooked, edible meat (assumed) | 1044 | 131.7 | 0.0 | 59.0 | Cut unspecified; estimated using established cooked pork shoulder basis per 100g: 230 calories, 29g protein, 13g fat; assumes bones excluded |
+| White fish, cooked, somewhat fatty | 1 lb (454g) | Cooked, edible flesh (assumed) | 908 | 95.3 | 0.0 | 55.4 | Species unspecified; rough estimate of 200 calories, 21g protein, 12.2g fat per 100g, between leaner and rich whitefish; assumes bones excluded |
+| Duck breast, cooked | 100g | Cooked, skin on (assumed) | 202 | 24.5 | 0.0 | 10.9 | Estimated using USDA White Pekin breast meat and skin, boneless, cooked roasted as proxy; skin and preparation unspecified |
+| Chinese water spinach | About 100g | Cooked | 20 | 2.1 | 3.7 | 0.2 | Estimated using cooked boiled water spinach values; added oils accounted for separately in miscellaneous calories |
+| Carrots, boiled | About 200g | Cooked, weighed cooked | 70 | 1.5 | 16.4 | 0.4 | Estimated from standard boiled carrot values per 100g: 35 calories, 0.76g protein, 8.22g carbs, 0.18g fat |
+| Miscellaneous calories | 250 calories worth | Not specified | 250 | 0.0 | 0.0 | 0.0 | Calories provided by Jason for seasoning, oils, and other items; macros not specified |
+
+
+**Daily Total:** 3601 calories, 276.9g protein, 265.5g carbs, 127.8g fat
+
+### 2026-10-20
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chinese pineapple bun | 100g (assumed share of 300g pastries) | Prepared | 350 | 7.0 | 56.0 | 11.0 | Equal split among three pastries assumed; calories/fat based on Hong Kong food safety bread data, protein/carbs approximated; recipe varies |
+| Coconut cream bun | 100g (assumed share of 300g pastries) | Prepared | 370 | 6.0 | 42.0 | 20.0 | Equal split among three pastries assumed; estimated using T&T coconut cream bun nutrition as a proxy; bakery unspecified |
+| Sponge cake | 100g (assumed share of 300g pastries) | Prepared | 290 | 5.4 | 61.0 | 2.7 | Equal split among three pastries assumed; estimated using USDA commercially prepared plain sponge cake as a proxy; recipe varies |
+
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Based on established label values per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using standard honey nutrition |
+
+| Multi Grain Cheerios | 1 serving (1 1/3 cups, 39g) | Dry, as packaged | 150 | 3.0 | 32.0 | 1.5 | Official Cheerios product nutrition for one serving; cereal only: https://www.cheerios.com/products/multi-grain-cheerios |
+
+| Chicken breast, cooked | 278g | Cooked, weighed cooked | 459 | 86.2 | 0.0 | 10.0 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+| Kimchi | 60g | Prepared | 9 | 0.6 | 1.4 | 0.3 | Scaled from established generic kimchi estimate per 100g: 15 calories, 1g protein, 2.4g carbs, 0.5g fat; brand and recipe unspecified |
+
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed from BJ's listing) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Estimated for one 128g cinnamon raisin bagel; exact NY Style nutrition label unavailable; no toppings included. Serving size: https://www.bjs.com/product/wellsley-farms-ny-style-cinnamon-raisin-bagels-6-pk45-oz/3000000000006352753/ |
+
+**Daily Total:** 2383 calories, 158.2g protein, 324.7g carbs, 49.5g fat
