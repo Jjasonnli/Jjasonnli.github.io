@@ -1935,3 +1935,78 @@ Use this file to track daily food intake, calories, and macros.
 | Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed from BJ's listing) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Estimated for one 128g cinnamon raisin bagel; exact NY Style nutrition label unavailable; no toppings included. Serving size: https://www.bjs.com/product/wellsley-farms-ny-style-cinnamon-raisin-bagels-6-pk45-oz/3000000000006352753/ |
 
 **Daily Total:** 2383 calories, 158.2g protein, 324.7g carbs, 49.5g fat
+
+### 2026-10-21
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed from BJ's listing) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Estimated for one 128g cinnamon raisin bagel; exact NY Style nutrition label unavailable; no toppings included. Serving size: https://www.bjs.com/product/wellsley-farms-ny-style-cinnamon-raisin-bagels-6-pk45-oz/3000000000006352753/ |
+
+| Sushi dinner | 4500 calories worth | Prepared | 4500 | 375.0 | 375.0 | 166.7 | Calories provided by Jason and kept fixed; requested even macro split interpreted as one-third of calories each from protein, carbs, and fat (1500 calories each; 4/4/9 calories per gram); fat rounded to 0.1g. Placeholder allocation, not an estimate from sushi portions or ingredients |
+
+**Daily Total:** 4850 calories, 387.0g protein, 445.0g carbs, 168.7g fat
+
+### 2026-10-22
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed from BJ's listing) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Estimated for one 128g cinnamon raisin bagel; exact NY Style nutrition label unavailable; no toppings included. Serving size: https://www.bjs.com/product/wellsley-farms-ny-style-cinnamon-raisin-bagels-6-pk45-oz/3000000000006352753/ |
+| Quaker Caramel Rice Cakes | 7 cakes (91g) | Prepared | 350 | 7.0 | 77.0 | 0.0 | Assumed same Quaker caramel rice cakes as prior entries; established label per cake: 50 calories, 1g protein, 11g carbs, and 0g fat |
+| White rice | 200g | Cooked, weighed cooked | 260 | 5.4 | 56.4 | 0.6 | Reduced from 400g to 200g per Jason; cooked weight; scaled from established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, and 0.3g fat |
+
+
+| Cooked pork belly | 200g | Cooked, edible meat and fat | 1040 | 18.0 | 0.0 | 106.0 | Estimated using established cooked pork belly basis per 100g: 520 calories, 9g protein, and 53g fat; fat content varies substantially; no added oil or sauce counted |
+| Cucumber kimchi | 150g | Prepared | 23 | 1.7 | 3.6 | 0.8 | Estimated using latest established cucumber kimchi basis per 100g: 15 calories, 1.1g protein, 2.4g carbs, and 0.5g fat; recipe and oil may vary |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Asian pear | 280g | Raw, edible portion (assumed) | 118 | 1.4 | 29.8 | 0.6 | Assumes weight excludes core; estimated from USDA Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; source: https://www.logixpathchef.com/app/food/getfoodnutrition?fdcid=168177&foodname=Pears%2C+asian%2C+raw |
+| Chicken breast, cooked | 180g | Cooked, weighed cooked | 297 | 55.8 | 0.0 | 6.5 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, and 3.6g fat; no added oil or sauce counted |
+| Beef shank | 100g | Cooked, edible meat (assumed) | 200 | 34.0 | 0.0 | 7.0 | Assumed cooked weight excluding bones; estimated consistently with established cooked beef shank values per 100g: 200 calories, 34g protein, 0g carbs, and 7g fat |
+
+**Daily Total:** 2738 calories, 135.3g protein, 236.8g carbs, 123.5g fat
+
+### 2026-10-23
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| The Little Potato Company Creamer Potatoes | 560g | Raw/as packaged (assumed) | 407 | 10.2 | 81.5 | 0.0 | Assumed raw weight and plain potatoes with no added oil; variety unspecified, using company Little Yellows label per 110g: 80 calories, 2g protein, 16g carbs, 0g fat; source: https://www.littlepotatoes.com/product/little-yellows/ |
+| Chicken breast, cooked | 300g | Cooked, weighed cooked | 495 | 93.0 | 0.0 | 10.8 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, and 3.6g fat; no added oil or sauce counted |
+| Crofter's Organic Premium Raspberry Spread | 3 servings (54g) | Prepared | 90 | 0.0 | 24.0 | 0.0 | Assumed same Organic Premium Raspberry Spread as prior logs; based on established label per 18g tablespoon: 30 calories, 0g protein, 8g carbs, 0g fat |
+
+| Simply Nature Organic Multigrain Sourdough Bread | 235g | Prepared | 546 | 16.8 | 100.7 | 4.2 | Scaled from established product nutrition per 56g serving: 130 calories, 4g protein, 24g carbs, and 1g fat |
+
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Breakstone's 4% Small Curd Cottage Cheese | 190g | Prepared | 202 | 20.2 | 10.1 | 8.4 | Portion chosen to use remaining calories after berries; scaled from 113g label: 120 calories, 12g protein, 6g carbs, 5g fat; rounded values. Source: https://www.shoprite.com/sm/delivery/rsid/427/product/breakstones-4-milkfat-min-small-curd-cottage-cheese-4-oz-4-count-id-00840371200223 |
+
+| Asian pear | 215g | Raw, edible portion (assumed) | 90 | 1.1 | 22.9 | 0.5 | Assumes weight excludes core; estimated from established USDA Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat |
+
+**Daily Total:** 1990 calories, 143.3g protein, 277.2g carbs, 25.9g fat
+
+### 2026-10-24
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Breakstone's 4% Small Curd Cottage Cheese | 4 servings (452g) | Prepared | 480 | 48.0 | 24.0 | 20.0 | Increased from 3 to 4 servings per Jason; based on established 113g serving: 120 calories, 12g protein, 6g carbs, 5g fat |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Planned for October 24 per Jason; estimated using established standard honey nutrition |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Planned for October 24 per Jason; based on established product label per 140g serving; scaled to 280g |
+| White rice | 400g | Cooked, weighed cooked | 520 | 10.8 | 112.8 | 1.2 | Planned for October 24 per Jason; scaled from established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Dave's Killer Bread Plain Awesome Bagel | 1 bagel (95g) | Prepared | 260 | 10.0 | 52.0 | 3.0 | Planned for October 24 per Jason; official company nutrition per 95g bagel: 260 calories, 10g protein, 52g carbs, 3g fat; source: https://www.daveskillerbread.com/nutrition |
+
+| Chicken breast, cooked | 400g total | Cooked, weighed cooked | 660 | 124.0 | 0.0 | 14.4 | Includes original 300g plus 100g additional per Jason; estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, and 3.6g fat; no added oil or sauce counted |
+
+| Beef shank | 50g | Cooked, edible meat (assumed) | 100 | 17.0 | 0.0 | 3.5 | Assumed cooked weight excluding bones; estimated consistently with established cooked beef shank values per 100g: 200 calories, 34g protein, 0g carbs, and 7g fat |
+| Kimchi | 150g | Prepared | 23 | 1.5 | 3.6 | 0.8 | Estimated from established generic kimchi values per 100g: 15 calories, 1g protein, 2.4g carbs, and 0.5g fat; brand and recipe unspecified |
+
+**Daily Total:** 2267 calories, 213.3g protein, 247.6g carbs, 44.9g fat
+
+### 2026-10-25
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Sweet potato | 750g | Raw, weighed raw | 645 | 11.8 | 150.9 | 0.4 | For October 25 per Jason; variety unspecified, using generic raw sweet potato values per 100g: 86 calories, 1.57g protein, 20.12g carbs, 0.05g fat; no added oil counted; USDA reference: https://www.growables.org/informationVeg/documents/IpomNutrientRaw.pdf |
+| Pork shoulder | 500g | Cooked, edible meat (assumed) | 1150 | 145.0 | 0.0 | 65.0 | For October 25 per Jason; cooked weight provided; assumes bones excluded; estimated from established cooked pork shoulder basis per 100g: 230 calories, 29g protein, 0g carbs, and 13g fat; leanness varies; no added oil or sauce counted |
+
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Based on established product label per 140g serving; scaled to 280g |
+| Asian pear | 280g | Raw, edible portion (assumed) | 118 | 1.4 | 29.8 | 0.6 | Assumes weight excludes core; estimated from established USDA Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat |
+| Chicken breast, cooked | 120g | Cooked, weighed cooked | 198 | 37.2 | 0.0 | 4.3 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, and 3.6g fat; no added oil or sauce counted |
+
+**Daily Total:** 2271 calories, 197.4g protein, 218.7g carbs, 72.3g fat
