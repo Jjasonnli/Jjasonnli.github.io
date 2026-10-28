@@ -2010,3 +2010,39 @@ Use this file to track daily food intake, calories, and macros.
 | Chicken breast, cooked | 120g | Cooked, weighed cooked | 198 | 37.2 | 0.0 | 4.3 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, and 3.6g fat; no added oil or sauce counted |
 
 **Daily Total:** 2271 calories, 197.4g protein, 218.7g carbs, 72.3g fat
+
+### 2026-10-26
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Dave's Killer Bread Plain Awesome Bagel | 1 bagel (95g) | Prepared | 260 | 10.0 | 52.0 | 3.0 | Assumed same Plain Awesome bagel as prior logs; official company nutrition per 95g bagel: 260 calories, 10g protein, 52g carbs, 3g fat; source: https://www.daveskillerbread.com/nutrition |
+| Chicken thigh, skinless and boneless | 100g | Cooked, weighed cooked | 210 | 26.0 | 0.0 | 11.0 | Estimated consistently with prior cooked skinless chicken thigh entries: approximately 210 calories, 26g protein, 0g carbs, and 11g fat per 100g; no added oil or sauce counted |
+
+| Chinese pineapple bun | 90g | Prepared | 315 | 6.3 | 50.4 | 9.9 | Estimated by scaling established 100g pineapple bun values: 350 calories, 7g protein, 56g carbs, 11g fat; bakery and recipe unspecified |
+| Dinner | 2750 calories worth | Prepared | 2750 | 229.2 | 229.2 | 101.9 | Calories provided by Jason and kept fixed; equal split by calories across protein, carbs, and fat (about 916.7 calories each); macros are placeholders, rounded to 0.1g |
+
+| Additional calories | 500 calories worth | Not specified | 500 | 41.7 | 41.7 | 18.5 | Calories provided by Jason and kept fixed; equal calorie split across protein, carbs, and fat (about 166.7 calories each); placeholder macros rounded to 0.1g |
+
+**Daily Total:** 4035 calories, 313.2g protein, 373.3g carbs, 144.3g fat
+
+### 2026-10-27
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Frozen blueberries | 280g | Frozen | 160 | 2.0 | 34.0 | 2.0 | Estimated from established frozen blueberry values per 140g: 80 calories, 1g protein, 17g carbs, 1g fat; assumed unsweetened |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual Original variety; established product label per 32g serving |
+| Honey | 15g | Prepared | 45 | 0.0 | 12.3 | 0.0 | Estimated using established standard honey nutrition |
+
+| Chinese pineapple bun | 1 bun (100g) | Prepared | 350 | 7.0 | 56.0 | 11.0 | Estimated using established 100g pineapple bun values; bakery and recipe unspecified |
+
+| Chicken breast, cooked | 300g | Cooked, weighed cooked | 495 | 93.0 | 0.0 | 10.8 | Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+
+| Quaker Original/plain rice cake (assumed lightly salted) | 1 cake | Prepared | 35 | 1.0 | 7.0 | 0.0 | Estimated using established Quaker Original/plain rice cake values per cake: 35 calories, 1g protein, 7g carbs, 0g fat |
+| Breakstone's 2% Milkfat Lowfat Small Curd Cottage Cheese | 1 serving (113g) | Prepared | 100 | 12.0 | 6.0 | 2.5 | Assumed 113g serving; label lists 100 calories, 12g protein, 6g carbs, 2.5g fat; source: https://directionsforme.org/product/390795 |
+
+| Potatoes | 500g | Raw, weighed raw | 385 | 10.3 | 87.5 | 0.5 | Estimated using generic raw potato values per 100g: 77 calories, 2.05g protein, 17.49g carbs, 0.09g fat; macros rounded to 0.1g; variety unspecified; no added oil, butter, or sauce counted |
+
+| Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; estimated from established Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; macros rounded to 0.1g |
+
+**Daily Total:** 2096 calories, 169.8g protein, 254.8g carbs, 43.5g fat
