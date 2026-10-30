@@ -2046,3 +2046,41 @@ Use this file to track daily food intake, calories, and macros.
 | Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; estimated from established Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; macros rounded to 0.1g |
 
 **Daily Total:** 2096 calories, 169.8g protein, 254.8g carbs, 43.5g fat
+
+### 2026-10-28
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berries; established product label per 140g serving, scaled to 280g |
+| Chinese pineapple bun | 100g | Prepared | 350 | 7.0 | 56.0 | 11.0 | Estimated using established 100g pineapple bun values; bakery and recipe unspecified |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using standard honey nutrition; consistent with latest 21g tracker entry |
+| Chicken breast, cooked | 320g total | Cooked, weighed cooked | 528 | 99.2 | 0.0 | 11.5 | Includes original 300g plus 20g additional per Jason; estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+
+| Crofter's Organic Premium Strawberry Spread | 2 servings (2 tbsp) | Prepared | 60 | 0.0 | 16.0 | 0.0 | Assumed Premium variety; label per 1 tbsp serving: 30 calories, 0g protein, 8g carbs, 0g fat; source: https://croftersorganic.com/products/premium-strawberry-ca |
+
+| Member's Mark Lactose-Free 2% Reduced Fat Milk | 200g | Liquid, weighed | 98 | 6.6 | 9.8 | 3.7 | Estimated from available product data per 240mL cup: 120 calories, 8g protein, 12g carbs, 4.5g fat; assumed approximately 244g per cup for weight conversion; current Sam's Club page inaccessible; source: https://food.saltie.app/food/4ac5f0e8-2fc1-4480-a7bc-6c24d3ad4ac7 |
+
+| Multi Grain Cheerios | 114g | Dry, as packaged | 438 | 8.8 | 93.5 | 4.4 | Scaled from established label per 39g serving: 150 calories, 3g protein, 32g carbs, 1.5g fat; cereal only, milk logged separately; source: https://www.cheerios.com/products/multi-grain-cheerios |
+
+| Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; estimated from established Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; macros rounded to 0.1g |
+
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Saved estimate for one 128g bagel; exact nutrition label unavailable; no toppings included |
+
+**Daily Total:** 2374 calories, 173.1g protein, 344.5g carbs, 35.3g fat
+
+### 2026-10-29
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Planned for October 29 per Jason; Assumed usual mixed berries; established product label per 140g serving, scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Planned for October 29 per Jason; Estimated using established standard honey nutrition |
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 2 bagels (256g assumed total) | Prepared | 700 | 24.0 | 140.0 | 4.0 | Includes original bagel plus another per Jason; saved estimate per 128g bagel: 350 calories, 12g protein, 70g carbs, 2g fat; exact nutrition label unavailable; no toppings included |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Planned for October 29 per Jason; Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Chicken breast, cooked | 300g | Cooked, weighed cooked | 495 | 93.0 | 0.0 | 10.8 | Planned for October 29 per Jason; Estimated using established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+| White rice | 400g | Cooked, weighed cooked | 520 | 10.8 | 112.8 | 1.2 | Planned for October 29 per Jason; Scaled from established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+
+| Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; estimated from established Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; macros rounded to 0.1g |
+| Miscellaneous calories | 300 calories worth total | Not specified | 300 | 0.0 | 0.0 | 0.0 | Includes original 100 plus 200 additional calories provided by Jason; macros not specified |
+
+**Daily Total:** 2565 calories, 167.3g protein, 352.0g carbs, 18.7g fat
