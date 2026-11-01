@@ -2084,3 +2084,53 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous calories | 300 calories worth total | Not specified | 300 | 0.0 | 0.0 | 0.0 | Includes original 100 plus 200 additional calories provided by Jason; macros not specified |
 
 **Daily Total:** 2565 calories, 167.3g protein, 352.0g carbs, 18.7g fat
+
+### 2026-10-30
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, cooked | 310g | Cooked, weighed cooked | 512 | 96.1 | 0.0 | 11.2 | Estimated from established cooked skinless chicken breast values per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+| White rice | 110g | Cooked, weighed cooked | 143 | 3.0 | 31.0 | 0.3 | Scaled from established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Jessica's Brick Oven Tuscan Wheat Bread | 290g | Prepared | 483 | 24.2 | 96.7 | 0.0 | Scaled from 48g serving size confirmed by Jason and previously discussed nutrition per serving: 80 calories, 4g protein, 16g carbs, 0g fat; calories and macros rounded |
+| Crofter's Organic Premium Strawberry Spread | 40g | Prepared | 67 | 0.0 | 17.8 | 0.0 | Assumed Premium variety and 18g tablespoon serving; scaled from 30 calories, 0g protein, 8g carbs, 0g fat per serving |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual Original variety; established product label per 32g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berries; established product label per 140g serving, scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+
+| Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; estimated from established Asian pear values per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat; macros rounded to 0.1g |
+
+| Lean pork | 300g | Cooked, weighed cooked | 600 | 87.0 | 0.0 | 24.0 | Cut unspecified; estimated consistently with prior generic cooked lean pork entries per 100g: 200 calories, 29g protein, 0g carbs, 8g fat; assumes edible meat with no added oil or sauce |
+
+**Daily Total:** 2555 calories, 256.8g protein, 252.7g carbs, 54.2g fat
+
+### 2026-10-31
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berries; established product label per 140g serving, scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Wellsley Farms NY Style Cinnamon Raisin Bagel | 1 bagel (128g assumed) | Prepared | 350 | 12.0 | 70.0 | 2.0 | Saved estimate for one 128g bagel; exact nutrition label unavailable; no toppings included |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+
+| Indian buffet | 3619 calories worth | Prepared | 3619 | 271.4 | 452.4 | 80.4 | Combined buffet plus kimchi, broccoli salad, and chicken subtotal fixed at 4000 calories per Jason; buffet is 4000 minus 23 minus 110 minus 248 = 3619. Requested carb-heavy macros interpreted as 50% of buffet calories from carbs, 30% protein, 20% fat; placeholder allocation, not calculated from specific buffet portions; rounded to 0.1g |
+| Kimchi | 150g | Prepared | 23 | 1.5 | 3.6 | 0.8 | Estimated from established generic kimchi basis per 100g: 15 calories, 1g protein, 2.4g carbs, 0.5g fat; included within the 4000-calorie subtotal |
+| Broccoli salad with mayo | 100g | Prepared | 110 | 2.4 | 6.8 | 8.4 | Estimated consistently with prior broccoli salad with mayo entries; recipe and mayo amount vary; included within the 4000-calorie subtotal |
+| Chicken breast, cooked | 150g | Cooked, weighed cooked | 248 | 46.5 | 0.0 | 5.4 | Estimated from established cooked chicken breast basis per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; included within the 4000-calorie subtotal |
+
+**Daily Total:** 4774 calories, 371.8g protein, 600.0g carbs, 99.0g fat
+
+### 2026-11-01
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual yogurt; established label per 170g: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berries; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Breakstone's 2% Milkfat Lowfat Small Curd Cottage Cheese | 2 servings (226g) | Prepared | 200 | 24.0 | 12.0 | 5.0 | Assumed same 113g serving used previously: 100 calories, 12g protein, 6g carbs, 2.5g fat |
+| Chicken breast, cooked | 180g | Cooked, weighed cooked | 297 | 55.8 | 0.0 | 6.5 | Estimated per 100g cooked skinless breast: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce |
+| Beef shank | 130g | Cooked, edible meat (assumed) | 260 | 44.2 | 0.0 | 9.1 | Assumes weight excludes bones; established cooked beef shank estimate per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; no added oil or sauce |
+| Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; established per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat |
+| White rice | 500g | Cooked, weighed cooked | 650 | 13.5 | 141.0 | 1.5 | Established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+
+**Daily Total:** 1957 calories, 177.0g protein, 252.2g carbs, 24.8g fat
