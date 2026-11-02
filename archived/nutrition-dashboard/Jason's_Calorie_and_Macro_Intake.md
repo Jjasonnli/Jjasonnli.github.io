@@ -2133,4 +2133,6 @@ Use this file to track daily food intake, calories, and macros.
 | Asian pear | 300g | Raw, edible portion (assumed) | 126 | 1.5 | 32.0 | 0.7 | Assumes weight excludes core; established per 100g: 42 calories, 0.5g protein, 10.65g carbs, 0.23g fat |
 | White rice | 500g | Cooked, weighed cooked | 650 | 13.5 | 141.0 | 1.5 | Established cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
 
-**Daily Total:** 1957 calories, 177.0g protein, 252.2g carbs, 24.8g fat
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+
+**Daily Total:** 2057 calories, 177.0g protein, 252.2g carbs, 24.8g fat
