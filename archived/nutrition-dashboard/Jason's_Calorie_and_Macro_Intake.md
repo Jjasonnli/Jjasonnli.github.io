@@ -2136,3 +2136,29 @@ Use this file to track daily food intake, calories, and macros.
 | Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
 
 **Daily Total:** 2057 calories, 177.0g protein, 252.2g carbs, 24.8g fat
+
+### 2026-11-02
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Jessica's Brick Oven Tuscan Wheat Bread | 120g | Prepared | 200 | 10.0 | 40.0 | 0.0 | Scaled from 48g serving confirmed by Jason: 80 calories, 4g protein, 16g carbs, 0g fat |
+| Member's Mark Fruity Snacks | 1 pouch (23g) | Prepared | 70 | 1.0 | 17.0 | 0.0 | Assumed fruit pack means the same Fruity Snacks pouch logged previously; established values per pouch |
+| Hotpot dinner | 3000 calories worth total | Prepared | 3000 | 300.0 | 225.0 | 100.0 | November 2 dinner; original 2500 plus 500 additional calories per Jason. Protein-heavy placeholder split retained: 40% of calories protein, 30% carbs, 30% fat; not calculated from ingredients or portions |
+
+**Daily Total:** 3270 calories, 311.0g protein, 282.0g carbs, 100.0g fat
+
+### 2026-11-03
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Plain Bagel | 2 bagels total | Prepared | 660 | 28.0 | 156.0 | 2.0 | Includes original bagel plus one additional per Jason; 330 calories each per Jason; protein, carbs, and fat remain prior third-party estimates scaled to 2 bagels; no toppings included |
+| Chinese pineapple bun | 100g | Prepared | 350 | 7.0 | 56.0 | 11.0 | Estimated using established 100g pineapple bun values; bakery and recipe unspecified |
+
+| Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Stick | 4 sticks total | Prepared | 200 | 24.0 | 0.0 | 8.0 | Includes prior 2 sticks plus 2 additional per Jason; estimated per stick: 50 calories, 6g protein, 0g carbs, 2g fat |
+
+| Member's Mark plain nonfat Greek yogurt | 3 servings (510g) | Prepared | 300 | 54.0 | 18.0 | 0.0 | Assumed usual yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 460g | Frozen | 263 | 3.3 | 62.4 | 3.3 | Assumed usual mixed berry blend; scaled from established label per 140g: 80 calories, 1g protein, 19g carbs, 1g fat; rounded |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Assumed same product as previous logs; established values per shake: 160 calories, 30g protein, 3g carbs, 2.5g fat; flavor unspecified |
+
+**Daily Total:** 1997 calories, 146.3g protein, 312.6g carbs, 26.8g fat
