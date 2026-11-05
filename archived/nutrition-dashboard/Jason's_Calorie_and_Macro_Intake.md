@@ -2162,3 +2162,36 @@ Use this file to track daily food intake, calories, and macros.
 | Member's Mark protein shake | 1 shake | Prepared | 160 | 30.0 | 3.0 | 2.5 | Assumed same product as previous logs; established values per shake: 160 calories, 30g protein, 3g carbs, 2.5g fat; flavor unspecified |
 
 **Daily Total:** 1997 calories, 146.3g protein, 312.6g carbs, 26.8g fat
+
+### 2026-11-04
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Plain Bagel | 1 bagel | Prepared | 330 | 14.0 | 78.0 | 1.0 | 330 calories per Jason; macros remain previous third-party estimates; no toppings included |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual Original variety; established label per 32g serving |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Chicken breast, cooked | 200g total | Cooked, weighed cooked | 330 | 62.0 | 0.0 | 7.2 | Original 100g plus 100g additional per Jason; estimated per 100g cooked skinless chicken breast: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+
+| Taro | 400g | Raw, weighed raw | 448 | 6.0 | 105.8 | 0.8 | Assumes peeled edible weight; estimated from USDA raw taro values per 100g: 112 calories, 1.5g protein, 26.46g carbs, 0.2g fat; no added oil or sauce; source: https://nutri-db.com/en/foods/169308 |
+
+| Additional calories | 1000 calories worth | Not specified | 1000 | 25.0 | 125.0 | 44.4 | Calories provided by Jason for November 4; carb- and fat-heavy placeholder allocation: 50% of calories carbs, 40% fat, 10% protein; not derived from specific foods; fat rounded to 0.1g |
+
+**Daily Total:** 2632 calories, 134.0g protein, 378.0g carbs, 71.4g fat
+
+### 2026-11-05
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Pancakes, plain | 150g | Cooked, weighed cooked | 341 | 9.6 | 42.5 | 14.6 | Generic recipe estimate per 100g: 227 calories, 6.4g protein, 28.3g carbs, 9.7g fat; no syrup or toppings counted; source: https://batchbase.com.au/usda-foods/175009 |
+| Scrambled eggs | 200g | Cooked, weighed cooked | 298 | 20.0 | 3.2 | 22.0 | Generic prepared scrambled egg estimate per 100g: 149 calories, 9.99g protein, 1.61g carbs, about 11g fat; recipe and cooking fat unspecified; source: https://nutritiondatahub.com/food/egg-whole-cooked-scrambled-172187 |
+| Miscellaneous calories | 150 calories worth | Not specified | 150 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+| Wellsley Farms Plain Bagel | 1 bagel | Prepared | 330 | 14.0 | 78.0 | 1.0 | 330 calories per Jason; macros remain previous third-party estimates; no toppings included |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Chicken breast, cooked | 330g | Cooked, weighed cooked | 545 | 102.3 | 0.0 | 11.9 | Estimated per 100g cooked skinless chicken breast: 165 calories, 31g protein, 0g carbs, 3.6g fat; rounded; no added oil or sauce counted |
+| White rice, cooked | 200g | Cooked, weighed cooked | 260 | 5.4 | 56.4 | 0.6 | Estimated per 100g cooked white rice: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+
+**Daily Total:** 2248 calories, 171.3g protein, 241.3g carbs, 52.1g fat
