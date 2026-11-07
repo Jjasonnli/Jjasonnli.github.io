@@ -2186,7 +2186,7 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Pancakes, plain | 150g | Cooked, weighed cooked | 341 | 9.6 | 42.5 | 14.6 | Generic recipe estimate per 100g: 227 calories, 6.4g protein, 28.3g carbs, 9.7g fat; no syrup or toppings counted; source: https://batchbase.com.au/usda-foods/175009 |
 | Scrambled eggs | 200g | Cooked, weighed cooked | 298 | 20.0 | 3.2 | 22.0 | Generic prepared scrambled egg estimate per 100g: 149 calories, 9.99g protein, 1.61g carbs, about 11g fat; recipe and cooking fat unspecified; source: https://nutritiondatahub.com/food/egg-whole-cooked-scrambled-172187 |
-| Miscellaneous calories | 150 calories worth | Not specified | 150 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+| Miscellaneous calories | 350 calories worth total | Not specified | 350 | 0.0 | 0.0 | 0.0 | Original 150 plus 200 additional calories provided by Jason; macros not specified. |
 | Wellsley Farms Plain Bagel | 1 bagel | Prepared | 330 | 14.0 | 78.0 | 1.0 | 330 calories per Jason; macros remain previous third-party estimates; no toppings included |
 | Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
 | Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
@@ -2194,4 +2194,22 @@ Use this file to track daily food intake, calories, and macros.
 | Chicken breast, cooked | 330g | Cooked, weighed cooked | 545 | 102.3 | 0.0 | 11.9 | Estimated per 100g cooked skinless chicken breast: 165 calories, 31g protein, 0g carbs, 3.6g fat; rounded; no added oil or sauce counted |
 | White rice, cooked | 200g | Cooked, weighed cooked | 260 | 5.4 | 56.4 | 0.6 | Estimated per 100g cooked white rice: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
 
-**Daily Total:** 2248 calories, 171.3g protein, 241.3g carbs, 52.1g fat
+| Asian pear | 300g | Raw, edible portion | 126 | 1.5 | 32.0 | 0.7 | Estimated using established Asian pear values; assumes edible weight excluding core |
+
+**Daily Total:** 2574 calories, 172.8g protein, 273.3g carbs, 52.8g fat
+
+### 2026-11-06
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Chicken breast, cooked | 340g | Cooked, weighed cooked (assumed) | 561 | 105.4 | 0.0 | 12.2 | Assumed cooked weight consistent with recent logs; established cooked skinless chicken breast per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Taro | 700g | Raw, weighed raw | 784 | 10.5 | 185.2 | 1.4 | Assumes peeled edible weight; established raw taro per 100g: 112 calories, 1.5g protein, 26.46g carbs, 0.2g fat; no added oil or sauce counted |
+| Lean pork | 140g total | Cooked, weighed cooked | 280 | 40.6 | 0.0 | 11.2 | Original 60g plus 80g additional per Jason; assumed generic cooked lean pork per 100g: 200 calories, 29g protein, 0g carbs, 8g fat; no added oil or sauce counted |
+| SunButter Original sunflower seed butter | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual Original variety; established label per 32g serving |
+| Asian pear | 300g | Raw, edible portion | 126 | 1.5 | 32.0 | 0.7 | Estimated using established Asian pear values; assumes edible weight excluding core |
+
+**Daily Total:** 2275 calories, 185.0g protein, 286.4g carbs, 43.5g fat
+
