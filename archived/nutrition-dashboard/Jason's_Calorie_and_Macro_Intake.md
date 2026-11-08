@@ -2213,3 +2213,36 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2275 calories, 185.0g protein, 286.4g carbs, 43.5g fat
 
+### 2026-11-07
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Hard-boiled egg | 1 large egg (assumed) | Cooked | 78 | 6.3 | 0.6 | 5.3 | Assumed large egg; established standard estimate per egg |
+| Beef shank | 170g total | Cooked, weighed cooked | 340 | 57.8 | 0.0 | 11.9 | Previous 120g plus 50g additional per Jason; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes edible meat excluding bones; no added oil or sauce counted |
+| Cooked pork belly | 140g total | Cooked, weighed cooked | 728 | 12.6 | 0.0 | 74.2 | Previous 40g plus 100g additional per Jason; established cooked pork belly per 100g: 520 calories, 9g protein, 0g carbs, 53g fat; fat content varies substantially; no added oil or sauce counted |
+| White rice, cooked | 400g | Cooked, weighed cooked | 520 | 10.8 | 112.8 | 1.2 | Established cooked white rice per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Chicken breast, cooked | 220g | Cooked, weighed cooked | 363 | 68.2 | 0.0 | 7.9 | Reduced from 300g to 220g per Jason; established cooked skinless chicken breast per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; no added oil or sauce counted |
+| Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Stick | 1 stick | Prepared | 50 | 6.0 | 0.0 | 2.0 | Assumed same cheese stick as prior logs; established estimate per stick |
+| Quaker Original/plain rice cakes (assumed lightly salted) | 2 cakes | Prepared | 70 | 2.0 | 14.0 | 0.0 | Replaces the white cheddar rice cake per Jason; established Original/plain estimate per cake: 35 calories, 1g protein, 7g carbs, 0g fat |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+| Potato salad | 200g | Prepared | 286 | 5.4 | 22.3 | 16.4 | Generic home-prepared potato salad estimate; recipe and dressing amount unspecified; per 100g: 143 calories, 2.68g protein, 11.17g carbs, 8.2g fat; source: https://www.ars.usda.gov/ARSUserFiles/80400535/Data/SR/SR28/reports/sr28fg11.pdf |
+| Pork shoulder | 120g | Cooked, weighed cooked | 276 | 34.8 | 0.0 | 15.6 | Established cooked pork shoulder per 100g: 230 calories, 29g protein, 0g carbs, 13g fat; assumes edible meat excluding bones; no added oil or sauce counted |
+
+**Daily Total:** 3135 calories, 223.9g protein, 210.9g carbs, 136.5g fat
+
+### 2026-11-08
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Japanese sweet potato | 500g | Raw, weighed raw (assumed) | 630 | 6.0 | 159.5 | 1.0 | Assumed raw edible weight; established Japanese Standard Tables raw skinless sweet potato estimate per 100g: 126 calories, 1.2g protein, 31.9g carbs, 0.2g fat; cultivar may vary; no added oil counted |
+| Pork shoulder | 210g | Cooked, weighed cooked | 483 | 60.9 | 0.0 | 27.3 | Established cooked pork shoulder per 100g: 230 calories, 29g protein, 0g carbs, 13g fat; assumes edible meat excluding bones; no added oil or sauce counted |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Beef shank | 200g | Cooked, edible meat (assumed) | 400 | 68.0 | 0.0 | 14.0 | Assumed cooked weight consistent with recent logs; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes bones excluded; no added oil or sauce counted |
+
+**Daily Total:** 1837 calories, 154.9g protein, 220.7g carbs, 44.3g fat
+
