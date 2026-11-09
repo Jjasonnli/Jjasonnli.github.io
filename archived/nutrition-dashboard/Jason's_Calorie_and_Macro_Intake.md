@@ -2239,10 +2239,12 @@ Use this file to track daily food intake, calories, and macros.
 |---|---:|---|---:|---:|---:|---:|---|
 | Japanese sweet potato | 500g | Raw, weighed raw (assumed) | 630 | 6.0 | 159.5 | 1.0 | Assumed raw edible weight; established Japanese Standard Tables raw skinless sweet potato estimate per 100g: 126 calories, 1.2g protein, 31.9g carbs, 0.2g fat; cultivar may vary; no added oil counted |
 | Pork shoulder | 210g | Cooked, weighed cooked | 483 | 60.9 | 0.0 | 27.3 | Established cooked pork shoulder per 100g: 230 calories, 29g protein, 0g carbs, 13g fat; assumes edible meat excluding bones; no added oil or sauce counted |
-| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Member's Mark plain nonfat Greek yogurt | 2 servings total (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Original serving plus one additional per Jason; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
 | Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
 | Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
 | Beef shank | 200g | Cooked, edible meat (assumed) | 400 | 68.0 | 0.0 | 14.0 | Assumed cooked weight consistent with recent logs; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes bones excluded; no added oil or sauce counted |
+| Miscellaneous calories | 200 calories worth | Not specified | 200 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+| Asian pear | 300g | Raw, edible portion | 126 | 1.5 | 32.0 | 0.7 | Estimated using established Asian pear values; assumes edible weight excluding core |
 
-**Daily Total:** 1837 calories, 154.9g protein, 220.7g carbs, 44.3g fat
+**Daily Total:** 2263 calories, 174.4g protein, 258.7g carbs, 45.0g fat
 
