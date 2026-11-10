@@ -2248,3 +2248,14 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2263 calories, 174.4g protein, 258.7g carbs, 45.0g fat
 
+### 2026-11-09
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Quaker Original/plain rice cakes (assumed lightly salted) | 7 cakes | Prepared | 245 | 7.0 | 49.0 | 0.0 | Established Original/plain estimate per cake: 35 calories, 1g protein, 7g carbs, 0g fat |
+| Beef shank | 100g | Cooked, edible meat (assumed) | 200 | 34.0 | 0.0 | 7.0 | Assumed cooked weight consistent with recent logs; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes bones excluded; no added oil or sauce counted |
+| Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Stick | 2 sticks | Prepared | 100 | 12.0 | 0.0 | 4.0 | Assumed same cheese sticks as prior logs; established estimate per stick: 50 calories, 6g protein, 0g carbs, 2g fat |
+| Dinner | 2000 calories worth | Prepared, portions unspecified | 2000 | 200.0 | 200.0 | 44.4 | Calories provided by Jason; protein- and carb-heavy placeholder allocation: 40% of calories protein, 40% carbs, 20% fat; macros estimated, not derived from specific foods; fat rounded to 0.1g |
+
+**Daily Total:** 2545 calories, 253.0g protein, 249.0g carbs, 55.4g fat
+
