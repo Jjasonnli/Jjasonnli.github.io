@@ -2255,7 +2255,24 @@ Use this file to track daily food intake, calories, and macros.
 | Quaker Original/plain rice cakes (assumed lightly salted) | 7 cakes | Prepared | 245 | 7.0 | 49.0 | 0.0 | Established Original/plain estimate per cake: 35 calories, 1g protein, 7g carbs, 0g fat |
 | Beef shank | 100g | Cooked, edible meat (assumed) | 200 | 34.0 | 0.0 | 7.0 | Assumed cooked weight consistent with recent logs; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes bones excluded; no added oil or sauce counted |
 | Member's Mark Low-Moisture Part-Skim Mozzarella Cheese Stick | 2 sticks | Prepared | 100 | 12.0 | 0.0 | 4.0 | Assumed same cheese sticks as prior logs; established estimate per stick: 50 calories, 6g protein, 0g carbs, 2g fat |
-| Dinner | 2000 calories worth | Prepared, portions unspecified | 2000 | 200.0 | 200.0 | 44.4 | Calories provided by Jason; protein- and carb-heavy placeholder allocation: 40% of calories protein, 40% carbs, 20% fat; macros estimated, not derived from specific foods; fat rounded to 0.1g |
+| Dinner | 2500 calories worth total | Prepared, portions unspecified | 2500 | 250.0 | 250.0 | 55.6 | Original 2000 plus 500 additional calories per Jason; retained protein- and carb-heavy placeholder allocation: 40% of calories protein, 40% carbs, 20% fat; macros estimated, not derived from specific foods; fat rounded to 0.1g |
+| Nature's Bakery Strawberry Oatmeal Crumble bars | 2 bars (40g each, 80g total) | Prepared | 300 | 4.0 | 58.0 | 6.0 | Manufacturer nutrition per 40g package: 150 calories, 2g protein, 29g carbs, 3g fat; assumes two individually wrapped bars; source: https://naturesbakery.com/collections/shop-all/products/oatmeal-crumble-strawberry |
 
-**Daily Total:** 2545 calories, 253.0g protein, 249.0g carbs, 55.4g fat
+**Daily Total:** 3345 calories, 307.0g protein, 357.0g carbs, 72.6g fat
+
+### 2026-11-10
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Sesame Seed Bagel | 1 bagel | Prepared | 330 | 14.0 | 78.0 | 2.5 | Corrected to 330 calories per Jason; protein, carbs, and fat remain prior third-party estimates because label macros were not provided; no toppings counted |
+| Nature's Bakery Strawberry Oatmeal Crumble bar | 1 bar (40g) | Prepared | 150 | 2.0 | 29.0 | 3.0 | Established manufacturer nutrition per 40g package: 150 calories, 2g protein, 29g carbs, 3g fat; source: https://naturesbakery.com/collections/shop-all/products/oatmeal-crumble-strawberry |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual yogurt; established label per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Asian pear | 300g | Raw, edible portion | 126 | 1.5 | 32.0 | 0.7 | Estimated using established Asian pear values; assumes edible weight excluding core |
+| Chinese pineapple bun | 1 bun (100g assumed) | Prepared | 350 | 7.0 | 56.0 | 11.0 | Assumed usual 100g bun based on prior logs; established estimate: 350 calories, 7g protein, 56g carbs, 11g fat; bakery and recipe unspecified |
+| Beef shank | 310g | Cooked, weighed cooked | 620 | 105.4 | 0.0 | 21.7 | Established cooked beef shank estimate per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes edible meat excluding bones; no added oil or sauce counted |
+| Japanese sweet potato, steamed | 440g | Steamed, weighed cooked | 576 | 5.3 | 140.4 | 0.9 | Assumes cooked edible flesh without skin; Japanese Standard Tables steamed sweet potato per 100g: 131 calories, 1.2g protein, 31.9g carbs, 0.2g fat; rounded; cultivar may vary; no added oil or sauce counted; source: https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=2_02007_7 |
+
+**Daily Total:** 2476 calories, 155.2g protein, 396.6g carbs, 41.8g fat
 
