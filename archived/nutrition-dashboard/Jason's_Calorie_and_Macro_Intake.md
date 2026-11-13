@@ -2276,3 +2276,33 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2476 calories, 155.2g protein, 396.6g carbs, 41.8g fat
 
+### 2026-11-11
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Sesame Seed Bagel | 1 bagel | Prepared | 330 | 14.0 | 78.0 | 2.5 | 330 calories per Jason; protein, carbs, and fat remain prior third-party estimates because label macros were not provided; no toppings counted |
+| Chinese pineapple buns | 2 buns (100g each, 200g total) | Prepared | 700 | 14.0 | 112.0 | 22.0 | Assumed usual 100g buns; established estimate per bun: 350 calories, 7g protein, 56g carbs, 11g fat; bakery and recipe unspecified |
+| Member's Mark plain nonfat Greek yogurt | 1 serving (170g) | Prepared | 100 | 18.0 | 6.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Beef shank | 300g | Cooked, weighed cooked | 600 | 102.0 | 0.0 | 21.0 | Established cooked beef shank estimate per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes edible meat excluding bones; no added oil or sauce counted |
+| Japanese sweet potato, steamed | 170g | Steamed, weighed cooked | 223 | 2.0 | 54.2 | 0.3 | Assumes cooked edible flesh without skin; established Japanese Standard Tables steamed sweet potato per 100g: 131 calories, 1.2g protein, 31.9g carbs, 0.2g fat; rounded; no added oil or sauce counted; source: https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=2_02007_7 |
+| Miscellaneous calories | 100 calories worth | Not specified | 100 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+| Nature's Bakery Original Fig bars | 2 bars (1 full twin pack, 57g) | Prepared | 200 | 3.0 | 37.0 | 5.0 | Corrected per Jason to both bars in the twin pack; assumed Original Fig flavor; manufacturer nutrition per 57g package; source: https://naturesbakery.com/products/original-fig |
+
+**Daily Total:** 2477 calories, 155.0g protein, 342.4g carbs, 52.8g fat
+
+### 2026-11-12
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Beef shank | 300g | Cooked, edible meat (assumed) | 600 | 102.0 | 0.0 | 21.0 | Assumed cooked weight consistent with recent logs; established cooked beef shank per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; assumes bones excluded; no added oil or sauce counted |
+| White rice, cooked | 200g | Cooked, weighed cooked | 260 | 5.4 | 56.4 | 0.6 | Reduced from 400g to 200g per Jason; established cooked white rice per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Wellsley Farms Sesame Seed Bagel | 2 bagels total | Prepared | 680 | 24.0 | 136.0 | 4.0 | Original bagel plus one additional per Jason; each bagel: 340 calories and 68g carbs provided by Jason, estimated 12g protein and 2g fat; no toppings counted |
+| Miscellaneous calories | 350 calories worth | Not specified | 350 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified. |
+
+**Daily Total:** 2314 calories, 169.4g protein, 259.6g carbs, 27.6g fat
+
