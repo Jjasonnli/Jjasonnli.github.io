@@ -2306,3 +2306,50 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2314 calories, 169.4g protein, 259.6g carbs, 27.6g fat
 
+### 2026-11-13
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Beef shank | 210g | Cooked, edible meat (assumed) | 420 | 71.4 | 0.0 | 14.7 | Reduced from 300g to 210g at Jason's request to fit eggs and SunButter under the 1900-calorie target; established cooked estimate per 100g: 200 calories, 34g protein, 0g carbs, 7g fat; bones excluded; no added oil or sauce counted |
+| Wellsley Farms Sesame Seed Bagel | 2 bagels | Prepared | 680 | 24.0 | 136.0 | 4.0 | Each bagel: 340 calories and 68g carbs provided by Jason; protein estimated at 12g and fat at 2g per bagel; no toppings counted |
+| Hard-boiled eggs | 2 large eggs (about 100g edible) | Cooked, peeled | 156 | 12.6 | 1.2 | 10.6 | Assumed 2 large hard-boiled eggs; standard estimate per egg: 78 calories, 6.3g protein, 0.6g carbs, 5.3g fat |
+| SunButter Original | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual SunButter Original; established label per 32g serving: 200 calories, 7g protein, 8g carbs, 16g fat |
+| Miscellaneous calories | 250 calories total | Not specified | 250 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; initial 100 calories plus an additional 150 calories; macros not specified |
+
+**Daily Total:** 2130 calories, 153.0g protein, 212.4g carbs, 47.3g fat
+
+### 2026-11-14
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Multi Grain Cheerios | 1 serving (39g / 1 1/3 cups) | Dry, as packaged | 150 | 3.0 | 32.0 | 1.5 | Manufacturer label per 39g serving: 150 calories, 3g protein, 32g carbs, 1.5g fat; no milk included |
+| Honey | 31g | Prepared | 94 | 0.0 | 25.4 | 0.0 | 31g total specified by Jason; estimated by scaling established 21g honey values of 64 calories and 17.2g carbs, then rounding |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat; no extra 21g yogurt included following Jason's correction |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| White rice | 400g | Cooked | 520 | 10.8 | 112.8 | 1.2 | Cooked weight specified by Jason; established standard cooked white rice values per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat; no added oil or sauce counted |
+| Chicken breast | 300g | Cooked | 495 | 93.0 | 0.0 | 10.8 | Cooked weight specified by Jason; established estimate per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; skinless breast assumed; no added oil or sauce counted |
+| Hard-boiled eggs | 2 large eggs (about 100g edible) | Cooked, peeled | 156 | 12.6 | 1.2 | 10.6 | Assumed 2 large hard-boiled eggs; standard estimate per egg: 78 calories, 6.3g protein, 0.6g carbs, 5.3g fat |
+| SunButter Original | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual SunButter Original; established label per 32g serving: 200 calories, 7g protein, 8g carbs, 16g fat |
+| Wellsley Farms Everything Bagel | 1 bagel (about 128g assumed) | Prepared | 330 | 12.0 | 68.0 | 2.0 | 330 calories provided by Jason; protein, carbs, and fat remain estimates from the prior hypothetical: 12g protein, 68g carbs, 2g fat; package macros not confirmed; no toppings counted; added without reducing any white rice |
+
+**Daily Total:** 2305 calories, 176.4g protein, 297.4g carbs, 44.1g fat
+
+### 2026-11-15
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Chicken breast | 320g | Cooked | 528 | 99.2 | 0.0 | 11.5 | Increased by 20g from 300g to 320g cooked at Jason's request; usual skinless breast assumed; established estimate per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; fat rounded to one decimal; no added oil or sauce counted |
+| Member's Mark Natural Triple Berry Blend | 400g | Frozen | 229 | 2.9 | 54.3 | 2.9 | Replaced the 280g entry with 400g at Jason's request; usual label per 140g: 80 calories, 1g protein, 19g carbs, 1g fat; calories rounded to nearest whole and macros to one decimal |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Hard-boiled eggs | 2 large eggs (about 100g edible) | Cooked, peeled | 156 | 12.6 | 1.2 | 10.6 | Assumed 2 large hard-boiled eggs consistent with recent meals; standard estimate per egg: 78 calories, 6.3g protein, 0.6g carbs, 5.3g fat |
+| SunButter Original | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual SunButter Original; established label per 32g serving: 200 calories, 7g protein, 8g carbs, 16g fat |
+| White rice | 500g | Cooked | 650 | 13.5 | 141.0 | 1.5 | Updated from 480g to 500g at Jason's request; established cooked estimate per 100g: 130 calories, 2.7g protein, 28.2g carbs, 0.3g fat; no added oil or sauce counted |
+| Miscellaneous calories | 50 calories | Not specified | 50 | 0.0 | 0.0 | 0.0 | Calories provided by Jason; macros not specified |
+| Sticky rice | 200 calories (portion weight not provided) | Cooked (assumed) | 200 | 4.2 | 43.5 | 0.4 | Exact calories provided by Jason; macros estimated as plain cooked glutinous white rice using USDA SR Legacy FDC 169711 per 100g: 97 calories, 2.02g protein, 21.1g carbs, 0.19g fat, scaled to 200 calories; no fillings, added oil, coconut milk, or sugar assumed |
+
+**Daily Total:** 2277 calories, 175.4g protein, 277.2g carbs, 42.9g fat
+
