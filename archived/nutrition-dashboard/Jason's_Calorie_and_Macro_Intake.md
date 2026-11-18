@@ -2353,3 +2353,28 @@ Use this file to track daily food intake, calories, and macros.
 
 **Daily Total:** 2277 calories, 175.4g protein, 277.2g carbs, 42.9g fat
 
+### 2026-11-16
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Everything Bagel | 1 bagel (about 128g assumed) | Prepared | 330 | 12.0 | 68.0 | 2.0 | Uses Jason's established 330 calories per everything bagel; protein, carbs, and fat remain estimates: 12g protein, 68g carbs, 2g fat; package macros not confirmed; no toppings counted |
+| Chicken breast | 350g | Cooked | 578 | 108.5 | 0.0 | 12.6 | Cooked weight specified by Jason; usual skinless breast assumed; established estimate per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; calories rounded from 577.5; no added oil or sauce counted |
+| Sticky rice | 470g | Cooked | 456 | 9.5 | 99.2 | 0.9 | Cooked weight specified by Jason; assumed plain cooked glutinous white rice; USDA SR Legacy FDC 169711 per 100g: 97 calories, 2.02g protein, 21.1g carbs, 0.19g fat; calories rounded to nearest whole and macros to one decimal; no fillings, added oil, coconut milk, or sugar assumed |
+| Hard-boiled eggs | 2 large eggs (about 100g edible) | Cooked, peeled | 156 | 12.6 | 1.2 | 10.6 | Assumed 2 large hard-boiled eggs; standard estimate per egg: 78 calories, 6.3g protein, 0.6g carbs, 5.3g fat |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+
+**Daily Total:** 1944 calories, 180.6g protein, 235.6g carbs, 28.1g fat
+
+### 2026-11-17
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Korean feast (jajangmyeon and tangsuyuk) | 2500 calories worth | Prepared, portions unspecified | 2500 | 80.0 | 320.0 | 100.0 | 2500 calories provided by Jason; rough carb- and fat-heavy macro estimate for noodles, sauce, and battered fried pork: 80g protein, 320g carbs, 100g fat; dish portions and recipe unspecified; macros are an allocation estimate, not measured dish nutrition |
+| Member's Mark plain nonfat Greek yogurt | 4 servings (680g) | Prepared | 400 | 72.0 | 24.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Sweet potato, steamed | 100g | Steamed, weighed cooked (assumed) | 131 | 1.2 | 31.9 | 0.2 | Assumed usual Japanese-style sweet potato, cooked edible flesh without skin; established steamed estimate per 100g: 131 calories, 1.2g protein, 31.9g carbs, 0.2g fat; cultivar may vary; no added oil or sauce counted; source: https://fooddb.mext.go.jp/details/details.pl?ITEM_NO=2_02007_7 |
+| Member's Mark Natural Triple Berry Blend | 3 servings (420g) | Frozen | 240 | 3.0 | 57.0 | 3.0 | Assumed usual mixed berry blend; established label per 140g serving: 80 calories, 1g protein, 19g carbs, 1g fat |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+
+**Daily Total:** 3335 calories, 156.2g protein, 450.1g carbs, 103.2g fat
