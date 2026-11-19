@@ -2378,3 +2378,17 @@ Use this file to track daily food intake, calories, and macros.
 | Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
 
 **Daily Total:** 3335 calories, 156.2g protein, 450.1g carbs, 103.2g fat
+
+### 2026-11-18
+
+| Food | Amount | Weight Basis | Calories | Protein (g) | Carbs (g) | Fat (g) | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| Wellsley Farms Everything Bagel | 3 bagels | Prepared | 990 | 36.0 | 204.0 | 6.0 | Established 330 calories per bagel; macros estimated per bagel: 12g protein, 68g carbs, 2g fat; package macros not confirmed; no toppings counted |
+| Member's Mark plain nonfat Greek yogurt | 2 servings (340g) | Prepared | 200 | 36.0 | 12.0 | 0.0 | Assumed usual nonfat Greek yogurt; established label per 170g serving: 100 calories, 18g protein, 6g carbs, 0g fat |
+| Member's Mark Natural Triple Berry Blend | 280g | Frozen | 160 | 2.0 | 38.0 | 2.0 | Assumed usual mixed berry blend; established label per 140g: 80 calories, 1g protein, 19g carbs, 1g fat; scaled to 280g |
+| Honey | 21g | Prepared | 64 | 0.0 | 17.2 | 0.0 | Estimated using established standard honey nutrition |
+| Chicken breast | 350g total | Cooked | 578 | 108.5 | 0.0 | 12.6 | Original 300g plus 50g additional cooked chicken breast per Jason; usual skinless breast assumed; established estimate per 100g: 165 calories, 31g protein, 0g carbs, 3.6g fat; total calories rounded from 577.5; no added oil or sauce counted |
+| Hard-boiled egg | 1 large egg (about 50g edible) | Cooked, peeled | 78 | 6.3 | 0.6 | 5.3 | Assumed one large hard-boiled egg; established standard estimate |
+| SunButter Original | 1 serving (32g) | Prepared | 200 | 7.0 | 8.0 | 16.0 | Assumed usual SunButter Original; established label per 32g serving: 200 calories, 7g protein, 8g carbs, 16g fat |
+
+**Daily Total:** 2270 calories, 195.8g protein, 279.8g carbs, 41.9g fat
